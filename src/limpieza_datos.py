@@ -120,6 +120,9 @@ def visualizar_duplicados(df):
     plt.ylabel("Cantidad de filas")
     plt.show()
 
+def eliminar_columnas(df, columnas):
+    return df.drop(columns=columnas, errors="ignore")
+
 #guarda los datos limpios despues de las modificaciones
 def guardar_datos(df, ruta_salida):
     os.makedirs(os.path.dirname(ruta_salida), exist_ok=True)
