@@ -1,1013 +1,1013 @@
-Age,Gender,Day_of_Week,Session_Type,Tattoo_Size,Tattoo_Style,Artist_Name,Session_Hours,Final_Rate,Additional_Services,Total_Bill,Payment_Mode,Customer_Satisfaction
-36,Male,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist B,10,32471,Consultation Fee,33471,Card,1
-40,Male,Monday,Pre-booked,Medium,Custom,Artist C,4,44910,Consultation Fee,45910,UPI,4
-53,Other,Saturday,Pre-booked,Small,Custom,Artist C,1,45278,Piercing,46778,Card,3
-41,Male,Saturday,Walk-in,Small,Custom,Artist B,1,19780,Aftercare Kit,20280,Card,1
-39,Male,Thursday,Pre-booked,Medium,Realism,Artist D,2,45260,Piercing,46760,Cash,1
-19,Male,Monday,Pre-booked,Large,Tribal,Artist C,4,25607,Consultation Fee,26607,Card,4
-41,Male,Tuesday,Walk-in,Small,Script,Artist A,1,9070,Aftercare Kit,9570,Cash,2
-19,Male,Friday,Pre-booked,Medium,Minimalist,Artist D,2,21168,Aftercare Kit,21668,UPI,4
-50,Other,Wednesday,Walk-in,Small,Tribal,Artist C,1,27331,Aftercare Kit,27831,Card,2
-42,Male,Tuesday,Walk-in,Large,Realism,Artist B,5,35327,Aftercare Kit,35827,Card,1
-45,Male,Friday,Pre-booked,Medium,Script,Artist C,4,8527,Piercing,10027,UPI,1
-33,Male,Sunday,Pre-booked,Medium,Script,Artist D,2,22673,Aftercare Kit,23173,Card,2
-20,Female,Sunday,Pre-booked,Medium,Minimalist,Artist B,3,41131,Consultation Fee,42131,Card,1
-54,Male,Wednesday,Pre-booked,Medium,Tribal,Artist C,4,36836,Consultation Fee,37836,UPI,1
-24,Male,Friday,Pre-booked,Small,Tribal,Artist B,2,7768,Aftercare Kit,8268,Cash,5
-38,Male,Tuesday,Pre-booked,Small,Custom,Artist D,2,14217,Consultation Fee,15217,Card,1
-35,Female,Saturday,Pre-booked,Large,Tribal,Artist A,6,34810,Consultation Fee,35810,Card,2
-31,Male,Saturday,Walk-in,Sleeve/Back,Script,Artist D,10,48692,Aftercare Kit,49192,Cash,1
-26,Male,Monday,Walk-in,Small,Script,Artist C,2,3408,Aftercare Kit,3908,Card,5
-19,Male,Wednesday,Pre-booked,Medium,Tribal,Artist A,3,18213,Consultation Fee,19213,UPI,2
-37,Male,Friday,Pre-booked,Sleeve/Back,Realism,Artist B,7,36695,Aftercare Kit,37195,Cash,3
-45,Female,Monday,Pre-booked,Sleeve/Back,Tribal,Artist D,7,21983,Piercing,23483,UPI,4
-52,Male,Saturday,Pre-booked,Large,Minimalist,Artist C,4,27781,Aftercare Kit,28281,UPI,5
-31,Male,Saturday,Walk-in,Small,Script,Artist D,1,12289,Aftercare Kit,12789,Cash,2
-23,Male,Sunday,Walk-in,Medium,Minimalist,Artist D,3,25290,Consultation Fee,26290,Card,2
-46,Male,Tuesday,Pre-booked,Small,Minimalist,Artist A,2,21813,Consultation Fee,22813,Card,2
-35,Male,Monday,Walk-in,Large,Script,Artist A,6,17479,Piercing,18979,Card,4
-51,Male,Friday,Pre-booked,Sleeve/Back,Script,Artist B,9,20079,Consultation Fee,21079,Cash,4
-53,Male,Wednesday,Pre-booked,Large,Script,Artist C,4,43011,Piercing,44511,UPI,1
-32,Male,Friday,Pre-booked,Small,Custom,Artist A,1,3931,Piercing,5431,Cash,1
-31,Male,Wednesday,Walk-in,Sleeve/Back,Custom,Artist D,6,20362,Consultation Fee,21362,UPI,3
-38,Female,Wednesday,Pre-booked,Large,Tribal,Artist A,5,11942,Consultation Fee,12942,Card,2
-35,Female,Friday,Pre-booked,Large,Custom,Artist B,4,27745,Consultation Fee,28745,UPI,3
-41,Female,Saturday,Pre-booked,Small,Realism,Artist D,2,45052,Piercing,46552,UPI,1
-43,Male,Friday,Pre-booked,Small,Script,Artist A,2,10995,Aftercare Kit,11495,UPI,5
-42,Female,Monday,Pre-booked,Medium,Custom,Artist A,3,7753,Consultation Fee,8753,Cash,3
-42,Male,Wednesday,Walk-in,Medium,Realism,Artist B,3,46433,Piercing,47933,Card,1
-24,Female,Saturday,Walk-in,Medium,Minimalist,Artist D,3,42137,Consultation Fee,43137,Card,2
-26,Male,Saturday,Walk-in,Medium,Custom,Artist D,3,42994,Aftercare Kit,43494,UPI,3
-25,Female,Wednesday,Walk-in,Sleeve/Back,Custom,Artist B,7,29350,Consultation Fee,30350,Cash,3
-41,Female,Sunday,Pre-booked,Small,Custom,Artist D,2,17752,Aftercare Kit,18252,Cash,4
-28,Female,Tuesday,Pre-booked,Large,Tribal,Artist D,6,39545,Aftercare Kit,40045,Card,4
-52,Female,Tuesday,Walk-in,Medium,Custom,Artist A,4,41673,Piercing,43173,Cash,4
-45,Male,Monday,Walk-in,Medium,Custom,Artist B,4,37535,Piercing,39035,Cash,3
-26,Female,Thursday,Pre-booked,Small,Tribal,Artist C,1,15550,Aftercare Kit,16050,UPI,1
-25,Male,Sunday,Walk-in,Sleeve/Back,Script,Artist A,9,44760,Consultation Fee,45760,UPI,3
-51,Male,Friday,Pre-booked,Small,Script,Artist B,2,40078,Consultation Fee,41078,Card,4
-41,Male,Thursday,Pre-booked,Small,Custom,Artist A,1,15258,Aftercare Kit,15758,UPI,1
-39,Female,Sunday,Pre-booked,Small,Minimalist,Artist B,1,47123,Consultation Fee,48123,UPI,5
-44,Female,Tuesday,Pre-booked,Small,Realism,Artist A,2,48211,Aftercare Kit,48711,Cash,2
-52,Male,Monday,Walk-in,Sleeve/Back,Realism,Artist C,10,36328,Consultation Fee,37328,Cash,2
-18,Male,Saturday,Walk-in,Medium,Custom,Artist C,3,10863,Aftercare Kit,11363,Cash,4
-52,Male,Thursday,Walk-in,Medium,Script,Artist A,2,30184,Aftercare Kit,30684,Cash,5
-54,Female,Sunday,Pre-booked,Small,Minimalist,Artist B,1,11512,Consultation Fee,12512,UPI,3
-31,Female,Thursday,Pre-booked,Sleeve/Back,Script,Artist A,7,45006,Piercing,46506,Card,2
-18,Male,Sunday,Pre-booked,Small,Realism,Artist A,1,12357,Consultation Fee,13357,UPI,5
-44,Female,Monday,Pre-booked,Medium,Realism,Artist B,3,36928,Piercing,38428,Cash,1
-43,Male,Saturday,Walk-in,Medium,Minimalist,Artist C,2,22814,Consultation Fee,23814,UPI,4
-30,Female,Monday,Pre-booked,Large,Custom,Artist A,5,11536,Aftercare Kit,12036,Card,1
-49,Female,Wednesday,Walk-in,Small,Tribal,Artist B,2,3932,Aftercare Kit,4432,Cash,2
-21,Male,Friday,Walk-in,Small,Custom,Artist D,2,22885,Consultation Fee,23885,Card,3
-47,Male,Wednesday,Pre-booked,Medium,Script,Artist D,4,29134,Aftercare Kit,29634,Cash,3
-32,Male,Wednesday,Walk-in,Medium,Script,Artist A,2,31032,Consultation Fee,32032,Card,5
-30,Female,Thursday,Pre-booked,Large,Script,Artist C,6,11958,Consultation Fee,12958,Card,4
-45,Male,Tuesday,Pre-booked,Large,Minimalist,Artist A,6,14107,Piercing,15607,Card,2
-23,Female,Thursday,Pre-booked,Medium,Realism,Artist A,3,42106,Piercing,43606,UPI,1
-45,Male,Saturday,Pre-booked,Medium,Script,Artist B,3,42432,Consultation Fee,43432,UPI,2
-45,Male,Tuesday,Pre-booked,Medium,Tribal,Artist B,2,19489,Consultation Fee,20489,Cash,5
-28,Female,Sunday,Pre-booked,Small,Custom,Artist C,2,42131,Consultation Fee,43131,Card,2
-45,Female,Monday,Walk-in,Large,Realism,Artist B,4,17133,Aftercare Kit,17633,UPI,3
-50,Male,Sunday,Pre-booked,Small,Tribal,Artist B,1,17216,Aftercare Kit,17716,UPI,4
-44,Female,Thursday,Pre-booked,Small,Custom,Artist A,1,47047,Aftercare Kit,47547,UPI,4
-30,Female,Saturday,Walk-in,Medium,Realism,Artist A,2,3709,Consultation Fee,4709,Cash,2
-23,Female,Sunday,Walk-in,Sleeve/Back,Tribal,Artist A,7,7208,Aftercare Kit,7708,UPI,1
-25,Female,Tuesday,Pre-booked,Large,Minimalist,Artist B,5,47098,Consultation Fee,48098,Cash,3
-44,Female,Friday,Pre-booked,Large,Tribal,Artist D,6,33234,Piercing,34734,Cash,5
-50,Female,Monday,Walk-in,Small,Realism,Artist C,1,41630,Piercing,43130,UPI,1
-41,Male,Tuesday,Pre-booked,Small,Script,Artist A,1,32720,Aftercare Kit,33220,Cash,1
-49,Female,Wednesday,Pre-booked,Medium,Realism,Artist B,2,44570,Piercing,46070,UPI,4
-41,Female,Sunday,Pre-booked,Medium,Script,Artist D,2,14057,Aftercare Kit,14557,Card,1
-29,Male,Saturday,Walk-in,Small,Minimalist,Artist D,1,27392,Aftercare Kit,27892,Card,4
-20,Other,Friday,Walk-in,Large,Minimalist,Artist B,5,33054,Piercing,34554,Cash,4
-34,Male,Wednesday,Pre-booked,Large,Tribal,Artist B,5,12733,Aftercare Kit,13233,Cash,1
-19,Male,Saturday,Pre-booked,Small,Script,Artist C,2,14665,Piercing,16165,Card,2
-45,Female,Sunday,Walk-in,Medium,Minimalist,Artist A,3,4112,Consultation Fee,5112,Card,5
-54,Male,Monday,Walk-in,Small,Custom,Artist D,2,2983,Aftercare Kit,3483,Cash,2
-18,Female,Sunday,Walk-in,Medium,Realism,Artist A,3,16585,Piercing,18085,Card,3
-43,Male,Friday,Pre-booked,Medium,Realism,Artist A,4,15406,Consultation Fee,16406,Cash,2
-49,Female,Thursday,Pre-booked,Small,Custom,Artist D,1,30788,Aftercare Kit,31288,UPI,1
-21,Female,Friday,Pre-booked,Medium,Realism,Artist C,2,42439,Consultation Fee,43439,UPI,1
-28,Female,Monday,Pre-booked,Small,Tribal,Artist A,2,34108,Piercing,35608,Card,2
-34,Female,Saturday,Walk-in,Sleeve/Back,Custom,Artist A,10,47079,Consultation Fee,48079,UPI,5
-22,Male,Tuesday,Pre-booked,Medium,Minimalist,Artist B,4,31985,Consultation Fee,32985,Card,4
-23,Male,Thursday,Pre-booked,Sleeve/Back,Minimalist,Artist A,8,30020,Piercing,31520,Cash,1
-39,Female,Wednesday,Pre-booked,Large,Script,Artist B,5,28533,Consultation Fee,29533,Cash,4
-26,Female,Tuesday,Pre-booked,Medium,Tribal,Artist B,2,49199,Aftercare Kit,49699,UPI,2
-23,Male,Thursday,Pre-booked,Small,Tribal,Artist B,2,22506,Consultation Fee,23506,Cash,1
-33,Female,Saturday,Pre-booked,Medium,Custom,Artist D,3,27831,Piercing,29331,Card,1
-20,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist B,8,39482,Piercing,40982,Cash,4
-36,Female,Friday,Pre-booked,Medium,Tribal,Artist D,2,36421,Piercing,37921,Cash,2
-37,Male,Tuesday,Walk-in,Small,Script,Artist C,1,36121,Aftercare Kit,36621,UPI,2
-49,Female,Wednesday,Pre-booked,Small,Script,Artist A,2,9164,Piercing,10664,Card,3
-24,Male,Thursday,Pre-booked,Medium,Tribal,Artist A,4,31596,Piercing,33096,Card,4
-50,Female,Friday,Pre-booked,Medium,Tribal,Artist B,3,31943,Aftercare Kit,32443,Card,4
-28,Male,Monday,Walk-in,Small,Minimalist,Artist C,1,35993,Consultation Fee,36993,UPI,5
-40,Other,Thursday,Walk-in,Large,Minimalist,Artist B,5,4572,Consultation Fee,5572,Card,2
-48,Male,Sunday,Pre-booked,Medium,Realism,Artist C,3,38549,Aftercare Kit,39049,UPI,1
-33,Female,Friday,Walk-in,Medium,Tribal,Artist C,4,5230,Aftercare Kit,5730,Cash,2
-43,Male,Tuesday,Pre-booked,Small,Script,Artist D,1,14442,Piercing,15942,Cash,2
-19,Male,Saturday,Pre-booked,Medium,Script,Artist C,4,21082,Aftercare Kit,21582,UPI,1
-22,Female,Thursday,Pre-booked,Small,Tribal,Artist D,1,21959,Aftercare Kit,22459,UPI,3
-36,Male,Tuesday,Pre-booked,Medium,Realism,Artist D,4,21295,Aftercare Kit,21795,Card,1
-20,Male,Saturday,Walk-in,Large,Realism,Artist D,4,5574,Aftercare Kit,6074,Card,4
-37,Female,Wednesday,Pre-booked,Small,Realism,Artist B,1,47216,Consultation Fee,48216,Card,5
-37,Female,Tuesday,Walk-in,Small,Script,Artist B,1,49359,Aftercare Kit,49859,UPI,3
-42,Male,Sunday,Pre-booked,Small,Realism,Artist B,1,9416,Consultation Fee,10416,UPI,2
-52,Male,Thursday,Pre-booked,Medium,Script,Artist B,2,13781,Consultation Fee,14781,Cash,1
-42,Male,Wednesday,Pre-booked,Small,Custom,Artist A,2,40367,Consultation Fee,41367,UPI,5
-52,Male,Friday,Pre-booked,Small,Realism,Artist A,2,29103,Aftercare Kit,29603,Card,1
-37,Other,Tuesday,Walk-in,Small,Realism,Artist C,1,15233,Aftercare Kit,15733,Cash,2
-24,Female,Sunday,Pre-booked,Small,Minimalist,Artist D,1,7910,Consultation Fee,8910,Cash,4
-20,Male,Wednesday,Pre-booked,Small,Script,Artist A,2,18389,Piercing,19889,Card,5
-50,Female,Sunday,Walk-in,Large,Realism,Artist B,6,47332,Consultation Fee,48332,Card,3
-39,Male,Thursday,Walk-in,Sleeve/Back,Minimalist,Artist B,9,48626,Piercing,50126,Card,1
-39,Female,Tuesday,Walk-in,Medium,Minimalist,Artist C,4,12747,Aftercare Kit,13247,Cash,4
-47,Male,Sunday,Pre-booked,Large,Minimalist,Artist D,5,49079,Consultation Fee,50079,Card,3
-25,Female,Friday,Walk-in,Medium,Minimalist,Artist B,3,10096,Aftercare Kit,10596,UPI,5
-44,Male,Thursday,Walk-in,Sleeve/Back,Tribal,Artist B,7,9481,Piercing,10981,Cash,3
-51,Male,Monday,Walk-in,Small,Custom,Artist A,1,48283,Consultation Fee,49283,Cash,1
-38,Male,Monday,Pre-booked,Sleeve/Back,Realism,Artist A,7,31451,Aftercare Kit,31951,UPI,4
-47,Male,Tuesday,Walk-in,Large,Custom,Artist A,5,43554,Piercing,45054,Card,5
-45,Female,Thursday,Pre-booked,Small,Minimalist,Artist B,2,7590,Aftercare Kit,8090,UPI,2
-52,Male,Saturday,Walk-in,Small,Script,Artist A,2,35532,Aftercare Kit,36032,Cash,4
-34,Male,Monday,Pre-booked,Small,Realism,Artist B,2,42112,Piercing,43612,Cash,5
-52,Male,Thursday,Walk-in,Sleeve/Back,Minimalist,Artist A,6,4877,Consultation Fee,5877,UPI,2
-54,Male,Saturday,Walk-in,Small,Script,Artist B,2,13199,Aftercare Kit,13699,Cash,5
-48,Female,Thursday,Walk-in,Medium,Custom,Artist B,2,45222,Consultation Fee,46222,Cash,3
-50,Male,Friday,Walk-in,Medium,Minimalist,Artist C,2,12624,Piercing,14124,UPI,5
-38,Female,Tuesday,Pre-booked,Large,Realism,Artist B,5,11476,Piercing,12976,UPI,1
-20,Male,Thursday,Walk-in,Medium,Tribal,Artist B,3,29497,Aftercare Kit,29997,Cash,5
-35,Female,Friday,Pre-booked,Small,Minimalist,Artist A,2,22189,Piercing,23689,Cash,1
-48,Female,Friday,Walk-in,Medium,Minimalist,Artist A,3,49851,Consultation Fee,50851,Cash,1
-39,Male,Monday,Pre-booked,Medium,Custom,Artist C,2,13842,Consultation Fee,14842,Cash,4
-19,Female,Sunday,Pre-booked,Large,Tribal,Artist D,6,10622,Consultation Fee,11622,Card,5
-44,Male,Tuesday,Walk-in,Medium,Realism,Artist B,3,15294,Aftercare Kit,15794,UPI,1
-19,Male,Tuesday,Walk-in,Small,Custom,Artist A,1,2231,Aftercare Kit,2731,Cash,4
-43,Female,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist C,8,42800,Consultation Fee,43800,Card,5
-50,Female,Wednesday,Pre-booked,Small,Realism,Artist A,1,2800,Piercing,4300,UPI,5
-26,Male,Wednesday,Pre-booked,Medium,Tribal,Artist D,2,32057,Piercing,33557,Card,5
-43,Male,Thursday,Walk-in,Large,Tribal,Artist D,6,34679,Aftercare Kit,35179,Card,2
-42,Female,Friday,Pre-booked,Sleeve/Back,Realism,Artist C,7,2376,Piercing,3876,Cash,1
-41,Male,Sunday,Walk-in,Medium,Tribal,Artist D,2,41844,Aftercare Kit,42344,Card,4
-24,Male,Saturday,Walk-in,Large,Custom,Artist A,5,17589,Aftercare Kit,18089,Cash,4
-37,Female,Sunday,Pre-booked,Medium,Script,Artist A,2,40591,Piercing,42091,Cash,1
-18,Male,Thursday,Walk-in,Medium,Custom,Artist B,2,45219,Aftercare Kit,45719,UPI,3
-25,Female,Friday,Walk-in,Small,Script,Artist C,2,33176,Aftercare Kit,33676,UPI,5
-33,Female,Friday,Pre-booked,Medium,Custom,Artist B,4,31736,Aftercare Kit,32236,Card,5
-31,Female,Thursday,Walk-in,Large,Custom,Artist B,6,28879,Aftercare Kit,29379,Card,3
-40,Male,Friday,Pre-booked,Small,Tribal,Artist D,1,7203,Consultation Fee,8203,Cash,5
-32,Male,Tuesday,Pre-booked,Small,Realism,Artist A,1,41401,Piercing,42901,UPI,2
-45,Male,Tuesday,Pre-booked,Small,Tribal,Artist B,1,41328,Consultation Fee,42328,UPI,1
-39,Male,Sunday,Pre-booked,Medium,Realism,Artist A,3,42616,Piercing,44116,UPI,4
-42,Female,Tuesday,Walk-in,Small,Realism,Artist A,1,43198,Consultation Fee,44198,UPI,3
-23,Female,Sunday,Walk-in,Medium,Custom,Artist B,3,5205,Consultation Fee,6205,UPI,1
-32,Male,Monday,Pre-booked,Small,Minimalist,Artist A,1,14113,Consultation Fee,15113,UPI,1
-25,Male,Saturday,Pre-booked,Small,Custom,Artist B,1,44813,Consultation Fee,45813,UPI,1
-21,Female,Friday,Pre-booked,Medium,Tribal,Artist B,2,4406,Piercing,5906,UPI,4
-23,Female,Saturday,Walk-in,Small,Custom,Artist C,1,11527,Aftercare Kit,12027,UPI,1
-49,Male,Friday,Pre-booked,Medium,Custom,Artist C,2,4125,Consultation Fee,5125,UPI,5
-47,Male,Wednesday,Pre-booked,Small,Custom,Artist B,1,45712,Consultation Fee,46712,UPI,2
-52,Female,Friday,Pre-booked,Large,Realism,Artist C,6,39885,Aftercare Kit,40385,Card,4
-30,Male,Tuesday,Walk-in,Small,Realism,Artist A,1,21558,Consultation Fee,22558,Card,2
-36,Male,Thursday,Pre-booked,Large,Tribal,Artist A,5,7747,Aftercare Kit,8247,Cash,3
-34,Male,Wednesday,Walk-in,Sleeve/Back,Custom,Artist A,6,5213,Aftercare Kit,5713,Card,2
-43,Female,Saturday,Pre-booked,Large,Minimalist,Artist C,6,46046,Consultation Fee,47046,Cash,2
-40,Female,Tuesday,Walk-in,Medium,Custom,Artist D,2,20637,Piercing,22137,Cash,3
-49,Male,Sunday,Walk-in,Small,Tribal,Artist C,1,39505,Consultation Fee,40505,UPI,3
-22,Female,Sunday,Walk-in,Large,Script,Artist C,4,39943,Aftercare Kit,40443,UPI,2
-39,Male,Tuesday,Walk-in,Medium,Minimalist,Artist B,4,25605,Piercing,27105,Cash,3
-46,Male,Tuesday,Pre-booked,Small,Tribal,Artist C,2,4348,Aftercare Kit,4848,Cash,2
-20,Male,Friday,Pre-booked,Small,Script,Artist B,2,8103,Piercing,9603,Cash,5
-43,Female,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist B,7,23156,Aftercare Kit,23656,UPI,2
-33,Male,Monday,Pre-booked,Small,Tribal,Artist C,1,26154,Piercing,27654,Card,5
-54,Male,Thursday,Pre-booked,Small,Realism,Artist D,2,26834,Piercing,28334,Card,1
-31,Female,Sunday,Pre-booked,Small,Tribal,Artist B,2,38075,Piercing,39575,Card,5
-45,Male,Tuesday,Pre-booked,Small,Minimalist,Artist B,1,6254,Aftercare Kit,6754,UPI,1
-22,Male,Sunday,Walk-in,Medium,Script,Artist A,3,21191,Piercing,22691,UPI,2
-22,Female,Tuesday,Walk-in,Small,Custom,Artist D,1,10817,Piercing,12317,Card,5
-33,Male,Wednesday,Walk-in,Sleeve/Back,Realism,Artist B,6,47522,Consultation Fee,48522,Cash,1
-43,Male,Sunday,Pre-booked,Small,Tribal,Artist A,1,19984,Aftercare Kit,20484,Card,4
-38,Male,Friday,Walk-in,Small,Script,Artist B,1,36540,Piercing,38040,Cash,3
-50,Male,Sunday,Walk-in,Large,Custom,Artist D,4,36383,Piercing,37883,Card,2
-27,Female,Saturday,Pre-booked,Medium,Tribal,Artist B,3,42111,Piercing,43611,UPI,2
-22,Female,Saturday,Walk-in,Large,Tribal,Artist C,6,5813,Piercing,7313,Cash,4
-53,Male,Thursday,Pre-booked,Small,Script,Artist A,2,9163,Consultation Fee,10163,UPI,4
-27,Female,Wednesday,Pre-booked,Large,Tribal,Artist D,4,43220,Aftercare Kit,43720,Cash,3
-36,Female,Saturday,Walk-in,Small,Realism,Artist C,2,36665,Aftercare Kit,37165,UPI,5
-49,Female,Friday,Walk-in,Large,Script,Artist A,4,7745,Consultation Fee,8745,UPI,3
-18,Female,Wednesday,Walk-in,Small,Tribal,Artist C,2,33697,Aftercare Kit,34197,UPI,5
-22,Male,Wednesday,Walk-in,Large,Custom,Artist D,5,49452,Piercing,50952,Card,4
-21,Female,Tuesday,Pre-booked,Small,Minimalist,Artist B,1,47131,Aftercare Kit,47631,Card,5
-19,Female,Tuesday,Walk-in,Small,Custom,Artist B,1,29987,Consultation Fee,30987,UPI,3
-44,Female,Sunday,Walk-in,Small,Custom,Artist D,1,19017,Aftercare Kit,19517,Cash,4
-41,Other,Saturday,Pre-booked,Sleeve/Back,Script,Artist A,6,39692,Consultation Fee,40692,Cash,1
-29,Male,Monday,Pre-booked,Sleeve/Back,Tribal,Artist B,8,42844,Piercing,44344,Cash,5
-52,Male,Friday,Pre-booked,Small,Realism,Artist B,1,25190,Consultation Fee,26190,Cash,3
-50,Male,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist A,9,10500,Aftercare Kit,11000,Card,5
-54,Female,Tuesday,Pre-booked,Small,Custom,Artist A,2,38872,Piercing,40372,Card,4
-29,Male,Saturday,Walk-in,Large,Minimalist,Artist C,5,34531,Piercing,36031,Cash,4
-20,Male,Tuesday,Pre-booked,Medium,Custom,Artist C,2,36059,Aftercare Kit,36559,Card,4
-50,Male,Wednesday,Walk-in,Small,Tribal,Artist C,1,43409,Consultation Fee,44409,Cash,3
-30,Male,Tuesday,Pre-booked,Small,Script,Artist D,2,13790,Consultation Fee,14790,UPI,4
-29,Female,Friday,Pre-booked,Small,Minimalist,Artist D,2,41938,Aftercare Kit,42438,UPI,4
-19,Other,Sunday,Pre-booked,Large,Tribal,Artist A,6,48437,Aftercare Kit,48937,Cash,4
-52,Female,Wednesday,Pre-booked,Large,Tribal,Artist A,4,21037,Aftercare Kit,21537,Cash,2
-34,Male,Thursday,Pre-booked,Small,Realism,Artist C,1,2103,Piercing,3603,Card,1
-43,Female,Friday,Walk-in,Small,Script,Artist B,1,9746,Piercing,11246,UPI,3
-25,Male,Saturday,Walk-in,Small,Minimalist,Artist C,1,3571,Consultation Fee,4571,UPI,1
-46,Male,Tuesday,Walk-in,Small,Custom,Artist C,1,32466,Consultation Fee,33466,UPI,2
-24,Female,Wednesday,Walk-in,Small,Minimalist,Artist C,1,29173,Piercing,30673,UPI,3
-21,Male,Monday,Pre-booked,Medium,Realism,Artist A,3,29134,Piercing,30634,Cash,1
-28,Female,Monday,Walk-in,Sleeve/Back,Minimalist,Artist A,8,4981,Consultation Fee,5981,Cash,5
-46,Male,Thursday,Pre-booked,Medium,Minimalist,Artist D,2,23875,Piercing,25375,UPI,1
-38,Male,Tuesday,Walk-in,Small,Script,Artist C,2,43779,Aftercare Kit,44279,Card,3
-53,Female,Saturday,Walk-in,Small,Minimalist,Artist C,2,15915,Aftercare Kit,16415,UPI,1
-27,Male,Tuesday,Pre-booked,Large,Realism,Artist B,5,2740,Aftercare Kit,3240,UPI,5
-54,Male,Monday,Pre-booked,Large,Script,Artist A,5,43983,Piercing,45483,UPI,4
-26,Female,Monday,Pre-booked,Small,Custom,Artist D,2,15185,Aftercare Kit,15685,Cash,4
-53,Female,Tuesday,Pre-booked,Sleeve/Back,Script,Artist C,6,6445,Piercing,7945,Cash,1
-35,Male,Thursday,Walk-in,Medium,Script,Artist A,2,22170,Consultation Fee,23170,Cash,3
-30,Male,Tuesday,Pre-booked,Large,Minimalist,Artist A,5,46946,Aftercare Kit,47446,Card,2
-42,Female,Monday,Pre-booked,Large,Script,Artist D,4,24371,Piercing,25871,UPI,2
-52,Female,Thursday,Pre-booked,Small,Tribal,Artist D,2,27955,Consultation Fee,28955,UPI,3
-34,Male,Tuesday,Pre-booked,Small,Realism,Artist C,1,39284,Piercing,40784,Cash,3
-37,Female,Saturday,Walk-in,Small,Tribal,Artist C,1,42369,Aftercare Kit,42869,Card,1
-42,Male,Saturday,Pre-booked,Small,Minimalist,Artist D,2,3908,Aftercare Kit,4408,UPI,1
-39,Other,Friday,Walk-in,Medium,Tribal,Artist A,3,13510,Aftercare Kit,14010,Cash,1
-30,Female,Tuesday,Walk-in,Medium,Tribal,Artist C,2,14715,Aftercare Kit,15215,Card,1
-36,Male,Friday,Walk-in,Sleeve/Back,Custom,Artist B,9,23660,Aftercare Kit,24160,UPI,5
-53,Female,Tuesday,Walk-in,Small,Minimalist,Artist A,2,24147,Piercing,25647,UPI,3
-29,Male,Thursday,Walk-in,Small,Tribal,Artist B,1,46071,Piercing,47571,UPI,1
-29,Male,Monday,Pre-booked,Medium,Script,Artist B,3,33096,Piercing,34596,UPI,2
-26,Male,Monday,Pre-booked,Small,Tribal,Artist B,2,4330,Aftercare Kit,4830,Card,5
-48,Male,Sunday,Pre-booked,Medium,Realism,Artist B,4,12183,Piercing,13683,UPI,5
-53,Female,Friday,Walk-in,Small,Realism,Artist B,2,36149,Consultation Fee,37149,UPI,2
-31,Female,Sunday,Pre-booked,Small,Script,Artist B,1,49511,Aftercare Kit,50011,Cash,3
-22,Female,Thursday,Pre-booked,Small,Script,Artist A,1,22676,Aftercare Kit,23176,UPI,2
-52,Male,Sunday,Pre-booked,Medium,Custom,Artist B,4,38384,Consultation Fee,39384,UPI,3
-46,Female,Monday,Pre-booked,Large,Realism,Artist D,5,3226,Piercing,4726,UPI,5
-28,Female,Tuesday,Pre-booked,Sleeve/Back,Custom,Artist C,7,15648,Consultation Fee,16648,Card,3
-35,Male,Thursday,Pre-booked,Medium,Realism,Artist B,2,39840,Aftercare Kit,40340,UPI,3
-29,Male,Saturday,Walk-in,Small,Script,Artist D,2,46924,Consultation Fee,47924,UPI,2
-26,Male,Saturday,Walk-in,Small,Tribal,Artist C,2,23739,Aftercare Kit,24239,UPI,1
-27,Female,Saturday,Walk-in,Large,Custom,Artist A,4,25173,Consultation Fee,26173,Cash,2
-34,Male,Wednesday,Pre-booked,Small,Script,Artist A,2,6339,Consultation Fee,7339,UPI,2
-26,Male,Sunday,Walk-in,Medium,Realism,Artist C,4,4042,Aftercare Kit,4542,Cash,3
-19,Male,Wednesday,Pre-booked,Medium,Tribal,Artist C,4,26591,Aftercare Kit,27091,Cash,3
-22,Female,Saturday,Walk-in,Small,Script,Artist D,2,43059,Aftercare Kit,43559,Cash,3
-46,Female,Sunday,Pre-booked,Sleeve/Back,Minimalist,Artist B,9,37014,Aftercare Kit,37514,Cash,5
-25,Male,Tuesday,Walk-in,Medium,Script,Artist A,3,41694,Aftercare Kit,42194,Card,5
-18,Female,Sunday,Walk-in,Small,Tribal,Artist C,2,27530,Aftercare Kit,28030,Cash,4
-39,Female,Saturday,Walk-in,Medium,Realism,Artist D,4,14280,Piercing,15780,Card,4
-42,Female,Tuesday,Walk-in,Small,Script,Artist B,2,22203,Piercing,23703,Card,1
-53,Male,Monday,Pre-booked,Large,Tribal,Artist B,5,22611,Piercing,24111,Cash,4
-36,Female,Saturday,Pre-booked,Small,Tribal,Artist C,1,19792,Consultation Fee,20792,UPI,3
-43,Male,Sunday,Pre-booked,Large,Minimalist,Artist C,5,34574,Piercing,36074,Cash,1
-36,Male,Sunday,Pre-booked,Small,Script,Artist B,1,17574,Piercing,19074,Card,1
-30,Male,Tuesday,Pre-booked,Small,Tribal,Artist C,1,31616,Aftercare Kit,32116,Cash,1
-45,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist C,4,21833,Aftercare Kit,22333,Card,4
-37,Male,Tuesday,Walk-in,Small,Script,Artist B,2,16164,Consultation Fee,17164,Card,1
-30,Male,Monday,Pre-booked,Sleeve/Back,Custom,Artist A,9,26524,Aftercare Kit,27024,UPI,2
-50,Female,Tuesday,Walk-in,Small,Script,Artist C,1,8068,Aftercare Kit,8568,Card,1
-23,Female,Thursday,Walk-in,Large,Minimalist,Artist D,4,31083,Aftercare Kit,31583,UPI,2
-49,Female,Sunday,Walk-in,Medium,Custom,Artist D,3,35160,Aftercare Kit,35660,Cash,5
-54,Male,Friday,Walk-in,Small,Script,Artist B,2,14465,Aftercare Kit,14965,Cash,2
-36,Female,Monday,Pre-booked,Large,Minimalist,Artist C,5,36316,Piercing,37816,Card,3
-35,Male,Tuesday,Walk-in,Small,Tribal,Artist C,2,23452,Piercing,24952,Cash,1
-20,Female,Wednesday,Walk-in,Small,Realism,Artist B,2,10697,Aftercare Kit,11197,UPI,1
-40,Female,Tuesday,Pre-booked,Small,Custom,Artist C,2,49485,Consultation Fee,50485,UPI,3
-49,Male,Monday,Pre-booked,Medium,Tribal,Artist B,4,48771,Aftercare Kit,49271,Cash,1
-41,Female,Tuesday,Pre-booked,Large,Custom,Artist A,5,22380,Aftercare Kit,22880,UPI,4
-45,Female,Tuesday,Pre-booked,Small,Realism,Artist B,1,4885,Aftercare Kit,5385,UPI,4
-25,Male,Friday,Walk-in,Sleeve/Back,Tribal,Artist A,9,47026,Aftercare Kit,47526,Cash,3
-25,Female,Saturday,Walk-in,Small,Realism,Artist B,1,32597,Consultation Fee,33597,Card,1
-45,Male,Wednesday,Pre-booked,Small,Realism,Artist A,1,5023,Piercing,6523,UPI,4
-34,Female,Monday,Pre-booked,Medium,Custom,Artist B,2,3473,Consultation Fee,4473,Card,4
-37,Female,Friday,Pre-booked,Small,Realism,Artist B,1,43867,Consultation Fee,44867,Card,1
-30,Male,Sunday,Walk-in,Small,Script,Artist C,2,15752,Piercing,17252,Card,1
-45,Female,Thursday,Walk-in,Large,Realism,Artist B,4,23029,Aftercare Kit,23529,UPI,1
-46,Male,Tuesday,Walk-in,Small,Tribal,Artist D,1,15143,Aftercare Kit,15643,Cash,3
-52,Male,Monday,Pre-booked,Medium,Script,Artist C,3,20780,Aftercare Kit,21280,UPI,4
-23,Male,Friday,Walk-in,Large,Realism,Artist D,6,20130,Piercing,21630,UPI,5
-35,Male,Saturday,Walk-in,Large,Realism,Artist D,6,36883,Piercing,38383,Cash,2
-42,Male,Sunday,Pre-booked,Medium,Realism,Artist A,3,30908,Consultation Fee,31908,UPI,2
-27,Male,Friday,Pre-booked,Medium,Minimalist,Artist A,4,9710,Aftercare Kit,10210,UPI,3
-47,Male,Wednesday,Walk-in,Sleeve/Back,Minimalist,Artist D,6,19868,Aftercare Kit,20368,Cash,4
-22,Male,Saturday,Pre-booked,Medium,Minimalist,Artist C,4,11785,Consultation Fee,12785,UPI,1
-50,Female,Wednesday,Pre-booked,Small,Minimalist,Artist C,2,12321,Piercing,13821,Card,3
-18,Male,Tuesday,Walk-in,Small,Realism,Artist A,2,19933,Piercing,21433,UPI,2
-35,Male,Sunday,Pre-booked,Sleeve/Back,Realism,Artist C,10,9501,Aftercare Kit,10001,Card,3
-38,Male,Friday,Walk-in,Large,Minimalist,Artist A,6,38675,Aftercare Kit,39175,Cash,1
-43,Male,Sunday,Walk-in,Small,Script,Artist A,1,35689,Aftercare Kit,36189,Cash,4
-44,Male,Thursday,Pre-booked,Small,Tribal,Artist C,2,37555,Consultation Fee,38555,UPI,1
-52,Male,Thursday,Pre-booked,Large,Minimalist,Artist A,5,19763,Consultation Fee,20763,Cash,2
-18,Female,Tuesday,Pre-booked,Small,Minimalist,Artist A,2,11277,Consultation Fee,12277,UPI,3
-38,Male,Monday,Walk-in,Medium,Realism,Artist A,3,48160,Aftercare Kit,48660,Cash,1
-34,Male,Sunday,Pre-booked,Medium,Minimalist,Artist A,3,18044,Piercing,19544,Card,5
-54,Other,Wednesday,Pre-booked,Small,Tribal,Artist A,2,37427,Piercing,38927,UPI,4
-27,Male,Tuesday,Walk-in,Medium,Minimalist,Artist D,4,10524,Piercing,12024,Cash,3
-36,Male,Friday,Pre-booked,Medium,Custom,Artist C,4,3900,Aftercare Kit,4400,Cash,4
-38,Female,Monday,Pre-booked,Medium,Tribal,Artist B,4,46269,Piercing,47769,Card,2
-26,Female,Tuesday,Pre-booked,Medium,Tribal,Artist B,3,8942,Aftercare Kit,9442,Cash,4
-18,Male,Friday,Pre-booked,Small,Script,Artist D,1,27139,Aftercare Kit,27639,Cash,4
-30,Female,Tuesday,Pre-booked,Small,Minimalist,Artist D,1,5525,Consultation Fee,6525,UPI,1
-21,Female,Thursday,Pre-booked,Small,Tribal,Artist D,1,7643,Piercing,9143,Card,1
-51,Female,Monday,Walk-in,Medium,Tribal,Artist A,3,13729,Aftercare Kit,14229,Cash,3
-45,Male,Sunday,Pre-booked,Small,Minimalist,Artist A,2,48181,Aftercare Kit,48681,UPI,2
-48,Male,Tuesday,Walk-in,Small,Custom,Artist B,1,41067,Consultation Fee,42067,UPI,3
-25,Male,Saturday,Walk-in,Large,Custom,Artist A,6,40846,Aftercare Kit,41346,Cash,1
-51,Female,Tuesday,Pre-booked,Medium,Realism,Artist C,2,47228,Consultation Fee,48228,UPI,4
-20,Male,Sunday,Walk-in,Small,Realism,Artist D,2,47833,Aftercare Kit,48333,Card,5
-29,Male,Tuesday,Walk-in,Large,Minimalist,Artist C,6,31218,Consultation Fee,32218,UPI,4
-18,Male,Saturday,Pre-booked,Small,Tribal,Artist D,1,42390,Aftercare Kit,42890,Cash,3
-22,Male,Monday,Pre-booked,Small,Custom,Artist A,2,25306,Aftercare Kit,25806,Cash,4
-47,Male,Wednesday,Walk-in,Medium,Custom,Artist A,4,22476,Piercing,23976,Cash,4
-32,Male,Monday,Pre-booked,Medium,Minimalist,Artist B,4,45966,Piercing,47466,Cash,5
-54,Male,Wednesday,Pre-booked,Large,Minimalist,Artist A,6,36962,Piercing,38462,Card,4
-28,Male,Wednesday,Pre-booked,Sleeve/Back,Script,Artist C,10,10637,Aftercare Kit,11137,UPI,5
-51,Female,Thursday,Pre-booked,Medium,Custom,Artist B,2,8089,Aftercare Kit,8589,UPI,5
-47,Male,Saturday,Pre-booked,Sleeve/Back,Custom,Artist B,8,32837,Piercing,34337,UPI,5
-34,Male,Sunday,Walk-in,Medium,Tribal,Artist B,4,17184,Aftercare Kit,17684,Cash,4
-46,Male,Sunday,Pre-booked,Medium,Tribal,Artist C,2,11418,Consultation Fee,12418,UPI,1
-27,Male,Sunday,Pre-booked,Medium,Tribal,Artist A,4,18911,Aftercare Kit,19411,UPI,3
-34,Female,Saturday,Walk-in,Medium,Custom,Artist C,3,25819,Piercing,27319,UPI,3
-34,Male,Wednesday,Walk-in,Small,Minimalist,Artist A,1,14016,Aftercare Kit,14516,Cash,1
-37,Female,Saturday,Pre-booked,Small,Tribal,Artist D,2,47849,Piercing,49349,Card,1
-41,Male,Friday,Walk-in,Medium,Realism,Artist D,3,45593,Consultation Fee,46593,UPI,4
-51,Female,Friday,Walk-in,Medium,Tribal,Artist B,4,23283,Aftercare Kit,23783,UPI,5
-19,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist B,10,33949,Consultation Fee,34949,Card,2
-28,Female,Friday,Pre-booked,Small,Script,Artist D,1,6283,Consultation Fee,7283,Cash,1
-40,Male,Friday,Pre-booked,Small,Custom,Artist C,2,33151,Piercing,34651,Cash,4
-33,Male,Wednesday,Walk-in,Large,Minimalist,Artist B,6,9398,Aftercare Kit,9898,Cash,2
-48,Female,Thursday,Pre-booked,Large,Custom,Artist C,6,25032,Aftercare Kit,25532,UPI,3
-33,Female,Thursday,Pre-booked,Large,Custom,Artist D,5,32227,Aftercare Kit,32727,Cash,5
-25,Female,Saturday,Walk-in,Medium,Realism,Artist D,3,13193,Consultation Fee,14193,UPI,1
-21,Female,Tuesday,Pre-booked,Small,Script,Artist B,2,24846,Piercing,26346,Cash,4
-42,Male,Wednesday,Pre-booked,Small,Tribal,Artist A,1,41612,Aftercare Kit,42112,Cash,3
-20,Male,Monday,Pre-booked,Medium,Tribal,Artist B,3,35288,Aftercare Kit,35788,Cash,3
-44,Female,Saturday,Walk-in,Large,Tribal,Artist B,4,8745,Aftercare Kit,9245,Card,2
-49,Female,Friday,Walk-in,Medium,Custom,Artist D,2,48810,Aftercare Kit,49310,Card,1
-38,Male,Saturday,Pre-booked,Medium,Realism,Artist D,4,23356,Aftercare Kit,23856,Card,4
-35,Male,Wednesday,Walk-in,Medium,Custom,Artist D,4,44562,Piercing,46062,Card,4
-39,Male,Monday,Pre-booked,Small,Realism,Artist A,1,21799,Piercing,23299,UPI,5
-23,Male,Saturday,Walk-in,Small,Script,Artist B,1,32210,Aftercare Kit,32710,Cash,3
-18,Female,Tuesday,Walk-in,Medium,Script,Artist A,3,28267,Piercing,29767,UPI,4
-51,Male,Monday,Walk-in,Small,Tribal,Artist A,1,42689,Consultation Fee,43689,Card,2
-43,Female,Tuesday,Pre-booked,Small,Script,Artist C,1,37910,Consultation Fee,38910,Card,2
-43,Male,Monday,Walk-in,Small,Minimalist,Artist C,2,27153,Piercing,28653,UPI,5
-34,Female,Sunday,Walk-in,Small,Realism,Artist B,2,15647,Piercing,17147,Cash,3
-53,Male,Tuesday,Pre-booked,Large,Script,Artist A,4,40729,Aftercare Kit,41229,UPI,4
-25,Male,Thursday,Pre-booked,Small,Realism,Artist A,2,30531,Aftercare Kit,31031,UPI,3
-52,Female,Thursday,Pre-booked,Medium,Tribal,Artist A,2,39172,Aftercare Kit,39672,Cash,4
-32,Male,Thursday,Pre-booked,Small,Script,Artist A,2,24426,Consultation Fee,25426,UPI,5
-45,Male,Tuesday,Walk-in,Sleeve/Back,Script,Artist C,6,13343,Consultation Fee,14343,Card,2
-40,Male,Wednesday,Pre-booked,Medium,Tribal,Artist A,2,45424,Aftercare Kit,45924,Card,3
-19,Male,Wednesday,Walk-in,Medium,Tribal,Artist C,4,48655,Consultation Fee,49655,Cash,5
-43,Female,Sunday,Walk-in,Small,Custom,Artist C,2,39630,Piercing,41130,Cash,3
-24,Female,Sunday,Walk-in,Large,Script,Artist D,6,9492,Piercing,10992,UPI,5
-32,Other,Sunday,Pre-booked,Large,Custom,Artist D,6,38378,Piercing,39878,Cash,4
-45,Male,Sunday,Walk-in,Medium,Custom,Artist A,4,13545,Piercing,15045,Cash,4
-34,Male,Wednesday,Pre-booked,Small,Realism,Artist A,1,28594,Consultation Fee,29594,Cash,2
-43,Male,Sunday,Walk-in,Medium,Realism,Artist C,4,41207,Consultation Fee,42207,Cash,4
-34,Male,Friday,Pre-booked,Small,Custom,Artist C,1,46925,Aftercare Kit,47425,Card,4
-30,Female,Monday,Walk-in,Large,Script,Artist A,5,41086,Consultation Fee,42086,Cash,2
-21,Male,Friday,Pre-booked,Medium,Tribal,Artist D,4,34394,Aftercare Kit,34894,Cash,1
-27,Male,Friday,Walk-in,Sleeve/Back,Custom,Artist D,8,44270,Piercing,45770,UPI,2
-20,Male,Saturday,Pre-booked,Medium,Script,Artist B,3,45264,Piercing,46764,Card,1
-36,Male,Friday,Pre-booked,Small,Script,Artist C,2,43689,Consultation Fee,44689,UPI,5
-54,Female,Monday,Pre-booked,Sleeve/Back,Custom,Artist B,10,2012,Aftercare Kit,2512,Card,4
-39,Female,Monday,Pre-booked,Medium,Custom,Artist C,4,27557,Consultation Fee,28557,UPI,4
-38,Female,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist C,10,42342,Piercing,43842,UPI,1
-21,Male,Tuesday,Walk-in,Small,Custom,Artist D,2,14823,Piercing,16323,Cash,3
-47,Male,Wednesday,Walk-in,Medium,Tribal,Artist D,3,15478,Consultation Fee,16478,Card,4
-28,Male,Saturday,Walk-in,Small,Minimalist,Artist D,1,46663,Consultation Fee,47663,Cash,5
-47,Male,Friday,Pre-booked,Sleeve/Back,Custom,Artist C,9,22748,Aftercare Kit,23248,Card,5
-41,Male,Thursday,Pre-booked,Medium,Minimalist,Artist D,4,39373,Consultation Fee,40373,Cash,5
-20,Female,Wednesday,Walk-in,Medium,Realism,Artist A,3,21958,Aftercare Kit,22458,Card,2
-54,Male,Thursday,Pre-booked,Large,Realism,Artist A,6,49041,Aftercare Kit,49541,Card,1
-23,Male,Thursday,Pre-booked,Medium,Tribal,Artist C,3,2532,Aftercare Kit,3032,UPI,4
-19,Female,Saturday,Pre-booked,Small,Tribal,Artist B,1,42074,Piercing,43574,Cash,4
-37,Male,Saturday,Walk-in,Medium,Custom,Artist A,3,35451,Aftercare Kit,35951,Cash,2
-45,Female,Friday,Pre-booked,Medium,Tribal,Artist C,4,28489,Piercing,29989,Card,2
-47,Male,Thursday,Walk-in,Sleeve/Back,Realism,Artist A,7,37971,Piercing,39471,UPI,1
-19,Female,Sunday,Walk-in,Small,Minimalist,Artist A,1,5481,Piercing,6981,Card,2
-32,Female,Thursday,Pre-booked,Medium,Realism,Artist B,4,2055,Aftercare Kit,2555,Card,1
-43,Male,Saturday,Pre-booked,Small,Realism,Artist B,1,25543,Aftercare Kit,26043,UPI,1
-22,Female,Saturday,Pre-booked,Medium,Script,Artist C,4,9189,Aftercare Kit,9689,Card,1
-36,Female,Tuesday,Pre-booked,Small,Custom,Artist D,2,30292,Consultation Fee,31292,UPI,3
-37,Female,Wednesday,Walk-in,Small,Realism,Artist C,1,48020,Piercing,49520,UPI,5
-29,Female,Saturday,Pre-booked,Small,Custom,Artist C,2,42974,Piercing,44474,UPI,2
-31,Female,Wednesday,Walk-in,Small,Custom,Artist B,1,27086,Piercing,28586,Cash,4
-54,Male,Monday,Pre-booked,Small,Custom,Artist B,1,28609,Consultation Fee,29609,UPI,5
-28,Male,Saturday,Walk-in,Large,Tribal,Artist A,4,27006,Aftercare Kit,27506,Cash,5
-53,Female,Wednesday,Pre-booked,Large,Tribal,Artist A,4,30520,Aftercare Kit,31020,UPI,5
-20,Female,Friday,Pre-booked,Large,Script,Artist C,6,15842,Piercing,17342,Cash,5
-27,Female,Monday,Pre-booked,Large,Tribal,Artist A,5,33121,Aftercare Kit,33621,Card,4
-22,Male,Friday,Walk-in,Large,Custom,Artist A,5,11114,Consultation Fee,12114,Card,1
-30,Male,Tuesday,Pre-booked,Large,Script,Artist A,5,25611,Piercing,27111,UPI,2
-19,Male,Saturday,Pre-booked,Large,Custom,Artist A,5,29343,Consultation Fee,30343,Card,4
-54,Female,Friday,Pre-booked,Small,Custom,Artist A,1,45913,Piercing,47413,UPI,4
-34,Male,Wednesday,Pre-booked,Large,Script,Artist B,6,10800,Piercing,12300,UPI,2
-32,Male,Tuesday,Pre-booked,Sleeve/Back,Custom,Artist C,6,44492,Consultation Fee,45492,Cash,2
-52,Female,Monday,Pre-booked,Large,Script,Artist A,6,11436,Piercing,12936,Card,5
-47,Male,Wednesday,Pre-booked,Small,Minimalist,Artist C,1,49273,Piercing,50773,Card,5
-48,Other,Thursday,Walk-in,Large,Tribal,Artist B,5,33896,Aftercare Kit,34396,Card,4
-22,Female,Saturday,Walk-in,Medium,Minimalist,Artist A,4,45117,Aftercare Kit,45617,UPI,5
-31,Female,Sunday,Walk-in,Sleeve/Back,Script,Artist A,8,30621,Piercing,32121,Card,4
-51,Female,Sunday,Pre-booked,Small,Minimalist,Artist C,2,10992,Aftercare Kit,11492,UPI,2
-39,Female,Tuesday,Walk-in,Medium,Minimalist,Artist B,2,41611,Aftercare Kit,42111,Card,2
-46,Female,Thursday,Walk-in,Small,Minimalist,Artist C,2,29898,Consultation Fee,30898,Card,5
-28,Female,Friday,Walk-in,Sleeve/Back,Custom,Artist C,10,13783,Aftercare Kit,14283,UPI,2
-54,Female,Thursday,Walk-in,Small,Custom,Artist B,1,31779,Aftercare Kit,32279,Cash,5
-31,Male,Sunday,Pre-booked,Medium,Script,Artist D,2,35385,Aftercare Kit,35885,Cash,5
-47,Male,Sunday,Pre-booked,Small,Tribal,Artist B,2,29795,Piercing,31295,Cash,4
-52,Male,Thursday,Walk-in,Medium,Script,Artist D,4,38179,Consultation Fee,39179,UPI,1
-38,Male,Monday,Pre-booked,Medium,Minimalist,Artist A,3,31494,Consultation Fee,32494,UPI,1
-54,Male,Saturday,Pre-booked,Small,Script,Artist A,1,27212,Aftercare Kit,27712,Card,5
-31,Male,Sunday,Walk-in,Medium,Minimalist,Artist B,2,14176,Piercing,15676,UPI,1
-43,Female,Sunday,Walk-in,Medium,Custom,Artist A,4,29837,Aftercare Kit,30337,UPI,5
-21,Female,Monday,Pre-booked,Small,Script,Artist A,1,41621,Aftercare Kit,42121,UPI,5
-42,Male,Wednesday,Pre-booked,Large,Minimalist,Artist D,4,2486,Consultation Fee,3486,UPI,5
-42,Female,Wednesday,Pre-booked,Large,Tribal,Artist D,4,39875,Aftercare Kit,40375,Cash,5
-35,Male,Saturday,Pre-booked,Small,Realism,Artist C,1,34647,Consultation Fee,35647,Cash,3
-49,Male,Monday,Pre-booked,Sleeve/Back,Tribal,Artist B,10,48670,Piercing,50170,Cash,2
-50,Female,Saturday,Pre-booked,Small,Realism,Artist D,1,34881,Piercing,36381,Card,4
-34,Male,Friday,Pre-booked,Small,Custom,Artist B,1,26049,Consultation Fee,27049,Card,3
-50,Male,Wednesday,Walk-in,Medium,Custom,Artist B,3,4192,Consultation Fee,5192,UPI,1
-31,Female,Friday,Walk-in,Small,Script,Artist B,1,39234,Aftercare Kit,39734,UPI,3
-24,Male,Sunday,Walk-in,Small,Script,Artist C,2,9416,Aftercare Kit,9916,Card,4
-32,Male,Sunday,Pre-booked,Small,Minimalist,Artist C,1,33557,Consultation Fee,34557,Cash,5
-46,Female,Saturday,Walk-in,Large,Script,Artist C,4,47252,Aftercare Kit,47752,Cash,5
-50,Other,Saturday,Pre-booked,Sleeve/Back,Realism,Artist C,10,7247,Piercing,8747,Cash,2
-53,Female,Wednesday,Pre-booked,Medium,Realism,Artist B,4,49926,Consultation Fee,50926,Card,4
-46,Male,Friday,Pre-booked,Large,Script,Artist C,6,36498,Aftercare Kit,36998,Card,1
-21,Female,Tuesday,Pre-booked,Medium,Realism,Artist A,2,36298,Consultation Fee,37298,UPI,1
-19,Female,Tuesday,Walk-in,Small,Custom,Artist B,2,7796,Piercing,9296,Cash,5
-27,Female,Tuesday,Pre-booked,Medium,Custom,Artist A,2,43331,Piercing,44831,Cash,5
-50,Female,Tuesday,Walk-in,Small,Custom,Artist D,1,45498,Consultation Fee,46498,Cash,5
-48,Male,Friday,Walk-in,Large,Custom,Artist C,5,7117,Aftercare Kit,7617,UPI,2
-53,Male,Wednesday,Pre-booked,Large,Script,Artist A,6,46831,Piercing,48331,UPI,1
-32,Male,Saturday,Pre-booked,Small,Custom,Artist B,1,37336,Piercing,38836,Card,2
-25,Male,Friday,Pre-booked,Sleeve/Back,Script,Artist B,9,22479,Aftercare Kit,22979,UPI,3
-46,Female,Monday,Walk-in,Medium,Minimalist,Artist A,3,5458,Aftercare Kit,5958,UPI,5
-21,Male,Monday,Pre-booked,Medium,Script,Artist A,4,24514,Aftercare Kit,25014,UPI,2
-44,Male,Saturday,Pre-booked,Medium,Realism,Artist A,4,32727,Consultation Fee,33727,UPI,1
-48,Male,Friday,Pre-booked,Small,Realism,Artist C,1,31755,Piercing,33255,Cash,2
-37,Male,Tuesday,Walk-in,Large,Minimalist,Artist C,5,25128,Consultation Fee,26128,Cash,3
-28,Male,Sunday,Pre-booked,Small,Realism,Artist C,1,21308,Consultation Fee,22308,Cash,1
-23,Male,Monday,Walk-in,Small,Script,Artist B,2,12977,Aftercare Kit,13477,Cash,4
-25,Male,Friday,Walk-in,Large,Script,Artist A,5,4315,Piercing,5815,Card,5
-40,Male,Sunday,Pre-booked,Small,Tribal,Artist C,2,47550,Aftercare Kit,48050,UPI,1
-43,Male,Tuesday,Pre-booked,Small,Realism,Artist C,1,41166,Aftercare Kit,41666,UPI,3
-29,Female,Wednesday,Walk-in,Medium,Tribal,Artist D,4,21927,Aftercare Kit,22427,Card,3
-43,Male,Saturday,Pre-booked,Large,Script,Artist A,6,49642,Consultation Fee,50642,Card,3
-35,Female,Tuesday,Pre-booked,Medium,Realism,Artist B,3,19068,Consultation Fee,20068,Card,4
-42,Male,Tuesday,Walk-in,Medium,Custom,Artist C,3,6025,Piercing,7525,Card,4
-50,Female,Thursday,Pre-booked,Medium,Custom,Artist C,3,43241,Aftercare Kit,43741,Cash,2
-53,Female,Tuesday,Pre-booked,Small,Custom,Artist A,2,39889,Piercing,41389,Cash,1
-54,Male,Saturday,Pre-booked,Medium,Minimalist,Artist D,2,5382,Aftercare Kit,5882,Cash,1
-25,Male,Saturday,Pre-booked,Medium,Script,Artist B,2,45012,Piercing,46512,UPI,1
-45,Female,Tuesday,Walk-in,Medium,Custom,Artist C,4,21120,Consultation Fee,22120,UPI,3
-31,Female,Sunday,Walk-in,Medium,Script,Artist D,4,33769,Piercing,35269,Card,1
-28,Female,Thursday,Walk-in,Sleeve/Back,Custom,Artist B,8,10311,Aftercare Kit,10811,UPI,2
-40,Female,Wednesday,Pre-booked,Medium,Custom,Artist A,4,35134,Aftercare Kit,35634,UPI,2
-38,Male,Friday,Pre-booked,Large,Minimalist,Artist A,4,18518,Aftercare Kit,19018,UPI,1
-43,Male,Wednesday,Walk-in,Large,Tribal,Artist D,4,10686,Aftercare Kit,11186,Cash,1
-53,Female,Friday,Pre-booked,Medium,Custom,Artist A,4,42356,Aftercare Kit,42856,Cash,2
-40,Female,Sunday,Walk-in,Large,Script,Artist C,6,20413,Aftercare Kit,20913,UPI,2
-18,Male,Friday,Pre-booked,Small,Minimalist,Artist D,1,20036,Piercing,21536,Card,2
-42,Male,Friday,Pre-booked,Small,Tribal,Artist C,2,45198,Piercing,46698,Cash,4
-35,Female,Wednesday,Pre-booked,Small,Minimalist,Artist C,1,47925,Consultation Fee,48925,UPI,2
-51,Female,Saturday,Pre-booked,Small,Custom,Artist D,1,33779,Aftercare Kit,34279,UPI,3
-34,Female,Wednesday,Pre-booked,Medium,Realism,Artist A,4,36562,Consultation Fee,37562,Cash,5
-41,Male,Monday,Pre-booked,Small,Realism,Artist B,1,4168,Aftercare Kit,4668,UPI,3
-42,Female,Monday,Pre-booked,Large,Minimalist,Artist B,5,24468,Consultation Fee,25468,Cash,3
-23,Male,Thursday,Pre-booked,Large,Tribal,Artist B,6,11507,Aftercare Kit,12007,Card,3
-50,Female,Monday,Pre-booked,Large,Script,Artist B,6,12102,Aftercare Kit,12602,Card,2
-43,Female,Monday,Walk-in,Small,Custom,Artist D,1,27111,Piercing,28611,Cash,4
-45,Male,Wednesday,Pre-booked,Large,Tribal,Artist B,5,17594,Consultation Fee,18594,Cash,2
-37,Male,Sunday,Pre-booked,Large,Custom,Artist B,6,43784,Consultation Fee,44784,Card,5
-37,Male,Wednesday,Walk-in,Medium,Custom,Artist B,4,12963,Consultation Fee,13963,UPI,5
-45,Male,Monday,Pre-booked,Medium,Script,Artist D,3,39863,Piercing,41363,UPI,5
-24,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist D,2,24614,Consultation Fee,25614,UPI,2
-18,Male,Sunday,Walk-in,Medium,Script,Artist A,2,5560,Piercing,7060,Card,5
-47,Male,Saturday,Walk-in,Small,Script,Artist A,1,9601,Piercing,11101,UPI,4
-40,Male,Saturday,Pre-booked,Medium,Custom,Artist C,3,5442,Aftercare Kit,5942,UPI,2
-36,Male,Saturday,Walk-in,Small,Custom,Artist A,2,12983,Aftercare Kit,13483,Cash,3
-49,Male,Wednesday,Walk-in,Small,Minimalist,Artist B,1,32409,Consultation Fee,33409,UPI,2
-47,Male,Friday,Walk-in,Small,Tribal,Artist A,1,28132,Consultation Fee,29132,Cash,4
-46,Male,Sunday,Pre-booked,Small,Script,Artist C,1,21750,Consultation Fee,22750,Cash,3
-47,Male,Tuesday,Walk-in,Large,Script,Artist B,6,33212,Piercing,34712,UPI,1
-36,Male,Sunday,Walk-in,Medium,Minimalist,Artist D,3,17313,Consultation Fee,18313,UPI,3
-18,Female,Monday,Pre-booked,Medium,Custom,Artist A,3,46794,Aftercare Kit,47294,Card,4
-31,Male,Thursday,Pre-booked,Large,Realism,Artist D,4,48242,Consultation Fee,49242,UPI,3
-47,Female,Monday,Walk-in,Large,Tribal,Artist A,4,19211,Piercing,20711,Cash,1
-25,Other,Monday,Walk-in,Large,Minimalist,Artist C,5,30490,Piercing,31990,UPI,5
-49,Female,Sunday,Pre-booked,Medium,Realism,Artist D,4,31413,Aftercare Kit,31913,Cash,3
-51,Male,Wednesday,Pre-booked,Medium,Custom,Artist D,4,36750,Consultation Fee,37750,UPI,3
-50,Male,Thursday,Pre-booked,Sleeve/Back,Realism,Artist A,6,46752,Piercing,48252,Card,4
-45,Male,Monday,Pre-booked,Small,Custom,Artist B,2,8380,Piercing,9880,UPI,1
-49,Male,Wednesday,Walk-in,Large,Minimalist,Artist B,4,36818,Consultation Fee,37818,Cash,4
-24,Male,Thursday,Pre-booked,Large,Custom,Artist A,6,43774,Aftercare Kit,44274,Cash,5
-46,Male,Friday,Pre-booked,Large,Script,Artist C,5,25188,Aftercare Kit,25688,UPI,4
-18,Female,Thursday,Pre-booked,Small,Minimalist,Artist C,2,42008,Consultation Fee,43008,Cash,5
-41,Female,Friday,Pre-booked,Small,Realism,Artist D,2,19864,Aftercare Kit,20364,UPI,1
-25,Female,Saturday,Walk-in,Large,Realism,Artist A,6,19716,Piercing,21216,UPI,1
-50,Male,Wednesday,Pre-booked,Medium,Script,Artist A,2,18734,Aftercare Kit,19234,Card,4
-25,Male,Monday,Walk-in,Small,Minimalist,Artist D,1,40284,Aftercare Kit,40784,Cash,4
-31,Female,Friday,Walk-in,Medium,Custom,Artist A,2,46032,Piercing,47532,Card,2
-49,Male,Wednesday,Walk-in,Small,Custom,Artist C,2,40582,Aftercare Kit,41082,UPI,2
-33,Male,Friday,Pre-booked,Sleeve/Back,Realism,Artist A,10,14774,Aftercare Kit,15274,Card,3
-38,Female,Wednesday,Walk-in,Medium,Custom,Artist D,3,46414,Aftercare Kit,46914,Card,5
-48,Male,Saturday,Walk-in,Small,Tribal,Artist C,1,13791,Piercing,15291,Cash,3
-35,Female,Thursday,Walk-in,Small,Minimalist,Artist A,2,22530,Piercing,24030,Cash,3
-27,Male,Friday,Pre-booked,Small,Script,Artist D,2,2693,Consultation Fee,3693,UPI,2
-50,Male,Friday,Walk-in,Medium,Custom,Artist B,4,2555,Aftercare Kit,3055,Cash,3
-38,Female,Sunday,Walk-in,Medium,Custom,Artist B,4,2783,Aftercare Kit,3283,Cash,2
-36,Female,Tuesday,Walk-in,Sleeve/Back,Realism,Artist B,9,28951,Aftercare Kit,29451,Card,1
-46,Female,Saturday,Walk-in,Sleeve/Back,Minimalist,Artist A,6,8809,Piercing,10309,Cash,2
-35,Female,Sunday,Pre-booked,Medium,Custom,Artist D,2,46924,Piercing,48424,Card,2
-18,Female,Thursday,Pre-booked,Medium,Tribal,Artist A,2,25036,Piercing,26536,Card,1
-28,Female,Wednesday,Pre-booked,Small,Script,Artist A,1,20566,Aftercare Kit,21066,UPI,1
-19,Male,Wednesday,Pre-booked,Medium,Custom,Artist C,2,18508,Consultation Fee,19508,UPI,2
-40,Female,Wednesday,Pre-booked,Medium,Tribal,Artist D,2,4230,Piercing,5730,UPI,2
-37,Male,Wednesday,Pre-booked,Small,Minimalist,Artist D,2,42592,Aftercare Kit,43092,UPI,2
-54,Male,Friday,Pre-booked,Small,Custom,Artist B,2,5727,Aftercare Kit,6227,Card,4
-26,Male,Monday,Walk-in,Small,Script,Artist B,1,45031,Consultation Fee,46031,UPI,3
-51,Male,Monday,Pre-booked,Large,Script,Artist C,5,16209,Piercing,17709,UPI,3
-39,Male,Friday,Pre-booked,Sleeve/Back,Custom,Artist B,9,43817,Aftercare Kit,44317,UPI,5
-41,Male,Friday,Walk-in,Small,Script,Artist D,2,9981,Consultation Fee,10981,UPI,2
-34,Male,Thursday,Pre-booked,Large,Custom,Artist B,4,48404,Consultation Fee,49404,UPI,1
-27,Female,Wednesday,Walk-in,Small,Custom,Artist B,1,9862,Piercing,11362,Card,4
-49,Female,Friday,Walk-in,Medium,Custom,Artist A,2,10513,Aftercare Kit,11013,UPI,2
-26,Male,Monday,Walk-in,Large,Script,Artist C,4,39097,Piercing,40597,UPI,3
-26,Male,Monday,Walk-in,Small,Minimalist,Artist D,2,47590,Consultation Fee,48590,Cash,3
-39,Male,Sunday,Walk-in,Small,Custom,Artist D,1,14075,Consultation Fee,15075,UPI,2
-21,Female,Wednesday,Walk-in,Medium,Script,Artist A,2,18602,Piercing,20102,UPI,2
-46,Female,Tuesday,Walk-in,Small,Custom,Artist D,2,32602,Consultation Fee,33602,UPI,5
-40,Male,Thursday,Walk-in,Large,Script,Artist D,4,6962,Piercing,8462,Card,1
-53,Other,Saturday,Pre-booked,Small,Custom,Artist C,2,45750,Consultation Fee,46750,Card,4
-34,Male,Sunday,Walk-in,Small,Realism,Artist C,1,18864,Aftercare Kit,19364,Cash,1
-42,Female,Sunday,Walk-in,Small,Script,Artist B,2,6849,Piercing,8349,Cash,4
-39,Other,Thursday,Walk-in,Small,Tribal,Artist A,1,27087,Consultation Fee,28087,Cash,2
-38,Male,Saturday,Pre-booked,Medium,Realism,Artist A,2,27466,Piercing,28966,UPI,4
-48,Female,Monday,Walk-in,Small,Custom,Artist A,1,5936,Aftercare Kit,6436,Cash,1
-23,Female,Wednesday,Pre-booked,Small,Realism,Artist A,1,18923,Aftercare Kit,19423,Cash,4
-44,Female,Tuesday,Walk-in,Medium,Custom,Artist C,4,19345,Piercing,20845,UPI,5
-34,Male,Thursday,Walk-in,Small,Script,Artist A,2,15151,Piercing,16651,UPI,1
-38,Male,Monday,Walk-in,Large,Tribal,Artist D,6,27731,Aftercare Kit,28231,UPI,3
-45,Female,Wednesday,Pre-booked,Small,Tribal,Artist D,2,13694,Aftercare Kit,14194,UPI,5
-19,Female,Thursday,Walk-in,Small,Realism,Artist C,1,44302,Aftercare Kit,44802,UPI,1
-43,Female,Tuesday,Pre-booked,Small,Script,Artist C,2,11428,Consultation Fee,12428,Cash,1
-38,Male,Tuesday,Pre-booked,Sleeve/Back,Minimalist,Artist B,9,30262,Consultation Fee,31262,Card,2
-28,Male,Sunday,Pre-booked,Large,Tribal,Artist C,4,16312,Aftercare Kit,16812,UPI,3
-28,Male,Wednesday,Walk-in,Large,Minimalist,Artist B,5,42236,Consultation Fee,43236,Cash,1
-51,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist B,6,30939,Consultation Fee,31939,UPI,4
-39,Male,Monday,Pre-booked,Small,Script,Artist A,2,18973,Piercing,20473,Card,1
-53,Male,Sunday,Walk-in,Small,Custom,Artist A,1,6778,Aftercare Kit,7278,UPI,5
-52,Male,Saturday,Pre-booked,Sleeve/Back,Realism,Artist D,6,49680,Piercing,51180,UPI,1
-51,Male,Saturday,Pre-booked,Medium,Custom,Artist A,4,31221,Consultation Fee,32221,UPI,5
-26,Male,Wednesday,Walk-in,Sleeve/Back,Minimalist,Artist B,6,3229,Piercing,4729,Card,2
-43,Male,Sunday,Pre-booked,Sleeve/Back,Minimalist,Artist B,9,34617,Aftercare Kit,35117,UPI,3
-19,Female,Tuesday,Walk-in,Small,Minimalist,Artist B,1,11755,Piercing,13255,Card,3
-18,Male,Friday,Walk-in,Sleeve/Back,Custom,Artist D,6,4479,Piercing,5979,UPI,5
-42,Male,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist A,7,45555,Aftercare Kit,46055,Card,4
-42,Female,Wednesday,Pre-booked,Small,Tribal,Artist C,2,27590,Aftercare Kit,28090,Card,1
-47,Male,Sunday,Walk-in,Small,Minimalist,Artist D,2,23615,Piercing,25115,UPI,4
-36,Female,Wednesday,Pre-booked,Medium,Script,Artist D,4,2242,Aftercare Kit,2742,Card,5
-34,Female,Monday,Pre-booked,Small,Custom,Artist D,2,48373,Piercing,49873,Card,1
-27,Male,Tuesday,Walk-in,Sleeve/Back,Custom,Artist B,7,34157,Aftercare Kit,34657,Card,1
-29,Male,Monday,Pre-booked,Sleeve/Back,Minimalist,Artist A,9,33335,Piercing,34835,Cash,1
-33,Female,Monday,Walk-in,Large,Tribal,Artist B,6,30577,Consultation Fee,31577,Cash,5
-41,Male,Wednesday,Pre-booked,Small,Tribal,Artist A,2,28470,Consultation Fee,29470,UPI,1
-36,Male,Friday,Walk-in,Small,Realism,Artist B,1,49694,Piercing,51194,UPI,2
-25,Male,Friday,Walk-in,Medium,Script,Artist B,3,6594,Aftercare Kit,7094,UPI,2
-40,Female,Wednesday,Pre-booked,Small,Custom,Artist A,2,27193,Piercing,28693,UPI,3
-54,Male,Wednesday,Pre-booked,Sleeve/Back,Custom,Artist B,9,47171,Piercing,48671,Card,2
-33,Female,Friday,Walk-in,Sleeve/Back,Minimalist,Artist B,7,33592,Piercing,35092,Card,4
-23,Female,Thursday,Walk-in,Small,Script,Artist B,1,9943,Aftercare Kit,10443,UPI,2
-29,Male,Friday,Pre-booked,Medium,Realism,Artist D,2,46684,Piercing,48184,Cash,4
-32,Male,Friday,Pre-booked,Sleeve/Back,Tribal,Artist A,7,21846,Piercing,23346,UPI,4
-43,Female,Sunday,Walk-in,Small,Script,Artist B,2,5617,Piercing,7117,Card,4
-49,Female,Monday,Walk-in,Medium,Tribal,Artist A,3,43436,Piercing,44936,UPI,2
-27,Male,Wednesday,Walk-in,Small,Custom,Artist A,1,44406,Consultation Fee,45406,UPI,4
-33,Female,Tuesday,Walk-in,Large,Minimalist,Artist B,4,7941,Piercing,9441,Cash,5
-24,Male,Sunday,Pre-booked,Medium,Script,Artist B,3,25943,Aftercare Kit,26443,Cash,3
-43,Female,Friday,Walk-in,Large,Tribal,Artist C,4,7272,Piercing,8772,Cash,1
-38,Male,Tuesday,Pre-booked,Small,Custom,Artist A,2,32122,Aftercare Kit,32622,Card,5
-24,Female,Monday,Pre-booked,Small,Custom,Artist D,2,44453,Piercing,45953,Card,5
-31,Male,Thursday,Pre-booked,Small,Realism,Artist A,1,15311,Consultation Fee,16311,Cash,5
-32,Male,Monday,Walk-in,Medium,Realism,Artist D,2,13574,Aftercare Kit,14074,UPI,4
-24,Male,Thursday,Walk-in,Sleeve/Back,Realism,Artist C,8,38338,Piercing,39838,Cash,1
-40,Male,Wednesday,Pre-booked,Small,Realism,Artist A,1,45301,Piercing,46801,UPI,5
-46,Female,Tuesday,Walk-in,Small,Realism,Artist A,1,14517,Piercing,16017,Cash,2
-35,Female,Tuesday,Pre-booked,Medium,Tribal,Artist A,4,21586,Aftercare Kit,22086,Cash,4
-48,Male,Friday,Walk-in,Medium,Realism,Artist C,3,47605,Aftercare Kit,48105,UPI,3
-41,Male,Saturday,Walk-in,Small,Minimalist,Artist A,1,7561,Aftercare Kit,8061,UPI,4
-52,Male,Thursday,Walk-in,Small,Tribal,Artist C,2,43470,Aftercare Kit,43970,Cash,1
-20,Male,Wednesday,Walk-in,Small,Minimalist,Artist C,1,14416,Consultation Fee,15416,Cash,3
-32,Male,Friday,Pre-booked,Small,Custom,Artist C,1,3662,Piercing,5162,UPI,1
-46,Other,Thursday,Pre-booked,Small,Script,Artist A,1,40859,Piercing,42359,UPI,1
-42,Male,Saturday,Pre-booked,Large,Tribal,Artist B,4,34062,Aftercare Kit,34562,Cash,3
-50,Male,Friday,Pre-booked,Sleeve/Back,Tribal,Artist B,6,37425,Consultation Fee,38425,Cash,5
-33,Female,Monday,Pre-booked,Small,Tribal,Artist C,1,44166,Consultation Fee,45166,Card,2
-52,Male,Friday,Walk-in,Small,Custom,Artist C,2,34747,Consultation Fee,35747,UPI,2
-47,Female,Monday,Walk-in,Small,Script,Artist B,2,31445,Aftercare Kit,31945,UPI,3
-35,Male,Thursday,Walk-in,Medium,Custom,Artist B,4,24235,Consultation Fee,25235,Cash,2
-49,Male,Tuesday,Pre-booked,Sleeve/Back,Tribal,Artist B,7,5673,Aftercare Kit,6173,Card,5
-52,Female,Friday,Pre-booked,Small,Realism,Artist C,1,49252,Aftercare Kit,49752,Card,3
-46,Male,Saturday,Pre-booked,Medium,Realism,Artist A,2,4805,Aftercare Kit,5305,Card,5
-33,Female,Monday,Walk-in,Small,Custom,Artist A,2,9745,Aftercare Kit,10245,Card,3
-27,Female,Tuesday,Pre-booked,Medium,Script,Artist C,4,15872,Aftercare Kit,16372,Card,5
-42,Female,Wednesday,Pre-booked,Medium,Tribal,Artist D,4,45733,Aftercare Kit,46233,Cash,2
-37,Male,Thursday,Pre-booked,Medium,Realism,Artist A,3,36283,Piercing,37783,Card,5
-22,Female,Monday,Pre-booked,Small,Custom,Artist C,2,32039,Aftercare Kit,32539,UPI,1
-31,Female,Tuesday,Pre-booked,Sleeve/Back,Tribal,Artist C,9,39968,Piercing,41468,UPI,4
-47,Male,Saturday,Walk-in,Medium,Tribal,Artist B,3,17268,Aftercare Kit,17768,Card,3
-21,Female,Friday,Pre-booked,Small,Script,Artist A,1,6720,Aftercare Kit,7220,Card,1
-35,Female,Tuesday,Pre-booked,Large,Tribal,Artist C,5,4416,Consultation Fee,5416,Card,2
-42,Male,Thursday,Pre-booked,Small,Tribal,Artist C,2,34040,Piercing,35540,Cash,5
-18,Male,Tuesday,Walk-in,Large,Realism,Artist D,6,44849,Piercing,46349,Card,4
-32,Female,Wednesday,Pre-booked,Large,Script,Artist B,4,3249,Aftercare Kit,3749,Card,4
-29,Male,Friday,Pre-booked,Small,Script,Artist B,2,47960,Consultation Fee,48960,Card,1
-54,Male,Thursday,Pre-booked,Small,Custom,Artist B,1,44518,Aftercare Kit,45018,Cash,3
-54,Male,Monday,Pre-booked,Large,Custom,Artist C,6,10554,Piercing,12054,UPI,3
-25,Female,Friday,Pre-booked,Medium,Tribal,Artist D,3,13186,Piercing,14686,Cash,5
-27,Male,Saturday,Pre-booked,Medium,Tribal,Artist A,4,8968,Consultation Fee,9968,Card,2
-20,Other,Wednesday,Pre-booked,Medium,Tribal,Artist B,2,40992,Aftercare Kit,41492,UPI,4
-22,Female,Monday,Walk-in,Small,Script,Artist C,1,16455,Aftercare Kit,16955,Card,1
-26,Female,Friday,Pre-booked,Medium,Tribal,Artist A,4,29932,Aftercare Kit,30432,Card,2
-52,Male,Thursday,Pre-booked,Medium,Realism,Artist B,4,24108,Aftercare Kit,24608,UPI,3
-52,Male,Monday,Pre-booked,Medium,Script,Artist D,3,28346,Piercing,29846,Card,2
-35,Female,Friday,Pre-booked,Small,Script,Artist D,2,23249,Aftercare Kit,23749,UPI,3
-41,Male,Friday,Walk-in,Medium,Minimalist,Artist A,4,46832,Consultation Fee,47832,Cash,4
-20,Male,Friday,Pre-booked,Medium,Script,Artist D,4,39746,Aftercare Kit,40246,Cash,2
-26,Male,Thursday,Pre-booked,Small,Script,Artist B,2,4987,Piercing,6487,UPI,1
-21,Male,Friday,Walk-in,Medium,Custom,Artist B,2,40868,Piercing,42368,Card,2
-31,Female,Friday,Pre-booked,Sleeve/Back,Custom,Artist A,9,13367,Piercing,14867,UPI,5
-46,Female,Friday,Pre-booked,Small,Script,Artist B,1,29207,Consultation Fee,30207,UPI,3
-26,Female,Sunday,Pre-booked,Small,Tribal,Artist A,2,13013,Consultation Fee,14013,Card,1
-20,Male,Tuesday,Pre-booked,Sleeve/Back,Tribal,Artist D,8,47632,Aftercare Kit,48132,Card,2
-42,Female,Saturday,Pre-booked,Small,Custom,Artist C,2,26243,Aftercare Kit,26743,UPI,1
-29,Male,Thursday,Pre-booked,Small,Tribal,Artist C,2,12813,Consultation Fee,13813,UPI,4
-42,Male,Sunday,Walk-in,Medium,Script,Artist A,4,40141,Piercing,41641,Cash,4
-22,Male,Sunday,Walk-in,Sleeve/Back,Custom,Artist A,7,4667,Consultation Fee,5667,Cash,2
-28,Male,Sunday,Pre-booked,Small,Script,Artist C,2,10740,Consultation Fee,11740,Cash,5
-51,Female,Monday,Pre-booked,Medium,Custom,Artist D,4,8551,Consultation Fee,9551,Cash,3
-32,Female,Saturday,Pre-booked,Small,Script,Artist A,1,42136,Consultation Fee,43136,UPI,4
-23,Female,Saturday,Pre-booked,Medium,Minimalist,Artist B,2,7290,Piercing,8790,Card,4
-54,Male,Tuesday,Pre-booked,Small,Script,Artist C,1,2416,Aftercare Kit,2916,UPI,4
-30,Female,Friday,Walk-in,Small,Script,Artist A,1,2473,Piercing,3973,UPI,5
-45,Male,Friday,Pre-booked,Small,Script,Artist B,2,13758,Piercing,15258,UPI,2
-34,Male,Tuesday,Pre-booked,Small,Minimalist,Artist D,1,44713,Aftercare Kit,45213,Cash,1
-49,Male,Friday,Pre-booked,Small,Script,Artist D,1,40910,Aftercare Kit,41410,Card,5
-46,Female,Friday,Walk-in,Medium,Tribal,Artist A,4,20594,Aftercare Kit,21094,UPI,3
-50,Female,Tuesday,Pre-booked,Large,Tribal,Artist D,5,10316,Piercing,11816,UPI,2
-23,Male,Wednesday,Pre-booked,Medium,Script,Artist D,3,15510,Piercing,17010,Card,2
-41,Male,Sunday,Pre-booked,Large,Minimalist,Artist C,6,11377,Piercing,12877,Card,2
-36,Female,Wednesday,Pre-booked,Sleeve/Back,Script,Artist D,8,43931,Consultation Fee,44931,Card,4
-30,Female,Monday,Walk-in,Small,Custom,Artist C,2,29002,Consultation Fee,30002,UPI,2
-42,Female,Monday,Walk-in,Sleeve/Back,Custom,Artist C,7,17679,Aftercare Kit,18179,UPI,3
-53,Female,Friday,Pre-booked,Small,Script,Artist A,2,13439,Aftercare Kit,13939,Cash,2
-22,Male,Tuesday,Pre-booked,Small,Custom,Artist D,1,4465,Piercing,5965,Cash,3
-27,Male,Tuesday,Walk-in,Medium,Minimalist,Artist C,3,49002,Consultation Fee,50002,UPI,4
-47,Male,Tuesday,Pre-booked,Small,Script,Artist C,1,42111,Consultation Fee,43111,Card,5
-19,Male,Thursday,Pre-booked,Large,Minimalist,Artist A,6,24796,Piercing,26296,UPI,1
-31,Other,Saturday,Pre-booked,Small,Realism,Artist A,1,29445,Consultation Fee,30445,Card,5
-30,Male,Thursday,Walk-in,Medium,Tribal,Artist D,3,2299,Aftercare Kit,2799,UPI,2
-46,Male,Sunday,Pre-booked,Small,Script,Artist D,1,38550,Piercing,40050,UPI,5
-49,Male,Monday,Pre-booked,Large,Script,Artist D,5,9700,Consultation Fee,10700,Cash,5
-30,Male,Sunday,Pre-booked,Small,Realism,Artist D,1,36747,Aftercare Kit,37247,Card,1
-44,Male,Wednesday,Walk-in,Small,Tribal,Artist D,1,8270,Piercing,9770,Card,5
-34,Male,Tuesday,Pre-booked,Medium,Realism,Artist C,4,42561,Consultation Fee,43561,UPI,2
-48,Male,Saturday,Walk-in,Large,Script,Artist B,4,25717,Piercing,27217,Card,5
-51,Male,Friday,Pre-booked,Medium,Minimalist,Artist D,3,37371,Piercing,38871,UPI,2
-52,Male,Tuesday,Walk-in,Medium,Script,Artist B,2,16370,Aftercare Kit,16870,UPI,1
-47,Female,Tuesday,Pre-booked,Large,Tribal,Artist B,6,45209,Piercing,46709,UPI,3
-51,Male,Thursday,Pre-booked,Sleeve/Back,Custom,Artist C,8,14695,Consultation Fee,15695,Cash,4
-45,Male,Friday,Pre-booked,Medium,Custom,Artist A,2,9384,Piercing,10884,Card,4
-54,Female,Friday,Pre-booked,Small,Minimalist,Artist C,2,33091,Piercing,34591,UPI,3
-46,Male,Sunday,Walk-in,Medium,Custom,Artist A,3,34605,Aftercare Kit,35105,Card,1
-39,Male,Wednesday,Pre-booked,Small,Realism,Artist D,1,13555,Aftercare Kit,14055,Card,2
-21,Female,Tuesday,Walk-in,Medium,Script,Artist A,3,12470,Aftercare Kit,12970,UPI,3
-49,Female,Wednesday,Walk-in,Small,Tribal,Artist A,1,4825,Aftercare Kit,5325,UPI,5
-53,Female,Friday,Pre-booked,Small,Custom,Artist A,2,5540,Piercing,7040,Cash,1
-44,Male,Saturday,Pre-booked,Medium,Script,Artist D,3,25867,Piercing,27367,Cash,5
-39,Female,Friday,Pre-booked,Small,Script,Artist A,2,30486,Piercing,31986,UPI,5
-18,Male,Tuesday,Pre-booked,Medium,Custom,Artist A,4,42423,Consultation Fee,43423,UPI,4
-39,Female,Sunday,Pre-booked,Large,Custom,Artist C,4,31697,Piercing,33197,Cash,5
-46,Female,Saturday,Walk-in,Medium,Realism,Artist A,3,37216,Aftercare Kit,37716,UPI,3
-53,Female,Wednesday,Pre-booked,Small,Realism,Artist A,2,12357,Consultation Fee,13357,Card,2
-23,Male,Wednesday,Pre-booked,Medium,Tribal,Artist D,2,49277,Aftercare Kit,49777,Cash,3
-28,Female,Wednesday,Pre-booked,Medium,Minimalist,Artist B,2,39995,Aftercare Kit,40495,UPI,2
-40,Other,Monday,Pre-booked,Large,Tribal,Artist A,6,23362,Consultation Fee,24362,UPI,5
-43,Male,Saturday,Walk-in,Small,Custom,Artist B,2,29463,Piercing,30963,Cash,1
-46,Male,Monday,Pre-booked,Small,Script,Artist A,2,23344,Aftercare Kit,23844,UPI,1
-34,Female,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist C,9,9217,Aftercare Kit,9717,Card,1
-30,Male,Friday,Walk-in,Small,Custom,Artist C,1,16927,Consultation Fee,17927,Cash,2
-32,Male,Saturday,Walk-in,Small,Minimalist,Artist A,1,8426,Piercing,9926,Cash,4
-46,Female,Wednesday,Walk-in,Small,Tribal,Artist C,1,17539,Aftercare Kit,18039,Card,1
-46,Male,Sunday,Walk-in,Small,Script,Artist A,2,29039,Aftercare Kit,29539,Cash,3
-19,Female,Sunday,Pre-booked,Large,Script,Artist D,4,16461,Aftercare Kit,16961,Card,5
-31,Male,Friday,Pre-booked,Sleeve/Back,Minimalist,Artist A,9,6818,Aftercare Kit,7318,Cash,3
-37,Female,Sunday,Pre-booked,Medium,Minimalist,Artist A,4,32866,Aftercare Kit,33366,UPI,1
-44,Female,Saturday,Pre-booked,Sleeve/Back,Custom,Artist A,8,5561,Aftercare Kit,6061,Card,1
-34,Male,Saturday,Pre-booked,Small,Realism,Artist A,2,11498,Aftercare Kit,11998,Cash,2
-36,Female,Saturday,Pre-booked,Medium,Realism,Artist C,2,31998,Piercing,33498,UPI,2
-22,Female,Thursday,Pre-booked,Small,Script,Artist B,1,49174,Piercing,50674,UPI,4
-20,Male,Tuesday,Walk-in,Small,Realism,Artist D,2,14724,Piercing,16224,Cash,5
-32,Female,Thursday,Pre-booked,Sleeve/Back,Custom,Artist C,8,25500,Aftercare Kit,26000,UPI,4
-51,Female,Monday,Pre-booked,Small,Custom,Artist B,2,19674,Piercing,21174,Card,2
-52,Female,Friday,Pre-booked,Medium,Custom,Artist A,4,15252,Consultation Fee,16252,Cash,2
-42,Female,Saturday,Walk-in,Medium,Custom,Artist C,3,24012,Piercing,25512,Cash,2
-44,Male,Monday,Pre-booked,Medium,Script,Artist A,4,20389,Consultation Fee,21389,UPI,4
-25,Male,Wednesday,Pre-booked,Small,Custom,Artist B,1,10945,Aftercare Kit,11445,Card,4
-34,Female,Sunday,Walk-in,Small,Tribal,Artist C,2,32509,Piercing,34009,Card,3
-46,Female,Wednesday,Pre-booked,Large,Script,Artist D,5,32053,Aftercare Kit,32553,Card,3
-32,Male,Tuesday,Pre-booked,Sleeve/Back,Custom,Artist B,6,13219,Aftercare Kit,13719,Cash,2
-44,Male,Saturday,Pre-booked,Large,Realism,Artist A,4,24516,Consultation Fee,25516,UPI,4
-24,Female,Sunday,Pre-booked,Large,Tribal,Artist B,4,16408,Aftercare Kit,16908,Cash,5
-20,Female,Tuesday,Pre-booked,Small,Tribal,Artist C,2,21343,Aftercare Kit,21843,Cash,3
-46,Female,Tuesday,Pre-booked,Medium,Minimalist,Artist C,2,41559,Aftercare Kit,42059,Card,2
-41,Male,Tuesday,Walk-in,Medium,Custom,Artist C,3,12275,Aftercare Kit,12775,Card,1
-32,Female,Tuesday,Pre-booked,Sleeve/Back,Minimalist,Artist A,8,13136,Consultation Fee,14136,Card,2
-47,Male,Wednesday,Pre-booked,Small,Minimalist,Artist B,2,38225,Piercing,39725,UPI,3
-31,Female,Sunday,Walk-in,Large,Minimalist,Artist C,5,17053,Piercing,18553,Cash,3
-24,Female,Wednesday,Walk-in,Medium,Script,Artist A,3,7667,Aftercare Kit,8167,Card,4
-37,Female,Tuesday,Pre-booked,Small,Realism,Artist C,2,36194,Consultation Fee,37194,Cash,3
-25,Male,Wednesday,Walk-in,Large,Script,Artist B,6,20295,Piercing,21795,Cash,4
-28,Male,Wednesday,Pre-booked,Small,Realism,Artist C,1,2950,Consultation Fee,3950,Cash,3
-25,Female,Thursday,Walk-in,Small,Script,Artist B,1,18164,Aftercare Kit,18664,Card,2
-38,Male,Thursday,Pre-booked,Small,Custom,Artist A,1,18241,Consultation Fee,19241,Card,3
-35,Female,Tuesday,Pre-booked,Medium,Custom,Artist A,2,23449,Consultation Fee,24449,UPI,4
-47,Male,Sunday,Pre-booked,Large,Tribal,Artist A,5,30458,Consultation Fee,31458,UPI,3
-35,Male,Thursday,Walk-in,Small,Realism,Artist B,1,39975,Aftercare Kit,40475,Cash,1
-28,Male,Sunday,Pre-booked,Medium,Tribal,Artist A,3,11762,Consultation Fee,12762,UPI,2
-25,Female,Friday,Pre-booked,Small,Tribal,Artist D,1,29379,Aftercare Kit,29879,UPI,3
-28,Female,Tuesday,Pre-booked,Medium,Realism,Artist C,3,4898,Piercing,6398,Card,3
-34,Male,Sunday,Walk-in,Large,Tribal,Artist A,5,35044,Aftercare Kit,35544,UPI,4
-49,Male,Wednesday,Pre-booked,Small,Minimalist,Artist C,1,29898,Consultation Fee,30898,Cash,2
-32,Male,Thursday,Pre-booked,Sleeve/Back,Custom,Artist B,6,36807,Consultation Fee,37807,UPI,3
-33,Male,Friday,Pre-booked,Medium,Tribal,Artist C,4,27842,Piercing,29342,Card,2
-39,Male,Monday,Walk-in,Small,Minimalist,Artist B,2,33409,Aftercare Kit,33909,Card,4
-50,Male,Friday,Walk-in,Medium,Script,Artist A,2,31651,Consultation Fee,32651,Cash,4
-50,Male,Sunday,Pre-booked,Small,Minimalist,Artist B,2,7445,Consultation Fee,8445,Cash,2
-50,Male,Wednesday,Pre-booked,Medium,Script,Artist A,2,2814,Consultation Fee,3814,UPI,1
-30,Female,Tuesday,Walk-in,Large,Realism,Artist D,6,49958,Aftercare Kit,50458,UPI,2
-50,Male,Wednesday,Walk-in,Sleeve/Back,Script,Artist D,6,16287,Aftercare Kit,16787,Cash,4
-39,Male,Saturday,Pre-booked,Medium,Minimalist,Artist A,3,21384,Piercing,22884,Cash,1
-19,Female,Tuesday,Pre-booked,Small,Custom,Artist B,2,17667,Piercing,19167,UPI,2
-43,Female,Saturday,Pre-booked,Sleeve/Back,Script,Artist C,9,44443,Consultation Fee,45443,UPI,2
-51,Female,Tuesday,Pre-booked,Small,Tribal,Artist C,2,3043,Piercing,4543,Cash,4
-20,Male,Monday,Pre-booked,Small,Realism,Artist A,1,45845,Piercing,47345,Card,5
-23,Female,Wednesday,Walk-in,Large,Script,Artist D,6,21977,Aftercare Kit,22477,Cash,5
-26,Male,Saturday,Pre-booked,Medium,Script,Artist C,4,12603,Aftercare Kit,13103,Card,4
-23,Female,Wednesday,Walk-in,Small,Tribal,Artist C,2,48091,Aftercare Kit,48591,Card,4
-49,Male,Monday,Walk-in,Small,Custom,Artist A,2,40250,Consultation Fee,41250,Cash,2
-25,Male,Saturday,Pre-booked,Medium,Minimalist,Artist B,3,31808,Aftercare Kit,32308,Card,4
-45,Female,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist D,7,11084,Aftercare Kit,11584,Card,4
-28,Male,Friday,Pre-booked,Small,Minimalist,Artist B,2,14120,Aftercare Kit,14620,Cash,2
-33,Male,Friday,Walk-in,Small,Custom,Artist D,2,43078,Aftercare Kit,43578,UPI,1
-21,Male,Wednesday,Walk-in,Large,Script,Artist D,5,32428,Consultation Fee,33428,UPI,2
-23,Female,Tuesday,Walk-in,Sleeve/Back,Minimalist,Artist B,7,48130,Aftercare Kit,48630,UPI,5
-39,Male,Tuesday,Pre-booked,Large,Custom,Artist A,5,43510,Consultation Fee,44510,Card,5
-43,Male,Thursday,Pre-booked,Small,Realism,Artist A,1,2089,Aftercare Kit,2589,Card,5
-20,Male,Saturday,Walk-in,Sleeve/Back,Script,Artist B,6,43111,Consultation Fee,44111,UPI,3
-31,Male,Sunday,Pre-booked,Medium,Minimalist,Artist A,4,6633,Consultation Fee,7633,Card,4
-28,Male,Sunday,Pre-booked,Small,Realism,Artist B,1,27223,Piercing,28723,UPI,4
-40,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist D,3,36794,Consultation Fee,37794,UPI,5
-29,Male,Sunday,Pre-booked,Small,Realism,Artist C,1,4143,Aftercare Kit,4643,Cash,4
-30,Male,Sunday,Walk-in,Medium,Minimalist,Artist B,4,21437,Piercing,22937,Card,3
-53,Female,Sunday,Walk-in,Medium,Script,Artist D,3,47747,Consultation Fee,48747,Cash,4
-25,Female,Saturday,Walk-in,Medium,Realism,Artist A,2,42140,Aftercare Kit,42640,Card,5
-46,Male,Monday,Pre-booked,Large,Script,Artist A,5,37549,Consultation Fee,38549,UPI,1
-49,Male,Friday,Pre-booked,Sleeve/Back,Custom,Artist D,8,39698,Piercing,41198,UPI,3
-35,Female,Saturday,Pre-booked,Small,Tribal,Artist D,2,7305,Aftercare Kit,7805,Card,3
-39,Male,Thursday,Pre-booked,Medium,Custom,Artist B,3,24000,Piercing,25500,UPI,4
-54,Male,Monday,Pre-booked,Large,Minimalist,Artist B,6,5592,Consultation Fee,6592,UPI,2
-45,Male,Thursday,Walk-in,Large,Script,Artist A,4,25854,Piercing,27354,Card,5
-27,Male,Friday,Pre-booked,Sleeve/Back,Script,Artist C,7,5379,Piercing,6879,UPI,2
-32,Male,Wednesday,Pre-booked,Small,Custom,Artist D,1,25959,Consultation Fee,26959,Card,4
-50,Male,Friday,Pre-booked,Medium,Realism,Artist C,3,32497,Piercing,33997,UPI,5
-24,Female,Sunday,Walk-in,Small,Custom,Artist D,1,42575,Piercing,44075,Cash,2
-38,Female,Monday,Pre-booked,Medium,Tribal,Artist B,2,26014,Consultation Fee,27014,UPI,2
-37,Male,Tuesday,Pre-booked,Medium,Custom,Artist A,4,38620,Piercing,40120,UPI,3
-54,Male,Sunday,Walk-in,Small,Tribal,Artist C,2,48194,Aftercare Kit,48694,Card,1
-49,Female,Thursday,Pre-booked,Medium,Tribal,Artist C,2,11070,Consultation Fee,12070,Card,2
-53,Female,Tuesday,Walk-in,Small,Custom,Artist A,2,23949,Aftercare Kit,24449,UPI,1
-53,Male,Sunday,Walk-in,Sleeve/Back,Tribal,Artist B,9,37365,Consultation Fee,38365,UPI,4
-53,Female,Saturday,Walk-in,Large,Realism,Artist D,6,40018,Piercing,41518,Cash,3
-35,Female,Thursday,Walk-in,Medium,Minimalist,Artist C,2,23001,Consultation Fee,24001,Card,1
-38,Male,Saturday,Pre-booked,Medium,Custom,Artist B,2,25115,Aftercare Kit,25615,Card,2
-32,Male,Thursday,Pre-booked,Small,Minimalist,Artist C,1,19521,Aftercare Kit,20021,UPI,3
-50,Female,Thursday,Walk-in,Small,Custom,Artist A,1,35001,Piercing,36501,Card,3
-52,Female,Wednesday,Pre-booked,Medium,Minimalist,Artist A,2,46579,Piercing,48079,Cash,2
-40,Female,Tuesday,Walk-in,Sleeve/Back,Minimalist,Artist D,9,26432,Aftercare Kit,26932,Cash,1
-31,Male,Tuesday,Walk-in,Large,Script,Artist C,4,31649,Consultation Fee,32649,Cash,3
-19,Female,Monday,Walk-in,Small,Minimalist,Artist A,1,33865,Aftercare Kit,34365,Cash,5
-54,Male,Sunday,Walk-in,Small,Minimalist,Artist A,1,34863,Consultation Fee,35863,Card,1
-42,Male,Saturday,Walk-in,Sleeve/Back,Script,Artist B,9,32812,Aftercare Kit,33312,Card,2
-19,Male,Saturday,Pre-booked,Medium,Script,Artist C,3,36858,Piercing,38358,Cash,1
-23,Male,Sunday,Pre-booked,Small,Custom,Artist C,2,46453,Aftercare Kit,46953,Cash,1
-40,Male,Tuesday,Pre-booked,Small,Custom,Artist D,2,7721,Aftercare Kit,8221,UPI,4
-28,Female,Thursday,Pre-booked,Medium,Realism,Artist A,2,27603,Consultation Fee,28603,Cash,3
-27,Female,Sunday,Pre-booked,Small,Minimalist,Artist A,2,13718,Consultation Fee,14718,UPI,1
-31,Male,Saturday,Pre-booked,Small,Realism,Artist C,1,7042,Aftercare Kit,7542,UPI,3
-46,Male,Tuesday,Pre-booked,Medium,Script,Artist C,2,20084,Piercing,21584,UPI,5
-27,Female,Tuesday,Walk-in,Medium,Script,Artist B,2,9341,Consultation Fee,10341,UPI,3
-47,Male,Sunday,Walk-in,Small,Custom,Artist C,2,11696,Consultation Fee,12696,Card,1
-18,Male,Monday,Walk-in,Medium,Custom,Artist A,3,34527,Consultation Fee,35527,Cash,5
-22,Female,Sunday,Pre-booked,Medium,Minimalist,Artist D,2,11863,Consultation Fee,12863,UPI,2
-18,Female,Friday,Walk-in,Small,Custom,Artist D,2,3487,Consultation Fee,4487,Cash,2
-54,Female,Monday,Pre-booked,Medium,Custom,Artist C,4,46721,Piercing,48221,Card,1
-45,Male,Thursday,Walk-in,Medium,Minimalist,Artist A,4,24721,Aftercare Kit,25221,UPI,2
-32,Female,Sunday,Pre-booked,Small,Minimalist,Artist A,2,29533,Aftercare Kit,30033,Card,1
-23,Female,Monday,Pre-booked,Small,Minimalist,Artist A,2,31088,Piercing,32588,UPI,1
-37,Female,Saturday,Walk-in,Small,Script,Artist C,1,44250,Piercing,45750,Card,1
-19,Female,Friday,Pre-booked,Medium,Realism,Artist B,4,21104,Aftercare Kit,21604,Cash,4
-54,Female,Friday,Pre-booked,Sleeve/Back,Minimalist,Artist B,10,6125,Piercing,7625,Cash,2
-37,Female,Tuesday,Pre-booked,Small,Minimalist,Artist C,1,3444,Piercing,4944,UPI,4
-46,Male,Sunday,Walk-in,Medium,Realism,Artist D,3,36053,Piercing,37553,Card,4
-52,Female,Thursday,Pre-booked,Small,Minimalist,Artist D,2,24012,Aftercare Kit,24512,Card,2
-23,Male,Tuesday,Walk-in,Medium,Custom,Artist A,2,28980,Consultation Fee,29980,Card,3
-50,Male,Thursday,Pre-booked,Sleeve/Back,Minimalist,Artist A,7,44975,Piercing,46475,Card,5
-31,Male,Tuesday,Pre-booked,Small,Realism,Artist D,1,44339,Consultation Fee,45339,Card,5
-51,Male,Tuesday,Pre-booked,Small,Realism,Artist C,2,45637,Piercing,47137,UPI,3
-46,Female,Monday,Walk-in,Sleeve/Back,Script,Artist B,7,36744,Aftercare Kit,37244,Card,1
-48,Male,Tuesday,Pre-booked,Sleeve/Back,Script,Artist B,8,37944,Aftercare Kit,38444,UPI,1
-37,Female,Friday,Pre-booked,Large,Tribal,Artist B,5,32015,Aftercare Kit,32515,Cash,4
-40,Female,Sunday,Pre-booked,Large,Realism,Artist D,4,21928,Aftercare Kit,22428,Card,3
-33,Male,Sunday,Walk-in,Medium,Minimalist,Artist A,2,39175,Piercing,40675,UPI,4
-25,Female,Thursday,Pre-booked,Medium,Tribal,Artist A,2,10647,Consultation Fee,11647,Card,1
-25,Female,Thursday,Pre-booked,Small,Tribal,Artist A,2,19039,Piercing,20539,UPI,2
-39,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist C,8,20883,Piercing,22383,Cash,4
-43,Male,Monday,Pre-booked,Small,Script,Artist D,1,25142,Aftercare Kit,25642,Card,2
-27,Female,Saturday,Pre-booked,Medium,Tribal,Artist C,3,20637,Aftercare Kit,21137,Cash,4
-47,Female,Friday,Pre-booked,Small,Custom,Artist B,1,31879,Aftercare Kit,32379,UPI,3
-34,Female,Sunday,Pre-booked,Medium,Minimalist,Artist C,4,42542,Aftercare Kit,43042,Cash,4
-25,Male,Sunday,Pre-booked,Medium,Script,Artist D,2,48649,Aftercare Kit,49149,UPI,2
-44,Male,Tuesday,Walk-in,Medium,Minimalist,Artist A,4,20693,Piercing,22193,UPI,1
-21,Male,Tuesday,Walk-in,Medium,Tribal,Artist A,2,48406,Aftercare Kit,48906,UPI,4
-50,Male,Friday,Pre-booked,Medium,Script,Artist D,2,47407,Consultation Fee,48407,UPI,4
-18,Female,Sunday,Pre-booked,Small,Minimalist,Artist C,2,45670,Aftercare Kit,46170,UPI,4
-33,Male,Monday,Pre-booked,Small,Custom,Artist D,2,17591,Aftercare Kit,18091,Cash,1
-31,Female,Thursday,Pre-booked,Medium,Script,Artist B,3,9662,Aftercare Kit,10162,Card,5
-22,Male,Friday,Walk-in,Medium,Script,Artist D,4,4696,Consultation Fee,5696,UPI,5
-23,Female,Wednesday,Pre-booked,Small,Realism,Artist A,2,30894,Consultation Fee,31894,UPI,2
-26,Other,Monday,Walk-in,Small,Tribal,Artist C,2,19066,Aftercare Kit,19566,Cash,2
-42,Female,Wednesday,Pre-booked,Large,Custom,Artist A,5,14091,Aftercare Kit,14591,UPI,4
-26,Female,Thursday,Pre-booked,Small,Realism,Artist B,2,38863,Consultation Fee,39863,Cash,1
-30,Male,Monday,Walk-in,Small,Custom,Artist A,2,48342,Aftercare Kit,48842,Cash,4
-51,Female,Wednesday,Walk-in,Small,Script,Artist C,2,24534,Aftercare Kit,25034,Card,2
-21,Female,Thursday,Pre-booked,Small,Realism,Artist B,1,11695,Aftercare Kit,12195,Cash,2
-35,Male,Friday,Pre-booked,Medium,Realism,Artist A,3,12655,Aftercare Kit,13155,Card,2
-18,Female,Saturday,Walk-in,Medium,Tribal,Artist B,4,28513,Consultation Fee,29513,Cash,4
-29,Female,Thursday,Walk-in,Medium,Realism,Artist C,4,37792,Aftercare Kit,38292,UPI,2
-24,Female,Tuesday,Pre-booked,Small,Minimalist,Artist A,2,35253,Aftercare Kit,35753,Card,2
-32,Male,Wednesday,Pre-booked,Medium,Tribal,Artist B,3,23710,Piercing,25210,UPI,2
-38,Female,Saturday,Pre-booked,Medium,Custom,Artist D,2,44417,Aftercare Kit,44917,Card,1
-36,Female,Thursday,Pre-booked,Small,Custom,Artist A,2,48232,Piercing,49732,Card,4
-46,Female,Wednesday,Pre-booked,Small,Minimalist,Artist A,1,21369,Piercing,22869,UPI,3
-42,Female,Saturday,Walk-in,Small,Custom,Artist A,1,33058,Consultation Fee,34058,UPI,4
-50,Female,Tuesday,Pre-booked,Medium,Custom,Artist B,4,20994,Consultation Fee,21994,Cash,2
-49,Female,Sunday,Pre-booked,Medium,Script,Artist C,3,39599,Aftercare Kit,40099,UPI,4
-52,Female,Wednesday,Pre-booked,Small,Realism,Artist C,1,45705,Aftercare Kit,46205,UPI,1
-52,Male,Tuesday,Walk-in,Small,Tribal,Artist A,2,49745,Consultation Fee,50745,Card,3
-27,Male,Thursday,Walk-in,Small,Custom,Artist C,2,47163,Consultation Fee,48163,Card,3
-38,Male,Monday,Pre-booked,Medium,Minimalist,Artist B,3,4626,Consultation Fee,5626,UPI,4
-25,Male,Wednesday,Walk-in,Small,Script,Artist A,1,46433,Aftercare Kit,46933,Cash,4
-43,Female,Monday,Pre-booked,Small,Tribal,Artist A,1,28321,Consultation Fee,29321,UPI,1
-22,Male,Monday,Walk-in,Medium,Minimalist,Artist D,2,31227,Aftercare Kit,31727,Card,4
-54,Female,Sunday,Walk-in,Small,Minimalist,Artist C,1,8060,Piercing,9560,Cash,1
-32,Male,Friday,Pre-booked,Medium,Custom,Artist D,2,23388,Aftercare Kit,23888,UPI,3
-32,Male,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist C,10,41855,Piercing,43355,Card,1
-23,Female,Tuesday,Walk-in,Medium,Script,Artist A,3,14789,Piercing,16289,Cash,1
-38,Female,Monday,Pre-booked,Small,Realism,Artist D,2,40235,Aftercare Kit,40735,Cash,2
-33,Male,Tuesday,Pre-booked,Medium,Realism,Artist A,2,16558,Consultation Fee,17558,Cash,2
-21,Male,Tuesday,Pre-booked,Large,Custom,Artist A,6,31193,Consultation Fee,32193,UPI,4
-30,Female,Tuesday,Pre-booked,Medium,Custom,Artist B,2,46011,Aftercare Kit,46511,UPI,1
-45,Female,Friday,Walk-in,Medium,Minimalist,Artist D,4,41654,Piercing,43154,UPI,2
-52,Male,Monday,Pre-booked,Small,Minimalist,Artist B,1,35525,Aftercare Kit,36025,Card,2
-25,Male,Monday,Pre-booked,Large,Script,Artist B,6,5673,Consultation Fee,6673,Card,5
-53,Male,Monday,Pre-booked,Small,Script,Artist C,1,25662,Piercing,27162,Cash,5
-47,Female,Thursday,Walk-in,Small,Script,Artist B,1,28054,Aftercare Kit,28554,Cash,5
-35,Male,Thursday,Pre-booked,Medium,Tribal,Artist D,3,11695,Piercing,13195,UPI,1
-21,Female,Tuesday,Pre-booked,Medium,Realism,Artist C,4,26224,Consultation Fee,27224,Card,4
-43,Male,Sunday,Walk-in,Medium,Tribal,Artist D,2,27304,Aftercare Kit,27804,Cash,1
-42,Male,Saturday,Pre-booked,Sleeve/Back,Tribal,Artist C,6,26433,Consultation Fee,27433,UPI,4
-47,Male,Thursday,Pre-booked,Medium,Custom,Artist A,4,2798,Aftercare Kit,3298,Card,4
-28,Male,Sunday,Pre-booked,Large,Realism,Artist B,4,20654,Aftercare Kit,21154,Card,5
-27,Female,Wednesday,Pre-booked,Small,Tribal,Artist C,1,22190,Aftercare Kit,22690,Card,5
-30,Female,Friday,Walk-in,Medium,Tribal,Artist D,4,31201,Aftercare Kit,31701,Card,3
-48,Female,Saturday,Pre-booked,Large,Tribal,Artist C,6,38767,Piercing,40267,UPI,1
-24,Male,Sunday,Walk-in,Small,Custom,Artist D,1,7740,Consultation Fee,8740,Cash,5
-53,Female,Thursday,Pre-booked,Small,Tribal,Artist A,1,16135,Piercing,17635,Card,4
-37,Female,Wednesday,Pre-booked,Large,Tribal,Artist D,6,49700,Piercing,51200,Cash,5
-21,Male,Monday,Pre-booked,Small,Custom,Artist C,2,31112,Piercing,32612,Cash,5
-39,Other,Wednesday,Walk-in,Small,Custom,Artist C,2,12734,Consultation Fee,13734,Cash,2
-45,Female,Sunday,Walk-in,Sleeve/Back,Minimalist,Artist C,9,49749,Aftercare Kit,50249,Cash,5
-26,Other,Sunday,Pre-booked,Medium,Tribal,Artist C,2,29144,Piercing,30644,UPI,3
-26,Female,Friday,Walk-in,Medium,Tribal,Artist A,2,40481,Aftercare Kit,40981,UPI,1
-32,Male,Monday,Pre-booked,Sleeve/Back,Tribal,Artist B,10,41186,Consultation Fee,42186,Cash,3
-25,Other,Thursday,Pre-booked,Small,Script,Artist D,2,15617,Piercing,17117,UPI,4
-43,Female,Friday,Pre-booked,Large,Realism,Artist B,6,36426,Piercing,37926,Card,3
-54,Male,Tuesday,Pre-booked,Small,Tribal,Artist A,2,6332,Aftercare Kit,6832,Cash,5
-21,Male,Saturday,Walk-in,Large,Custom,Artist B,5,40710,Aftercare Kit,41210,Card,3
-36,Male,Monday,Pre-booked,Small,Minimalist,Artist A,2,7796,Aftercare Kit,8296,Cash,3
-53,Male,Saturday,Pre-booked,Medium,Script,Artist C,3,2433,Aftercare Kit,2933,Cash,3
-27,Male,Sunday,Pre-booked,Medium,Custom,Artist D,4,28834,Aftercare Kit,29334,UPI,2
-36,Male,Friday,Walk-in,Medium,Tribal,Artist D,4,29165,Piercing,30665,Card,2
-27,Female,Saturday,Walk-in,Medium,Minimalist,Artist A,4,38425,Aftercare Kit,38925,UPI,3
-22,Male,Thursday,Walk-in,Small,Realism,Artist C,1,48546,Consultation Fee,49546,Cash,5
-38,Male,Sunday,Pre-booked,Medium,Realism,Artist D,3,14190,Aftercare Kit,14690,Cash,4
-39,Male,Wednesday,Walk-in,Large,Minimalist,Artist D,5,20970,Aftercare Kit,21470,UPI,2
-32,Male,Friday,Pre-booked,Small,Custom,Artist D,1,34151,Piercing,35651,UPI,1
-52,Female,Thursday,Pre-booked,Medium,Script,Artist A,3,4767,Consultation Fee,5767,UPI,5
-45,Male,Wednesday,Pre-booked,Small,Custom,Artist C,1,21791,Aftercare Kit,22291,Card,2
-24,Male,Wednesday,Walk-in,Small,Script,Artist A,1,40352,Aftercare Kit,40852,UPI,3
-30,Male,Wednesday,Walk-in,Large,Custom,Artist A,5,3758,Piercing,5258,UPI,1
-42,Male,Friday,Walk-in,Small,Tribal,Artist C,1,2160,Aftercare Kit,2660,UPI,2
-19,Male,Wednesday,Walk-in,Large,Realism,Artist B,6,12094,Aftercare Kit,12594,UPI,4
-52,Female,Wednesday,Walk-in,Large,Custom,Artist B,5,19214,Consultation Fee,20214,Cash,2
-24,Female,Tuesday,Walk-in,Sleeve/Back,Realism,Artist D,10,21671,Piercing,23171,Card,3
-38,Male,Friday,Walk-in,Medium,Minimalist,Artist B,4,43979,Aftercare Kit,44479,UPI,3
-35,Female,Wednesday,Pre-booked,Medium,Minimalist,Artist D,4,43717,Aftercare Kit,44217,Cash,2
-20,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist A,4,32968,Aftercare Kit,33468,UPI,4
-41,Female,Tuesday,Pre-booked,Medium,Minimalist,Artist C,2,44848,Aftercare Kit,45348,Card,1
-49,Male,Monday,Pre-booked,Large,Custom,Artist C,5,13755,Aftercare Kit,14255,Card,2
-53,Male,Saturday,Walk-in,Large,Custom,Artist B,4,34236,Piercing,35736,Cash,3
-54,Female,Thursday,Pre-booked,Medium,Minimalist,Artist B,2,47078,Aftercare Kit,47578,Cash,2
-50,Male,Friday,Walk-in,Small,Custom,Artist A,2,44256,Consultation Fee,45256,Cash,4
-53,Male,Saturday,Walk-in,Large,Minimalist,Artist A,5,18039,Aftercare Kit,18539,Cash,5
-50,Female,Friday,Pre-booked,Small,Script,Artist C,2,34312,Consultation Fee,35312,Cash,4
-23,Female,Sunday,Pre-booked,Large,Tribal,Artist D,5,6372,Consultation Fee,7372,UPI,4
-30,Male,Saturday,Pre-booked,Small,Minimalist,Artist D,2,25708,Piercing,27208,UPI,4
-44,Other,Thursday,Pre-booked,Large,Script,Artist D,6,39065,Consultation Fee,40065,Cash,2
-49,Female,Tuesday,Pre-booked,Small,Realism,Artist C,1,30578,Piercing,32078,Card,5
-38,Male,Monday,Walk-in,Small,Minimalist,Artist A,2,18902,Consultation Fee,19902,Cash,2
-25,Male,Friday,Pre-booked,Medium,Tribal,Artist C,3,43156,Aftercare Kit,43656,Cash,4
-25,Male,Tuesday,Pre-booked,Large,Script,Artist D,4,46951,Aftercare Kit,47451,Cash,2
-20,Female,Tuesday,Pre-booked,Sleeve/Back,Realism,Artist C,9,33197,Aftercare Kit,33697,UPI,1
-20,Male,Monday,Pre-booked,Large,Minimalist,Artist C,6,47498,Aftercare Kit,47998,Card,2
-19,Male,Sunday,Pre-booked,Small,Realism,Artist A,2,35588,Piercing,37088,Card,1
-51,Female,Friday,Pre-booked,Large,Tribal,Artist A,4,40119,Consultation Fee,41119,Cash,1
-40,Male,Tuesday,Pre-booked,Medium,Minimalist,Artist A,2,5834,Aftercare Kit,6334,Cash,5
-30,Male,Thursday,Walk-in,Small,Realism,Artist B,1,25421,Piercing,26921,Cash,2
-46,Female,Thursday,Pre-booked,Sleeve/Back,Realism,Artist D,10,12702,Aftercare Kit,13202,Card,3
-48,Male,Wednesday,Walk-in,Small,Custom,Artist A,1,5466,Aftercare Kit,5966,UPI,4
-25,Male,Thursday,Walk-in,Small,Realism,Artist A,1,21114,Aftercare Kit,21614,Cash,1
-33,Male,Saturday,Pre-booked,Medium,Script,Artist C,2,7034,Aftercare Kit,7534,Card,4
-47,Female,Thursday,Pre-booked,Small,Realism,Artist C,1,35676,Aftercare Kit,36176,UPI,3
-45,Female,Wednesday,Walk-in,Small,Realism,Artist D,2,43158,Aftercare Kit,43658,Card,5
-22,Male,Thursday,Pre-booked,Small,Minimalist,Artist A,1,14009,Consultation Fee,15009,Card,4
-37,Male,Tuesday,Pre-booked,Sleeve/Back,Minimalist,Artist B,7,8193,Piercing,9693,UPI,4
-38,Male,Monday,Pre-booked,Medium,Realism,Artist B,3,37632,Consultation Fee,38632,Card,5
-37,Female,Wednesday,Pre-booked,Small,Script,Artist A,1,23142,Consultation Fee,24142,UPI,4
-25,Female,Wednesday,Walk-in,Large,Realism,Artist B,5,19790,Consultation Fee,20790,Cash,2
-49,Male,Tuesday,Pre-booked,Medium,Script,Artist B,4,46921,Piercing,48421,Cash,4
-50,Male,Monday,Pre-booked,Small,Realism,Artist C,1,47741,Consultation Fee,48741,Cash,3
-29,Male,Sunday,Walk-in,Medium,Realism,Artist A,3,25758,Aftercare Kit,26258,UPI,1
-51,Male,Sunday,Pre-booked,Medium,Custom,Artist B,3,8280,Piercing,9780,UPI,1
-31,Male,Thursday,Pre-booked,Large,Script,Artist C,4,37023,Aftercare Kit,37523,Cash,3
-53,Female,Thursday,Walk-in,Medium,Tribal,Artist C,3,40013,Consultation Fee,41013,UPI,4
-40,Female,Wednesday,Walk-in,Large,Realism,Artist C,5,11418,Aftercare Kit,11918,Card,4
-19,Male,Wednesday,Walk-in,Small,Tribal,Artist B,1,35958,Piercing,37458,Card,3
-28,Female,Saturday,Pre-booked,Small,Custom,Artist A,2,29000,Piercing,30500,UPI,5
-20,Male,Tuesday,Pre-booked,Medium,Minimalist,Artist D,3,24302,Aftercare Kit,24802,Card,2
-40,Male,Sunday,Walk-in,Small,Realism,Artist A,1,12684,Aftercare Kit,13184,Card,4
-23,Male,Tuesday,Walk-in,Medium,Custom,Artist B,3,34989,Piercing,36489,UPI,3
-52,Male,Tuesday,Walk-in,Small,Realism,Artist B,2,16490,Aftercare Kit,16990,Cash,1
-32,Male,Thursday,Walk-in,Medium,Script,Artist D,4,38612,Consultation Fee,39612,Cash,2
-54,Male,Saturday,Pre-booked,Small,Realism,Artist C,1,47197,Consultation Fee,48197,Card,1
-29,Female,Sunday,Pre-booked,Small,Minimalist,Artist D,1,36449,Piercing,37949,Cash,2
-35,Other,Monday,Pre-booked,Medium,Script,Artist D,4,36871,Piercing,38371,UPI,1
-52,Female,Friday,Pre-booked,Small,Custom,Artist B,2,48697,Piercing,50197,UPI,1
-47,Male,Monday,Pre-booked,Small,Realism,Artist D,2,38117,Piercing,39617,UPI,3
-41,Female,Sunday,Walk-in,Small,Realism,Artist A,2,48023,Aftercare Kit,48523,UPI,1
-47,Male,Monday,Walk-in,Large,Tribal,Artist B,5,9468,Piercing,10968,Cash,1
-31,Male,Thursday,Walk-in,Large,Minimalist,Artist D,4,29351,Aftercare Kit,29851,UPI,3
-23,Male,Friday,Walk-in,Large,Realism,Artist A,5,32178,Aftercare Kit,32678,UPI,2
-33,Male,Sunday,Pre-booked,Medium,Custom,Artist B,4,9639,Piercing,11139,UPI,5
-38,Male,Thursday,Pre-booked,Large,Custom,Artist C,5,22419,Aftercare Kit,22919,Cash,2
-19,Female,Friday,Pre-booked,Medium,Script,Artist A,3,30962,Aftercare Kit,31462,Cash,4
-52,Male,Sunday,Pre-booked,Medium,Minimalist,Artist A,2,41167,Piercing,42667,UPI,3
-35,Male,Saturday,Walk-in,Large,Script,Artist C,4,36283,Aftercare Kit,36783,Card,2
-35,Male,Monday,Walk-in,Medium,Custom,Artist B,3,48523,Piercing,50023,Card,4
-19,Female,Friday,Pre-booked,Medium,Minimalist,Artist D,2,9772,Consultation Fee,10772,Card,2
-53,Male,Tuesday,Walk-in,Sleeve/Back,Script,Artist A,6,47497,Aftercare Kit,47997,UPI,3
-31,Male,Monday,Walk-in,Small,Tribal,Artist A,1,47091,Piercing,48591,Card,5
-52,Male,Tuesday,Walk-in,Medium,Custom,Artist B,4,15752,Consultation Fee,16752,UPI,5
-23,Female,Thursday,Walk-in,Small,Tribal,Artist B,1,10533,Piercing,12033,UPI,4
-42,Female,Monday,Pre-booked,Large,Minimalist,Artist C,5,7151,Piercing,8651,UPI,2
-51,Male,Saturday,Pre-booked,Small,Minimalist,Artist B,2,47273,Aftercare Kit,47773,UPI,2
-38,Male,Tuesday,Pre-booked,Large,Custom,Artist C,5,7094,Aftercare Kit,7594,UPI,2
-51,Female,Sunday,Walk-in,Small,Realism,Artist A,1,3232,Piercing,4732,Card,5
-21,Male,Tuesday,Walk-in,Large,Script,Artist A,6,33736,Piercing,35236,UPI,4
-21,Male,Monday,Pre-booked,Sleeve/Back,Script,Artist C,10,14868,Piercing,16368,UPI,4
-29,Male,Friday,Walk-in,Medium,Minimalist,Artist A,4,9065,Aftercare Kit,9565,Card,4
-49,Female,Thursday,Pre-booked,Medium,Realism,Artist A,4,45239,Piercing,46739,Card,2
-49,Female,Saturday,Pre-booked,Medium,Custom,Artist A,2,21768,Piercing,23268,UPI,2
-46,Male,Sunday,Walk-in,Large,Realism,Artist B,5,45750,Consultation Fee,46750,UPI,2
-19,Male,Saturday,Pre-booked,Medium,Minimalist,Artist B,2,2673,Aftercare Kit,3173,Cash,1
+Age,Gender,Day_of_Week,Session_Type,Tattoo_Size,Tattoo_Style,Artist_Name,Session_Hours,Final_Rate,Additional_Services
+36,Male,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist B,10,32471,Consultation Fee
+40,Male,Monday,Pre-booked,Medium,Custom,Artist C,4,44910,Consultation Fee
+53,Other,Saturday,Pre-booked,Small,Custom,Artist C,1,45278,Piercing
+41,Male,Saturday,Walk-in,Small,Custom,Artist B,1,19780,Aftercare Kit
+39,Male,Thursday,Pre-booked,Medium,Realism,Artist D,2,45260,Piercing
+19,Male,Monday,Pre-booked,Large,Tribal,Artist C,4,25607,Consultation Fee
+41,Male,Tuesday,Walk-in,Small,Script,Artist A,1,9070,Aftercare Kit
+19,Male,Friday,Pre-booked,Medium,Minimalist,Artist D,2,21168,Aftercare Kit
+50,Other,Wednesday,Walk-in,Small,Tribal,Artist C,1,27331,Aftercare Kit
+42,Male,Tuesday,Walk-in,Large,Realism,Artist B,5,35327,Aftercare Kit
+45,Male,Friday,Pre-booked,Medium,Script,Artist C,4,8527,Piercing
+33,Male,Sunday,Pre-booked,Medium,Script,Artist D,2,22673,Aftercare Kit
+20,Female,Sunday,Pre-booked,Medium,Minimalist,Artist B,3,41131,Consultation Fee
+54,Male,Wednesday,Pre-booked,Medium,Tribal,Artist C,4,36836,Consultation Fee
+24,Male,Friday,Pre-booked,Small,Tribal,Artist B,2,7768,Aftercare Kit
+38,Male,Tuesday,Pre-booked,Small,Custom,Artist D,2,14217,Consultation Fee
+35,Female,Saturday,Pre-booked,Large,Tribal,Artist A,6,34810,Consultation Fee
+31,Male,Saturday,Walk-in,Sleeve/Back,Script,Artist D,10,48692,Aftercare Kit
+26,Male,Monday,Walk-in,Small,Script,Artist C,2,3408,Aftercare Kit
+19,Male,Wednesday,Pre-booked,Medium,Tribal,Artist A,3,18213,Consultation Fee
+37,Male,Friday,Pre-booked,Sleeve/Back,Realism,Artist B,7,36695,Aftercare Kit
+45,Female,Monday,Pre-booked,Sleeve/Back,Tribal,Artist D,7,21983,Piercing
+52,Male,Saturday,Pre-booked,Large,Minimalist,Artist C,4,27781,Aftercare Kit
+31,Male,Saturday,Walk-in,Small,Script,Artist D,1,12289,Aftercare Kit
+23,Male,Sunday,Walk-in,Medium,Minimalist,Artist D,3,25290,Consultation Fee
+46,Male,Tuesday,Pre-booked,Small,Minimalist,Artist A,2,21813,Consultation Fee
+35,Male,Monday,Walk-in,Large,Script,Artist A,6,17479,Piercing
+51,Male,Friday,Pre-booked,Sleeve/Back,Script,Artist B,9,20079,Consultation Fee
+53,Male,Wednesday,Pre-booked,Large,Script,Artist C,4,43011,Piercing
+32,Male,Friday,Pre-booked,Small,Custom,Artist A,1,3931,Piercing
+31,Male,Wednesday,Walk-in,Sleeve/Back,Custom,Artist D,6,20362,Consultation Fee
+38,Female,Wednesday,Pre-booked,Large,Tribal,Artist A,5,11942,Consultation Fee
+35,Female,Friday,Pre-booked,Large,Custom,Artist B,4,27745,Consultation Fee
+41,Female,Saturday,Pre-booked,Small,Realism,Artist D,2,45052,Piercing
+43,Male,Friday,Pre-booked,Small,Script,Artist A,2,10995,Aftercare Kit
+42,Female,Monday,Pre-booked,Medium,Custom,Artist A,3,7753,Consultation Fee
+42,Male,Wednesday,Walk-in,Medium,Realism,Artist B,3,46433,Piercing
+24,Female,Saturday,Walk-in,Medium,Minimalist,Artist D,3,42137,Consultation Fee
+26,Male,Saturday,Walk-in,Medium,Custom,Artist D,3,42994,Aftercare Kit
+25,Female,Wednesday,Walk-in,Sleeve/Back,Custom,Artist B,7,29350,Consultation Fee
+41,Female,Sunday,Pre-booked,Small,Custom,Artist D,2,17752,Aftercare Kit
+28,Female,Tuesday,Pre-booked,Large,Tribal,Artist D,6,39545,Aftercare Kit
+52,Female,Tuesday,Walk-in,Medium,Custom,Artist A,4,41673,Piercing
+45,Male,Monday,Walk-in,Medium,Custom,Artist B,4,37535,Piercing
+26,Female,Thursday,Pre-booked,Small,Tribal,Artist C,1,15550,Aftercare Kit
+25,Male,Sunday,Walk-in,Sleeve/Back,Script,Artist A,9,44760,Consultation Fee
+51,Male,Friday,Pre-booked,Small,Script,Artist B,2,40078,Consultation Fee
+41,Male,Thursday,Pre-booked,Small,Custom,Artist A,1,15258,Aftercare Kit
+39,Female,Sunday,Pre-booked,Small,Minimalist,Artist B,1,47123,Consultation Fee
+44,Female,Tuesday,Pre-booked,Small,Realism,Artist A,2,48211,Aftercare Kit
+52,Male,Monday,Walk-in,Sleeve/Back,Realism,Artist C,10,36328,Consultation Fee
+18,Male,Saturday,Walk-in,Medium,Custom,Artist C,3,10863,Aftercare Kit
+52,Male,Thursday,Walk-in,Medium,Script,Artist A,2,30184,Aftercare Kit
+54,Female,Sunday,Pre-booked,Small,Minimalist,Artist B,1,11512,Consultation Fee
+31,Female,Thursday,Pre-booked,Sleeve/Back,Script,Artist A,7,45006,Piercing
+18,Male,Sunday,Pre-booked,Small,Realism,Artist A,1,12357,Consultation Fee
+44,Female,Monday,Pre-booked,Medium,Realism,Artist B,3,36928,Piercing
+43,Male,Saturday,Walk-in,Medium,Minimalist,Artist C,2,22814,Consultation Fee
+30,Female,Monday,Pre-booked,Large,Custom,Artist A,5,11536,Aftercare Kit
+49,Female,Wednesday,Walk-in,Small,Tribal,Artist B,2,3932,Aftercare Kit
+21,Male,Friday,Walk-in,Small,Custom,Artist D,2,22885,Consultation Fee
+47,Male,Wednesday,Pre-booked,Medium,Script,Artist D,4,29134,Aftercare Kit
+32,Male,Wednesday,Walk-in,Medium,Script,Artist A,2,31032,Consultation Fee
+30,Female,Thursday,Pre-booked,Large,Script,Artist C,6,11958,Consultation Fee
+45,Male,Tuesday,Pre-booked,Large,Minimalist,Artist A,6,14107,Piercing
+23,Female,Thursday,Pre-booked,Medium,Realism,Artist A,3,42106,Piercing
+45,Male,Saturday,Pre-booked,Medium,Script,Artist B,3,42432,Consultation Fee
+45,Male,Tuesday,Pre-booked,Medium,Tribal,Artist B,2,19489,Consultation Fee
+28,Female,Sunday,Pre-booked,Small,Custom,Artist C,2,42131,Consultation Fee
+45,Female,Monday,Walk-in,Large,Realism,Artist B,4,17133,Aftercare Kit
+50,Male,Sunday,Pre-booked,Small,Tribal,Artist B,1,17216,Aftercare Kit
+44,Female,Thursday,Pre-booked,Small,Custom,Artist A,1,47047,Aftercare Kit
+30,Female,Saturday,Walk-in,Medium,Realism,Artist A,2,3709,Consultation Fee
+23,Female,Sunday,Walk-in,Sleeve/Back,Tribal,Artist A,7,7208,Aftercare Kit
+25,Female,Tuesday,Pre-booked,Large,Minimalist,Artist B,5,47098,Consultation Fee
+44,Female,Friday,Pre-booked,Large,Tribal,Artist D,6,33234,Piercing
+50,Female,Monday,Walk-in,Small,Realism,Artist C,1,41630,Piercing
+41,Male,Tuesday,Pre-booked,Small,Script,Artist A,1,32720,Aftercare Kit
+49,Female,Wednesday,Pre-booked,Medium,Realism,Artist B,2,44570,Piercing
+41,Female,Sunday,Pre-booked,Medium,Script,Artist D,2,14057,Aftercare Kit
+29,Male,Saturday,Walk-in,Small,Minimalist,Artist D,1,27392,Aftercare Kit
+20,Other,Friday,Walk-in,Large,Minimalist,Artist B,5,33054,Piercing
+34,Male,Wednesday,Pre-booked,Large,Tribal,Artist B,5,12733,Aftercare Kit
+19,Male,Saturday,Pre-booked,Small,Script,Artist C,2,14665,Piercing
+45,Female,Sunday,Walk-in,Medium,Minimalist,Artist A,3,4112,Consultation Fee
+54,Male,Monday,Walk-in,Small,Custom,Artist D,2,2983,Aftercare Kit
+18,Female,Sunday,Walk-in,Medium,Realism,Artist A,3,16585,Piercing
+43,Male,Friday,Pre-booked,Medium,Realism,Artist A,4,15406,Consultation Fee
+49,Female,Thursday,Pre-booked,Small,Custom,Artist D,1,30788,Aftercare Kit
+21,Female,Friday,Pre-booked,Medium,Realism,Artist C,2,42439,Consultation Fee
+28,Female,Monday,Pre-booked,Small,Tribal,Artist A,2,34108,Piercing
+34,Female,Saturday,Walk-in,Sleeve/Back,Custom,Artist A,10,47079,Consultation Fee
+22,Male,Tuesday,Pre-booked,Medium,Minimalist,Artist B,4,31985,Consultation Fee
+23,Male,Thursday,Pre-booked,Sleeve/Back,Minimalist,Artist A,8,30020,Piercing
+39,Female,Wednesday,Pre-booked,Large,Script,Artist B,5,28533,Consultation Fee
+26,Female,Tuesday,Pre-booked,Medium,Tribal,Artist B,2,49199,Aftercare Kit
+23,Male,Thursday,Pre-booked,Small,Tribal,Artist B,2,22506,Consultation Fee
+33,Female,Saturday,Pre-booked,Medium,Custom,Artist D,3,27831,Piercing
+20,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist B,8,39482,Piercing
+36,Female,Friday,Pre-booked,Medium,Tribal,Artist D,2,36421,Piercing
+37,Male,Tuesday,Walk-in,Small,Script,Artist C,1,36121,Aftercare Kit
+49,Female,Wednesday,Pre-booked,Small,Script,Artist A,2,9164,Piercing
+24,Male,Thursday,Pre-booked,Medium,Tribal,Artist A,4,31596,Piercing
+50,Female,Friday,Pre-booked,Medium,Tribal,Artist B,3,31943,Aftercare Kit
+28,Male,Monday,Walk-in,Small,Minimalist,Artist C,1,35993,Consultation Fee
+40,Other,Thursday,Walk-in,Large,Minimalist,Artist B,5,4572,Consultation Fee
+48,Male,Sunday,Pre-booked,Medium,Realism,Artist C,3,38549,Aftercare Kit
+33,Female,Friday,Walk-in,Medium,Tribal,Artist C,4,5230,Aftercare Kit
+43,Male,Tuesday,Pre-booked,Small,Script,Artist D,1,14442,Piercing
+19,Male,Saturday,Pre-booked,Medium,Script,Artist C,4,21082,Aftercare Kit
+22,Female,Thursday,Pre-booked,Small,Tribal,Artist D,1,21959,Aftercare Kit
+36,Male,Tuesday,Pre-booked,Medium,Realism,Artist D,4,21295,Aftercare Kit
+20,Male,Saturday,Walk-in,Large,Realism,Artist D,4,5574,Aftercare Kit
+37,Female,Wednesday,Pre-booked,Small,Realism,Artist B,1,47216,Consultation Fee
+37,Female,Tuesday,Walk-in,Small,Script,Artist B,1,49359,Aftercare Kit
+42,Male,Sunday,Pre-booked,Small,Realism,Artist B,1,9416,Consultation Fee
+52,Male,Thursday,Pre-booked,Medium,Script,Artist B,2,13781,Consultation Fee
+42,Male,Wednesday,Pre-booked,Small,Custom,Artist A,2,40367,Consultation Fee
+52,Male,Friday,Pre-booked,Small,Realism,Artist A,2,29103,Aftercare Kit
+37,Other,Tuesday,Walk-in,Small,Realism,Artist C,1,15233,Aftercare Kit
+24,Female,Sunday,Pre-booked,Small,Minimalist,Artist D,1,7910,Consultation Fee
+20,Male,Wednesday,Pre-booked,Small,Script,Artist A,2,18389,Piercing
+50,Female,Sunday,Walk-in,Large,Realism,Artist B,6,47332,Consultation Fee
+39,Male,Thursday,Walk-in,Sleeve/Back,Minimalist,Artist B,9,48626,Piercing
+39,Female,Tuesday,Walk-in,Medium,Minimalist,Artist C,4,12747,Aftercare Kit
+47,Male,Sunday,Pre-booked,Large,Minimalist,Artist D,5,49079,Consultation Fee
+25,Female,Friday,Walk-in,Medium,Minimalist,Artist B,3,10096,Aftercare Kit
+44,Male,Thursday,Walk-in,Sleeve/Back,Tribal,Artist B,7,9481,Piercing
+51,Male,Monday,Walk-in,Small,Custom,Artist A,1,48283,Consultation Fee
+38,Male,Monday,Pre-booked,Sleeve/Back,Realism,Artist A,7,31451,Aftercare Kit
+47,Male,Tuesday,Walk-in,Large,Custom,Artist A,5,43554,Piercing
+45,Female,Thursday,Pre-booked,Small,Minimalist,Artist B,2,7590,Aftercare Kit
+52,Male,Saturday,Walk-in,Small,Script,Artist A,2,35532,Aftercare Kit
+34,Male,Monday,Pre-booked,Small,Realism,Artist B,2,42112,Piercing
+52,Male,Thursday,Walk-in,Sleeve/Back,Minimalist,Artist A,6,4877,Consultation Fee
+54,Male,Saturday,Walk-in,Small,Script,Artist B,2,13199,Aftercare Kit
+48,Female,Thursday,Walk-in,Medium,Custom,Artist B,2,45222,Consultation Fee
+50,Male,Friday,Walk-in,Medium,Minimalist,Artist C,2,12624,Piercing
+38,Female,Tuesday,Pre-booked,Large,Realism,Artist B,5,11476,Piercing
+20,Male,Thursday,Walk-in,Medium,Tribal,Artist B,3,29497,Aftercare Kit
+35,Female,Friday,Pre-booked,Small,Minimalist,Artist A,2,22189,Piercing
+48,Female,Friday,Walk-in,Medium,Minimalist,Artist A,3,49851,Consultation Fee
+39,Male,Monday,Pre-booked,Medium,Custom,Artist C,2,13842,Consultation Fee
+19,Female,Sunday,Pre-booked,Large,Tribal,Artist D,6,10622,Consultation Fee
+44,Male,Tuesday,Walk-in,Medium,Realism,Artist B,3,15294,Aftercare Kit
+19,Male,Tuesday,Walk-in,Small,Custom,Artist A,1,2231,Aftercare Kit
+43,Female,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist C,8,42800,Consultation Fee
+50,Female,Wednesday,Pre-booked,Small,Realism,Artist A,1,2800,Piercing
+26,Male,Wednesday,Pre-booked,Medium,Tribal,Artist D,2,32057,Piercing
+43,Male,Thursday,Walk-in,Large,Tribal,Artist D,6,34679,Aftercare Kit
+42,Female,Friday,Pre-booked,Sleeve/Back,Realism,Artist C,7,2376,Piercing
+41,Male,Sunday,Walk-in,Medium,Tribal,Artist D,2,41844,Aftercare Kit
+24,Male,Saturday,Walk-in,Large,Custom,Artist A,5,17589,Aftercare Kit
+37,Female,Sunday,Pre-booked,Medium,Script,Artist A,2,40591,Piercing
+18,Male,Thursday,Walk-in,Medium,Custom,Artist B,2,45219,Aftercare Kit
+25,Female,Friday,Walk-in,Small,Script,Artist C,2,33176,Aftercare Kit
+33,Female,Friday,Pre-booked,Medium,Custom,Artist B,4,31736,Aftercare Kit
+31,Female,Thursday,Walk-in,Large,Custom,Artist B,6,28879,Aftercare Kit
+40,Male,Friday,Pre-booked,Small,Tribal,Artist D,1,7203,Consultation Fee
+32,Male,Tuesday,Pre-booked,Small,Realism,Artist A,1,41401,Piercing
+45,Male,Tuesday,Pre-booked,Small,Tribal,Artist B,1,41328,Consultation Fee
+39,Male,Sunday,Pre-booked,Medium,Realism,Artist A,3,42616,Piercing
+42,Female,Tuesday,Walk-in,Small,Realism,Artist A,1,43198,Consultation Fee
+23,Female,Sunday,Walk-in,Medium,Custom,Artist B,3,5205,Consultation Fee
+32,Male,Monday,Pre-booked,Small,Minimalist,Artist A,1,14113,Consultation Fee
+25,Male,Saturday,Pre-booked,Small,Custom,Artist B,1,44813,Consultation Fee
+21,Female,Friday,Pre-booked,Medium,Tribal,Artist B,2,4406,Piercing
+23,Female,Saturday,Walk-in,Small,Custom,Artist C,1,11527,Aftercare Kit
+49,Male,Friday,Pre-booked,Medium,Custom,Artist C,2,4125,Consultation Fee
+47,Male,Wednesday,Pre-booked,Small,Custom,Artist B,1,45712,Consultation Fee
+52,Female,Friday,Pre-booked,Large,Realism,Artist C,6,39885,Aftercare Kit
+30,Male,Tuesday,Walk-in,Small,Realism,Artist A,1,21558,Consultation Fee
+36,Male,Thursday,Pre-booked,Large,Tribal,Artist A,5,7747,Aftercare Kit
+34,Male,Wednesday,Walk-in,Sleeve/Back,Custom,Artist A,6,5213,Aftercare Kit
+43,Female,Saturday,Pre-booked,Large,Minimalist,Artist C,6,46046,Consultation Fee
+40,Female,Tuesday,Walk-in,Medium,Custom,Artist D,2,20637,Piercing
+49,Male,Sunday,Walk-in,Small,Tribal,Artist C,1,39505,Consultation Fee
+22,Female,Sunday,Walk-in,Large,Script,Artist C,4,39943,Aftercare Kit
+39,Male,Tuesday,Walk-in,Medium,Minimalist,Artist B,4,25605,Piercing
+46,Male,Tuesday,Pre-booked,Small,Tribal,Artist C,2,4348,Aftercare Kit
+20,Male,Friday,Pre-booked,Small,Script,Artist B,2,8103,Piercing
+43,Female,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist B,7,23156,Aftercare Kit
+33,Male,Monday,Pre-booked,Small,Tribal,Artist C,1,26154,Piercing
+54,Male,Thursday,Pre-booked,Small,Realism,Artist D,2,26834,Piercing
+31,Female,Sunday,Pre-booked,Small,Tribal,Artist B,2,38075,Piercing
+45,Male,Tuesday,Pre-booked,Small,Minimalist,Artist B,1,6254,Aftercare Kit
+22,Male,Sunday,Walk-in,Medium,Script,Artist A,3,21191,Piercing
+22,Female,Tuesday,Walk-in,Small,Custom,Artist D,1,10817,Piercing
+33,Male,Wednesday,Walk-in,Sleeve/Back,Realism,Artist B,6,47522,Consultation Fee
+43,Male,Sunday,Pre-booked,Small,Tribal,Artist A,1,19984,Aftercare Kit
+38,Male,Friday,Walk-in,Small,Script,Artist B,1,36540,Piercing
+50,Male,Sunday,Walk-in,Large,Custom,Artist D,4,36383,Piercing
+27,Female,Saturday,Pre-booked,Medium,Tribal,Artist B,3,42111,Piercing
+22,Female,Saturday,Walk-in,Large,Tribal,Artist C,6,5813,Piercing
+53,Male,Thursday,Pre-booked,Small,Script,Artist A,2,9163,Consultation Fee
+27,Female,Wednesday,Pre-booked,Large,Tribal,Artist D,4,43220,Aftercare Kit
+36,Female,Saturday,Walk-in,Small,Realism,Artist C,2,36665,Aftercare Kit
+49,Female,Friday,Walk-in,Large,Script,Artist A,4,7745,Consultation Fee
+18,Female,Wednesday,Walk-in,Small,Tribal,Artist C,2,33697,Aftercare Kit
+22,Male,Wednesday,Walk-in,Large,Custom,Artist D,5,49452,Piercing
+21,Female,Tuesday,Pre-booked,Small,Minimalist,Artist B,1,47131,Aftercare Kit
+19,Female,Tuesday,Walk-in,Small,Custom,Artist B,1,29987,Consultation Fee
+44,Female,Sunday,Walk-in,Small,Custom,Artist D,1,19017,Aftercare Kit
+41,Other,Saturday,Pre-booked,Sleeve/Back,Script,Artist A,6,39692,Consultation Fee
+29,Male,Monday,Pre-booked,Sleeve/Back,Tribal,Artist B,8,42844,Piercing
+52,Male,Friday,Pre-booked,Small,Realism,Artist B,1,25190,Consultation Fee
+50,Male,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist A,9,10500,Aftercare Kit
+54,Female,Tuesday,Pre-booked,Small,Custom,Artist A,2,38872,Piercing
+29,Male,Saturday,Walk-in,Large,Minimalist,Artist C,5,34531,Piercing
+20,Male,Tuesday,Pre-booked,Medium,Custom,Artist C,2,36059,Aftercare Kit
+50,Male,Wednesday,Walk-in,Small,Tribal,Artist C,1,43409,Consultation Fee
+30,Male,Tuesday,Pre-booked,Small,Script,Artist D,2,13790,Consultation Fee
+29,Female,Friday,Pre-booked,Small,Minimalist,Artist D,2,41938,Aftercare Kit
+19,Other,Sunday,Pre-booked,Large,Tribal,Artist A,6,48437,Aftercare Kit
+52,Female,Wednesday,Pre-booked,Large,Tribal,Artist A,4,21037,Aftercare Kit
+34,Male,Thursday,Pre-booked,Small,Realism,Artist C,1,2103,Piercing
+43,Female,Friday,Walk-in,Small,Script,Artist B,1,9746,Piercing
+25,Male,Saturday,Walk-in,Small,Minimalist,Artist C,1,3571,Consultation Fee
+46,Male,Tuesday,Walk-in,Small,Custom,Artist C,1,32466,Consultation Fee
+24,Female,Wednesday,Walk-in,Small,Minimalist,Artist C,1,29173,Piercing
+21,Male,Monday,Pre-booked,Medium,Realism,Artist A,3,29134,Piercing
+28,Female,Monday,Walk-in,Sleeve/Back,Minimalist,Artist A,8,4981,Consultation Fee
+46,Male,Thursday,Pre-booked,Medium,Minimalist,Artist D,2,23875,Piercing
+38,Male,Tuesday,Walk-in,Small,Script,Artist C,2,43779,Aftercare Kit
+53,Female,Saturday,Walk-in,Small,Minimalist,Artist C,2,15915,Aftercare Kit
+27,Male,Tuesday,Pre-booked,Large,Realism,Artist B,5,2740,Aftercare Kit
+54,Male,Monday,Pre-booked,Large,Script,Artist A,5,43983,Piercing
+26,Female,Monday,Pre-booked,Small,Custom,Artist D,2,15185,Aftercare Kit
+53,Female,Tuesday,Pre-booked,Sleeve/Back,Script,Artist C,6,6445,Piercing
+35,Male,Thursday,Walk-in,Medium,Script,Artist A,2,22170,Consultation Fee
+30,Male,Tuesday,Pre-booked,Large,Minimalist,Artist A,5,46946,Aftercare Kit
+42,Female,Monday,Pre-booked,Large,Script,Artist D,4,24371,Piercing
+52,Female,Thursday,Pre-booked,Small,Tribal,Artist D,2,27955,Consultation Fee
+34,Male,Tuesday,Pre-booked,Small,Realism,Artist C,1,39284,Piercing
+37,Female,Saturday,Walk-in,Small,Tribal,Artist C,1,42369,Aftercare Kit
+42,Male,Saturday,Pre-booked,Small,Minimalist,Artist D,2,3908,Aftercare Kit
+39,Other,Friday,Walk-in,Medium,Tribal,Artist A,3,13510,Aftercare Kit
+30,Female,Tuesday,Walk-in,Medium,Tribal,Artist C,2,14715,Aftercare Kit
+36,Male,Friday,Walk-in,Sleeve/Back,Custom,Artist B,9,23660,Aftercare Kit
+53,Female,Tuesday,Walk-in,Small,Minimalist,Artist A,2,24147,Piercing
+29,Male,Thursday,Walk-in,Small,Tribal,Artist B,1,46071,Piercing
+29,Male,Monday,Pre-booked,Medium,Script,Artist B,3,33096,Piercing
+26,Male,Monday,Pre-booked,Small,Tribal,Artist B,2,4330,Aftercare Kit
+48,Male,Sunday,Pre-booked,Medium,Realism,Artist B,4,12183,Piercing
+53,Female,Friday,Walk-in,Small,Realism,Artist B,2,36149,Consultation Fee
+31,Female,Sunday,Pre-booked,Small,Script,Artist B,1,49511,Aftercare Kit
+22,Female,Thursday,Pre-booked,Small,Script,Artist A,1,22676,Aftercare Kit
+52,Male,Sunday,Pre-booked,Medium,Custom,Artist B,4,38384,Consultation Fee
+46,Female,Monday,Pre-booked,Large,Realism,Artist D,5,3226,Piercing
+28,Female,Tuesday,Pre-booked,Sleeve/Back,Custom,Artist C,7,15648,Consultation Fee
+35,Male,Thursday,Pre-booked,Medium,Realism,Artist B,2,39840,Aftercare Kit
+29,Male,Saturday,Walk-in,Small,Script,Artist D,2,46924,Consultation Fee
+26,Male,Saturday,Walk-in,Small,Tribal,Artist C,2,23739,Aftercare Kit
+27,Female,Saturday,Walk-in,Large,Custom,Artist A,4,25173,Consultation Fee
+34,Male,Wednesday,Pre-booked,Small,Script,Artist A,2,6339,Consultation Fee
+26,Male,Sunday,Walk-in,Medium,Realism,Artist C,4,4042,Aftercare Kit
+19,Male,Wednesday,Pre-booked,Medium,Tribal,Artist C,4,26591,Aftercare Kit
+22,Female,Saturday,Walk-in,Small,Script,Artist D,2,43059,Aftercare Kit
+46,Female,Sunday,Pre-booked,Sleeve/Back,Minimalist,Artist B,9,37014,Aftercare Kit
+25,Male,Tuesday,Walk-in,Medium,Script,Artist A,3,41694,Aftercare Kit
+18,Female,Sunday,Walk-in,Small,Tribal,Artist C,2,27530,Aftercare Kit
+39,Female,Saturday,Walk-in,Medium,Realism,Artist D,4,14280,Piercing
+42,Female,Tuesday,Walk-in,Small,Script,Artist B,2,22203,Piercing
+53,Male,Monday,Pre-booked,Large,Tribal,Artist B,5,22611,Piercing
+36,Female,Saturday,Pre-booked,Small,Tribal,Artist C,1,19792,Consultation Fee
+43,Male,Sunday,Pre-booked,Large,Minimalist,Artist C,5,34574,Piercing
+36,Male,Sunday,Pre-booked,Small,Script,Artist B,1,17574,Piercing
+30,Male,Tuesday,Pre-booked,Small,Tribal,Artist C,1,31616,Aftercare Kit
+45,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist C,4,21833,Aftercare Kit
+37,Male,Tuesday,Walk-in,Small,Script,Artist B,2,16164,Consultation Fee
+30,Male,Monday,Pre-booked,Sleeve/Back,Custom,Artist A,9,26524,Aftercare Kit
+50,Female,Tuesday,Walk-in,Small,Script,Artist C,1,8068,Aftercare Kit
+23,Female,Thursday,Walk-in,Large,Minimalist,Artist D,4,31083,Aftercare Kit
+49,Female,Sunday,Walk-in,Medium,Custom,Artist D,3,35160,Aftercare Kit
+54,Male,Friday,Walk-in,Small,Script,Artist B,2,14465,Aftercare Kit
+36,Female,Monday,Pre-booked,Large,Minimalist,Artist C,5,36316,Piercing
+35,Male,Tuesday,Walk-in,Small,Tribal,Artist C,2,23452,Piercing
+20,Female,Wednesday,Walk-in,Small,Realism,Artist B,2,10697,Aftercare Kit
+40,Female,Tuesday,Pre-booked,Small,Custom,Artist C,2,49485,Consultation Fee
+49,Male,Monday,Pre-booked,Medium,Tribal,Artist B,4,48771,Aftercare Kit
+41,Female,Tuesday,Pre-booked,Large,Custom,Artist A,5,22380,Aftercare Kit
+45,Female,Tuesday,Pre-booked,Small,Realism,Artist B,1,4885,Aftercare Kit
+25,Male,Friday,Walk-in,Sleeve/Back,Tribal,Artist A,9,47026,Aftercare Kit
+25,Female,Saturday,Walk-in,Small,Realism,Artist B,1,32597,Consultation Fee
+45,Male,Wednesday,Pre-booked,Small,Realism,Artist A,1,5023,Piercing
+34,Female,Monday,Pre-booked,Medium,Custom,Artist B,2,3473,Consultation Fee
+37,Female,Friday,Pre-booked,Small,Realism,Artist B,1,43867,Consultation Fee
+30,Male,Sunday,Walk-in,Small,Script,Artist C,2,15752,Piercing
+45,Female,Thursday,Walk-in,Large,Realism,Artist B,4,23029,Aftercare Kit
+46,Male,Tuesday,Walk-in,Small,Tribal,Artist D,1,15143,Aftercare Kit
+52,Male,Monday,Pre-booked,Medium,Script,Artist C,3,20780,Aftercare Kit
+23,Male,Friday,Walk-in,Large,Realism,Artist D,6,20130,Piercing
+35,Male,Saturday,Walk-in,Large,Realism,Artist D,6,36883,Piercing
+42,Male,Sunday,Pre-booked,Medium,Realism,Artist A,3,30908,Consultation Fee
+27,Male,Friday,Pre-booked,Medium,Minimalist,Artist A,4,9710,Aftercare Kit
+47,Male,Wednesday,Walk-in,Sleeve/Back,Minimalist,Artist D,6,19868,Aftercare Kit
+22,Male,Saturday,Pre-booked,Medium,Minimalist,Artist C,4,11785,Consultation Fee
+50,Female,Wednesday,Pre-booked,Small,Minimalist,Artist C,2,12321,Piercing
+18,Male,Tuesday,Walk-in,Small,Realism,Artist A,2,19933,Piercing
+35,Male,Sunday,Pre-booked,Sleeve/Back,Realism,Artist C,10,9501,Aftercare Kit
+38,Male,Friday,Walk-in,Large,Minimalist,Artist A,6,38675,Aftercare Kit
+43,Male,Sunday,Walk-in,Small,Script,Artist A,1,35689,Aftercare Kit
+44,Male,Thursday,Pre-booked,Small,Tribal,Artist C,2,37555,Consultation Fee
+52,Male,Thursday,Pre-booked,Large,Minimalist,Artist A,5,19763,Consultation Fee
+18,Female,Tuesday,Pre-booked,Small,Minimalist,Artist A,2,11277,Consultation Fee
+38,Male,Monday,Walk-in,Medium,Realism,Artist A,3,48160,Aftercare Kit
+34,Male,Sunday,Pre-booked,Medium,Minimalist,Artist A,3,18044,Piercing
+54,Other,Wednesday,Pre-booked,Small,Tribal,Artist A,2,37427,Piercing
+27,Male,Tuesday,Walk-in,Medium,Minimalist,Artist D,4,10524,Piercing
+36,Male,Friday,Pre-booked,Medium,Custom,Artist C,4,3900,Aftercare Kit
+38,Female,Monday,Pre-booked,Medium,Tribal,Artist B,4,46269,Piercing
+26,Female,Tuesday,Pre-booked,Medium,Tribal,Artist B,3,8942,Aftercare Kit
+18,Male,Friday,Pre-booked,Small,Script,Artist D,1,27139,Aftercare Kit
+30,Female,Tuesday,Pre-booked,Small,Minimalist,Artist D,1,5525,Consultation Fee
+21,Female,Thursday,Pre-booked,Small,Tribal,Artist D,1,7643,Piercing
+51,Female,Monday,Walk-in,Medium,Tribal,Artist A,3,13729,Aftercare Kit
+45,Male,Sunday,Pre-booked,Small,Minimalist,Artist A,2,48181,Aftercare Kit
+48,Male,Tuesday,Walk-in,Small,Custom,Artist B,1,41067,Consultation Fee
+25,Male,Saturday,Walk-in,Large,Custom,Artist A,6,40846,Aftercare Kit
+51,Female,Tuesday,Pre-booked,Medium,Realism,Artist C,2,47228,Consultation Fee
+20,Male,Sunday,Walk-in,Small,Realism,Artist D,2,47833,Aftercare Kit
+29,Male,Tuesday,Walk-in,Large,Minimalist,Artist C,6,31218,Consultation Fee
+18,Male,Saturday,Pre-booked,Small,Tribal,Artist D,1,42390,Aftercare Kit
+22,Male,Monday,Pre-booked,Small,Custom,Artist A,2,25306,Aftercare Kit
+47,Male,Wednesday,Walk-in,Medium,Custom,Artist A,4,22476,Piercing
+32,Male,Monday,Pre-booked,Medium,Minimalist,Artist B,4,45966,Piercing
+54,Male,Wednesday,Pre-booked,Large,Minimalist,Artist A,6,36962,Piercing
+28,Male,Wednesday,Pre-booked,Sleeve/Back,Script,Artist C,10,10637,Aftercare Kit
+51,Female,Thursday,Pre-booked,Medium,Custom,Artist B,2,8089,Aftercare Kit
+47,Male,Saturday,Pre-booked,Sleeve/Back,Custom,Artist B,8,32837,Piercing
+34,Male,Sunday,Walk-in,Medium,Tribal,Artist B,4,17184,Aftercare Kit
+46,Male,Sunday,Pre-booked,Medium,Tribal,Artist C,2,11418,Consultation Fee
+27,Male,Sunday,Pre-booked,Medium,Tribal,Artist A,4,18911,Aftercare Kit
+34,Female,Saturday,Walk-in,Medium,Custom,Artist C,3,25819,Piercing
+34,Male,Wednesday,Walk-in,Small,Minimalist,Artist A,1,14016,Aftercare Kit
+37,Female,Saturday,Pre-booked,Small,Tribal,Artist D,2,47849,Piercing
+41,Male,Friday,Walk-in,Medium,Realism,Artist D,3,45593,Consultation Fee
+51,Female,Friday,Walk-in,Medium,Tribal,Artist B,4,23283,Aftercare Kit
+19,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist B,10,33949,Consultation Fee
+28,Female,Friday,Pre-booked,Small,Script,Artist D,1,6283,Consultation Fee
+40,Male,Friday,Pre-booked,Small,Custom,Artist C,2,33151,Piercing
+33,Male,Wednesday,Walk-in,Large,Minimalist,Artist B,6,9398,Aftercare Kit
+48,Female,Thursday,Pre-booked,Large,Custom,Artist C,6,25032,Aftercare Kit
+33,Female,Thursday,Pre-booked,Large,Custom,Artist D,5,32227,Aftercare Kit
+25,Female,Saturday,Walk-in,Medium,Realism,Artist D,3,13193,Consultation Fee
+21,Female,Tuesday,Pre-booked,Small,Script,Artist B,2,24846,Piercing
+42,Male,Wednesday,Pre-booked,Small,Tribal,Artist A,1,41612,Aftercare Kit
+20,Male,Monday,Pre-booked,Medium,Tribal,Artist B,3,35288,Aftercare Kit
+44,Female,Saturday,Walk-in,Large,Tribal,Artist B,4,8745,Aftercare Kit
+49,Female,Friday,Walk-in,Medium,Custom,Artist D,2,48810,Aftercare Kit
+38,Male,Saturday,Pre-booked,Medium,Realism,Artist D,4,23356,Aftercare Kit
+35,Male,Wednesday,Walk-in,Medium,Custom,Artist D,4,44562,Piercing
+39,Male,Monday,Pre-booked,Small,Realism,Artist A,1,21799,Piercing
+23,Male,Saturday,Walk-in,Small,Script,Artist B,1,32210,Aftercare Kit
+18,Female,Tuesday,Walk-in,Medium,Script,Artist A,3,28267,Piercing
+51,Male,Monday,Walk-in,Small,Tribal,Artist A,1,42689,Consultation Fee
+43,Female,Tuesday,Pre-booked,Small,Script,Artist C,1,37910,Consultation Fee
+43,Male,Monday,Walk-in,Small,Minimalist,Artist C,2,27153,Piercing
+34,Female,Sunday,Walk-in,Small,Realism,Artist B,2,15647,Piercing
+53,Male,Tuesday,Pre-booked,Large,Script,Artist A,4,40729,Aftercare Kit
+25,Male,Thursday,Pre-booked,Small,Realism,Artist A,2,30531,Aftercare Kit
+52,Female,Thursday,Pre-booked,Medium,Tribal,Artist A,2,39172,Aftercare Kit
+32,Male,Thursday,Pre-booked,Small,Script,Artist A,2,24426,Consultation Fee
+45,Male,Tuesday,Walk-in,Sleeve/Back,Script,Artist C,6,13343,Consultation Fee
+40,Male,Wednesday,Pre-booked,Medium,Tribal,Artist A,2,45424,Aftercare Kit
+19,Male,Wednesday,Walk-in,Medium,Tribal,Artist C,4,48655,Consultation Fee
+43,Female,Sunday,Walk-in,Small,Custom,Artist C,2,39630,Piercing
+24,Female,Sunday,Walk-in,Large,Script,Artist D,6,9492,Piercing
+32,Other,Sunday,Pre-booked,Large,Custom,Artist D,6,38378,Piercing
+45,Male,Sunday,Walk-in,Medium,Custom,Artist A,4,13545,Piercing
+34,Male,Wednesday,Pre-booked,Small,Realism,Artist A,1,28594,Consultation Fee
+43,Male,Sunday,Walk-in,Medium,Realism,Artist C,4,41207,Consultation Fee
+34,Male,Friday,Pre-booked,Small,Custom,Artist C,1,46925,Aftercare Kit
+30,Female,Monday,Walk-in,Large,Script,Artist A,5,41086,Consultation Fee
+21,Male,Friday,Pre-booked,Medium,Tribal,Artist D,4,34394,Aftercare Kit
+27,Male,Friday,Walk-in,Sleeve/Back,Custom,Artist D,8,44270,Piercing
+20,Male,Saturday,Pre-booked,Medium,Script,Artist B,3,45264,Piercing
+36,Male,Friday,Pre-booked,Small,Script,Artist C,2,43689,Consultation Fee
+54,Female,Monday,Pre-booked,Sleeve/Back,Custom,Artist B,10,2012,Aftercare Kit
+39,Female,Monday,Pre-booked,Medium,Custom,Artist C,4,27557,Consultation Fee
+38,Female,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist C,10,42342,Piercing
+21,Male,Tuesday,Walk-in,Small,Custom,Artist D,2,14823,Piercing
+47,Male,Wednesday,Walk-in,Medium,Tribal,Artist D,3,15478,Consultation Fee
+28,Male,Saturday,Walk-in,Small,Minimalist,Artist D,1,46663,Consultation Fee
+47,Male,Friday,Pre-booked,Sleeve/Back,Custom,Artist C,9,22748,Aftercare Kit
+41,Male,Thursday,Pre-booked,Medium,Minimalist,Artist D,4,39373,Consultation Fee
+20,Female,Wednesday,Walk-in,Medium,Realism,Artist A,3,21958,Aftercare Kit
+54,Male,Thursday,Pre-booked,Large,Realism,Artist A,6,49041,Aftercare Kit
+23,Male,Thursday,Pre-booked,Medium,Tribal,Artist C,3,2532,Aftercare Kit
+19,Female,Saturday,Pre-booked,Small,Tribal,Artist B,1,42074,Piercing
+37,Male,Saturday,Walk-in,Medium,Custom,Artist A,3,35451,Aftercare Kit
+45,Female,Friday,Pre-booked,Medium,Tribal,Artist C,4,28489,Piercing
+47,Male,Thursday,Walk-in,Sleeve/Back,Realism,Artist A,7,37971,Piercing
+19,Female,Sunday,Walk-in,Small,Minimalist,Artist A,1,5481,Piercing
+32,Female,Thursday,Pre-booked,Medium,Realism,Artist B,4,2055,Aftercare Kit
+43,Male,Saturday,Pre-booked,Small,Realism,Artist B,1,25543,Aftercare Kit
+22,Female,Saturday,Pre-booked,Medium,Script,Artist C,4,9189,Aftercare Kit
+36,Female,Tuesday,Pre-booked,Small,Custom,Artist D,2,30292,Consultation Fee
+37,Female,Wednesday,Walk-in,Small,Realism,Artist C,1,48020,Piercing
+29,Female,Saturday,Pre-booked,Small,Custom,Artist C,2,42974,Piercing
+31,Female,Wednesday,Walk-in,Small,Custom,Artist B,1,27086,Piercing
+54,Male,Monday,Pre-booked,Small,Custom,Artist B,1,28609,Consultation Fee
+28,Male,Saturday,Walk-in,Large,Tribal,Artist A,4,27006,Aftercare Kit
+53,Female,Wednesday,Pre-booked,Large,Tribal,Artist A,4,30520,Aftercare Kit
+20,Female,Friday,Pre-booked,Large,Script,Artist C,6,15842,Piercing
+27,Female,Monday,Pre-booked,Large,Tribal,Artist A,5,33121,Aftercare Kit
+22,Male,Friday,Walk-in,Large,Custom,Artist A,5,11114,Consultation Fee
+30,Male,Tuesday,Pre-booked,Large,Script,Artist A,5,25611,Piercing
+19,Male,Saturday,Pre-booked,Large,Custom,Artist A,5,29343,Consultation Fee
+54,Female,Friday,Pre-booked,Small,Custom,Artist A,1,45913,Piercing
+34,Male,Wednesday,Pre-booked,Large,Script,Artist B,6,10800,Piercing
+32,Male,Tuesday,Pre-booked,Sleeve/Back,Custom,Artist C,6,44492,Consultation Fee
+52,Female,Monday,Pre-booked,Large,Script,Artist A,6,11436,Piercing
+47,Male,Wednesday,Pre-booked,Small,Minimalist,Artist C,1,49273,Piercing
+48,Other,Thursday,Walk-in,Large,Tribal,Artist B,5,33896,Aftercare Kit
+22,Female,Saturday,Walk-in,Medium,Minimalist,Artist A,4,45117,Aftercare Kit
+31,Female,Sunday,Walk-in,Sleeve/Back,Script,Artist A,8,30621,Piercing
+51,Female,Sunday,Pre-booked,Small,Minimalist,Artist C,2,10992,Aftercare Kit
+39,Female,Tuesday,Walk-in,Medium,Minimalist,Artist B,2,41611,Aftercare Kit
+46,Female,Thursday,Walk-in,Small,Minimalist,Artist C,2,29898,Consultation Fee
+28,Female,Friday,Walk-in,Sleeve/Back,Custom,Artist C,10,13783,Aftercare Kit
+54,Female,Thursday,Walk-in,Small,Custom,Artist B,1,31779,Aftercare Kit
+31,Male,Sunday,Pre-booked,Medium,Script,Artist D,2,35385,Aftercare Kit
+47,Male,Sunday,Pre-booked,Small,Tribal,Artist B,2,29795,Piercing
+52,Male,Thursday,Walk-in,Medium,Script,Artist D,4,38179,Consultation Fee
+38,Male,Monday,Pre-booked,Medium,Minimalist,Artist A,3,31494,Consultation Fee
+54,Male,Saturday,Pre-booked,Small,Script,Artist A,1,27212,Aftercare Kit
+31,Male,Sunday,Walk-in,Medium,Minimalist,Artist B,2,14176,Piercing
+43,Female,Sunday,Walk-in,Medium,Custom,Artist A,4,29837,Aftercare Kit
+21,Female,Monday,Pre-booked,Small,Script,Artist A,1,41621,Aftercare Kit
+42,Male,Wednesday,Pre-booked,Large,Minimalist,Artist D,4,2486,Consultation Fee
+42,Female,Wednesday,Pre-booked,Large,Tribal,Artist D,4,39875,Aftercare Kit
+35,Male,Saturday,Pre-booked,Small,Realism,Artist C,1,34647,Consultation Fee
+49,Male,Monday,Pre-booked,Sleeve/Back,Tribal,Artist B,10,48670,Piercing
+50,Female,Saturday,Pre-booked,Small,Realism,Artist D,1,34881,Piercing
+34,Male,Friday,Pre-booked,Small,Custom,Artist B,1,26049,Consultation Fee
+50,Male,Wednesday,Walk-in,Medium,Custom,Artist B,3,4192,Consultation Fee
+31,Female,Friday,Walk-in,Small,Script,Artist B,1,39234,Aftercare Kit
+24,Male,Sunday,Walk-in,Small,Script,Artist C,2,9416,Aftercare Kit
+32,Male,Sunday,Pre-booked,Small,Minimalist,Artist C,1,33557,Consultation Fee
+46,Female,Saturday,Walk-in,Large,Script,Artist C,4,47252,Aftercare Kit
+50,Other,Saturday,Pre-booked,Sleeve/Back,Realism,Artist C,10,7247,Piercing
+53,Female,Wednesday,Pre-booked,Medium,Realism,Artist B,4,49926,Consultation Fee
+46,Male,Friday,Pre-booked,Large,Script,Artist C,6,36498,Aftercare Kit
+21,Female,Tuesday,Pre-booked,Medium,Realism,Artist A,2,36298,Consultation Fee
+19,Female,Tuesday,Walk-in,Small,Custom,Artist B,2,7796,Piercing
+27,Female,Tuesday,Pre-booked,Medium,Custom,Artist A,2,43331,Piercing
+50,Female,Tuesday,Walk-in,Small,Custom,Artist D,1,45498,Consultation Fee
+48,Male,Friday,Walk-in,Large,Custom,Artist C,5,7117,Aftercare Kit
+53,Male,Wednesday,Pre-booked,Large,Script,Artist A,6,46831,Piercing
+32,Male,Saturday,Pre-booked,Small,Custom,Artist B,1,37336,Piercing
+25,Male,Friday,Pre-booked,Sleeve/Back,Script,Artist B,9,22479,Aftercare Kit
+46,Female,Monday,Walk-in,Medium,Minimalist,Artist A,3,5458,Aftercare Kit
+21,Male,Monday,Pre-booked,Medium,Script,Artist A,4,24514,Aftercare Kit
+44,Male,Saturday,Pre-booked,Medium,Realism,Artist A,4,32727,Consultation Fee
+48,Male,Friday,Pre-booked,Small,Realism,Artist C,1,31755,Piercing
+37,Male,Tuesday,Walk-in,Large,Minimalist,Artist C,5,25128,Consultation Fee
+28,Male,Sunday,Pre-booked,Small,Realism,Artist C,1,21308,Consultation Fee
+23,Male,Monday,Walk-in,Small,Script,Artist B,2,12977,Aftercare Kit
+25,Male,Friday,Walk-in,Large,Script,Artist A,5,4315,Piercing
+40,Male,Sunday,Pre-booked,Small,Tribal,Artist C,2,47550,Aftercare Kit
+43,Male,Tuesday,Pre-booked,Small,Realism,Artist C,1,41166,Aftercare Kit
+29,Female,Wednesday,Walk-in,Medium,Tribal,Artist D,4,21927,Aftercare Kit
+43,Male,Saturday,Pre-booked,Large,Script,Artist A,6,49642,Consultation Fee
+35,Female,Tuesday,Pre-booked,Medium,Realism,Artist B,3,19068,Consultation Fee
+42,Male,Tuesday,Walk-in,Medium,Custom,Artist C,3,6025,Piercing
+50,Female,Thursday,Pre-booked,Medium,Custom,Artist C,3,43241,Aftercare Kit
+53,Female,Tuesday,Pre-booked,Small,Custom,Artist A,2,39889,Piercing
+54,Male,Saturday,Pre-booked,Medium,Minimalist,Artist D,2,5382,Aftercare Kit
+25,Male,Saturday,Pre-booked,Medium,Script,Artist B,2,45012,Piercing
+45,Female,Tuesday,Walk-in,Medium,Custom,Artist C,4,21120,Consultation Fee
+31,Female,Sunday,Walk-in,Medium,Script,Artist D,4,33769,Piercing
+28,Female,Thursday,Walk-in,Sleeve/Back,Custom,Artist B,8,10311,Aftercare Kit
+40,Female,Wednesday,Pre-booked,Medium,Custom,Artist A,4,35134,Aftercare Kit
+38,Male,Friday,Pre-booked,Large,Minimalist,Artist A,4,18518,Aftercare Kit
+43,Male,Wednesday,Walk-in,Large,Tribal,Artist D,4,10686,Aftercare Kit
+53,Female,Friday,Pre-booked,Medium,Custom,Artist A,4,42356,Aftercare Kit
+40,Female,Sunday,Walk-in,Large,Script,Artist C,6,20413,Aftercare Kit
+18,Male,Friday,Pre-booked,Small,Minimalist,Artist D,1,20036,Piercing
+42,Male,Friday,Pre-booked,Small,Tribal,Artist C,2,45198,Piercing
+35,Female,Wednesday,Pre-booked,Small,Minimalist,Artist C,1,47925,Consultation Fee
+51,Female,Saturday,Pre-booked,Small,Custom,Artist D,1,33779,Aftercare Kit
+34,Female,Wednesday,Pre-booked,Medium,Realism,Artist A,4,36562,Consultation Fee
+41,Male,Monday,Pre-booked,Small,Realism,Artist B,1,4168,Aftercare Kit
+42,Female,Monday,Pre-booked,Large,Minimalist,Artist B,5,24468,Consultation Fee
+23,Male,Thursday,Pre-booked,Large,Tribal,Artist B,6,11507,Aftercare Kit
+50,Female,Monday,Pre-booked,Large,Script,Artist B,6,12102,Aftercare Kit
+43,Female,Monday,Walk-in,Small,Custom,Artist D,1,27111,Piercing
+45,Male,Wednesday,Pre-booked,Large,Tribal,Artist B,5,17594,Consultation Fee
+37,Male,Sunday,Pre-booked,Large,Custom,Artist B,6,43784,Consultation Fee
+37,Male,Wednesday,Walk-in,Medium,Custom,Artist B,4,12963,Consultation Fee
+45,Male,Monday,Pre-booked,Medium,Script,Artist D,3,39863,Piercing
+24,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist D,2,24614,Consultation Fee
+18,Male,Sunday,Walk-in,Medium,Script,Artist A,2,5560,Piercing
+47,Male,Saturday,Walk-in,Small,Script,Artist A,1,9601,Piercing
+40,Male,Saturday,Pre-booked,Medium,Custom,Artist C,3,5442,Aftercare Kit
+36,Male,Saturday,Walk-in,Small,Custom,Artist A,2,12983,Aftercare Kit
+49,Male,Wednesday,Walk-in,Small,Minimalist,Artist B,1,32409,Consultation Fee
+47,Male,Friday,Walk-in,Small,Tribal,Artist A,1,28132,Consultation Fee
+46,Male,Sunday,Pre-booked,Small,Script,Artist C,1,21750,Consultation Fee
+47,Male,Tuesday,Walk-in,Large,Script,Artist B,6,33212,Piercing
+36,Male,Sunday,Walk-in,Medium,Minimalist,Artist D,3,17313,Consultation Fee
+18,Female,Monday,Pre-booked,Medium,Custom,Artist A,3,46794,Aftercare Kit
+31,Male,Thursday,Pre-booked,Large,Realism,Artist D,4,48242,Consultation Fee
+47,Female,Monday,Walk-in,Large,Tribal,Artist A,4,19211,Piercing
+25,Other,Monday,Walk-in,Large,Minimalist,Artist C,5,30490,Piercing
+49,Female,Sunday,Pre-booked,Medium,Realism,Artist D,4,31413,Aftercare Kit
+51,Male,Wednesday,Pre-booked,Medium,Custom,Artist D,4,36750,Consultation Fee
+50,Male,Thursday,Pre-booked,Sleeve/Back,Realism,Artist A,6,46752,Piercing
+45,Male,Monday,Pre-booked,Small,Custom,Artist B,2,8380,Piercing
+49,Male,Wednesday,Walk-in,Large,Minimalist,Artist B,4,36818,Consultation Fee
+24,Male,Thursday,Pre-booked,Large,Custom,Artist A,6,43774,Aftercare Kit
+46,Male,Friday,Pre-booked,Large,Script,Artist C,5,25188,Aftercare Kit
+18,Female,Thursday,Pre-booked,Small,Minimalist,Artist C,2,42008,Consultation Fee
+41,Female,Friday,Pre-booked,Small,Realism,Artist D,2,19864,Aftercare Kit
+25,Female,Saturday,Walk-in,Large,Realism,Artist A,6,19716,Piercing
+50,Male,Wednesday,Pre-booked,Medium,Script,Artist A,2,18734,Aftercare Kit
+25,Male,Monday,Walk-in,Small,Minimalist,Artist D,1,40284,Aftercare Kit
+31,Female,Friday,Walk-in,Medium,Custom,Artist A,2,46032,Piercing
+49,Male,Wednesday,Walk-in,Small,Custom,Artist C,2,40582,Aftercare Kit
+33,Male,Friday,Pre-booked,Sleeve/Back,Realism,Artist A,10,14774,Aftercare Kit
+38,Female,Wednesday,Walk-in,Medium,Custom,Artist D,3,46414,Aftercare Kit
+48,Male,Saturday,Walk-in,Small,Tribal,Artist C,1,13791,Piercing
+35,Female,Thursday,Walk-in,Small,Minimalist,Artist A,2,22530,Piercing
+27,Male,Friday,Pre-booked,Small,Script,Artist D,2,2693,Consultation Fee
+50,Male,Friday,Walk-in,Medium,Custom,Artist B,4,2555,Aftercare Kit
+38,Female,Sunday,Walk-in,Medium,Custom,Artist B,4,2783,Aftercare Kit
+36,Female,Tuesday,Walk-in,Sleeve/Back,Realism,Artist B,9,28951,Aftercare Kit
+46,Female,Saturday,Walk-in,Sleeve/Back,Minimalist,Artist A,6,8809,Piercing
+35,Female,Sunday,Pre-booked,Medium,Custom,Artist D,2,46924,Piercing
+18,Female,Thursday,Pre-booked,Medium,Tribal,Artist A,2,25036,Piercing
+28,Female,Wednesday,Pre-booked,Small,Script,Artist A,1,20566,Aftercare Kit
+19,Male,Wednesday,Pre-booked,Medium,Custom,Artist C,2,18508,Consultation Fee
+40,Female,Wednesday,Pre-booked,Medium,Tribal,Artist D,2,4230,Piercing
+37,Male,Wednesday,Pre-booked,Small,Minimalist,Artist D,2,42592,Aftercare Kit
+54,Male,Friday,Pre-booked,Small,Custom,Artist B,2,5727,Aftercare Kit
+26,Male,Monday,Walk-in,Small,Script,Artist B,1,45031,Consultation Fee
+51,Male,Monday,Pre-booked,Large,Script,Artist C,5,16209,Piercing
+39,Male,Friday,Pre-booked,Sleeve/Back,Custom,Artist B,9,43817,Aftercare Kit
+41,Male,Friday,Walk-in,Small,Script,Artist D,2,9981,Consultation Fee
+34,Male,Thursday,Pre-booked,Large,Custom,Artist B,4,48404,Consultation Fee
+27,Female,Wednesday,Walk-in,Small,Custom,Artist B,1,9862,Piercing
+49,Female,Friday,Walk-in,Medium,Custom,Artist A,2,10513,Aftercare Kit
+26,Male,Monday,Walk-in,Large,Script,Artist C,4,39097,Piercing
+26,Male,Monday,Walk-in,Small,Minimalist,Artist D,2,47590,Consultation Fee
+39,Male,Sunday,Walk-in,Small,Custom,Artist D,1,14075,Consultation Fee
+21,Female,Wednesday,Walk-in,Medium,Script,Artist A,2,18602,Piercing
+46,Female,Tuesday,Walk-in,Small,Custom,Artist D,2,32602,Consultation Fee
+40,Male,Thursday,Walk-in,Large,Script,Artist D,4,6962,Piercing
+53,Other,Saturday,Pre-booked,Small,Custom,Artist C,2,45750,Consultation Fee
+34,Male,Sunday,Walk-in,Small,Realism,Artist C,1,18864,Aftercare Kit
+42,Female,Sunday,Walk-in,Small,Script,Artist B,2,6849,Piercing
+39,Other,Thursday,Walk-in,Small,Tribal,Artist A,1,27087,Consultation Fee
+38,Male,Saturday,Pre-booked,Medium,Realism,Artist A,2,27466,Piercing
+48,Female,Monday,Walk-in,Small,Custom,Artist A,1,5936,Aftercare Kit
+23,Female,Wednesday,Pre-booked,Small,Realism,Artist A,1,18923,Aftercare Kit
+44,Female,Tuesday,Walk-in,Medium,Custom,Artist C,4,19345,Piercing
+34,Male,Thursday,Walk-in,Small,Script,Artist A,2,15151,Piercing
+38,Male,Monday,Walk-in,Large,Tribal,Artist D,6,27731,Aftercare Kit
+45,Female,Wednesday,Pre-booked,Small,Tribal,Artist D,2,13694,Aftercare Kit
+19,Female,Thursday,Walk-in,Small,Realism,Artist C,1,44302,Aftercare Kit
+43,Female,Tuesday,Pre-booked,Small,Script,Artist C,2,11428,Consultation Fee
+38,Male,Tuesday,Pre-booked,Sleeve/Back,Minimalist,Artist B,9,30262,Consultation Fee
+28,Male,Sunday,Pre-booked,Large,Tribal,Artist C,4,16312,Aftercare Kit
+28,Male,Wednesday,Walk-in,Large,Minimalist,Artist B,5,42236,Consultation Fee
+51,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist B,6,30939,Consultation Fee
+39,Male,Monday,Pre-booked,Small,Script,Artist A,2,18973,Piercing
+53,Male,Sunday,Walk-in,Small,Custom,Artist A,1,6778,Aftercare Kit
+52,Male,Saturday,Pre-booked,Sleeve/Back,Realism,Artist D,6,49680,Piercing
+51,Male,Saturday,Pre-booked,Medium,Custom,Artist A,4,31221,Consultation Fee
+26,Male,Wednesday,Walk-in,Sleeve/Back,Minimalist,Artist B,6,3229,Piercing
+43,Male,Sunday,Pre-booked,Sleeve/Back,Minimalist,Artist B,9,34617,Aftercare Kit
+19,Female,Tuesday,Walk-in,Small,Minimalist,Artist B,1,11755,Piercing
+18,Male,Friday,Walk-in,Sleeve/Back,Custom,Artist D,6,4479,Piercing
+42,Male,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist A,7,45555,Aftercare Kit
+42,Female,Wednesday,Pre-booked,Small,Tribal,Artist C,2,27590,Aftercare Kit
+47,Male,Sunday,Walk-in,Small,Minimalist,Artist D,2,23615,Piercing
+36,Female,Wednesday,Pre-booked,Medium,Script,Artist D,4,2242,Aftercare Kit
+34,Female,Monday,Pre-booked,Small,Custom,Artist D,2,48373,Piercing
+27,Male,Tuesday,Walk-in,Sleeve/Back,Custom,Artist B,7,34157,Aftercare Kit
+29,Male,Monday,Pre-booked,Sleeve/Back,Minimalist,Artist A,9,33335,Piercing
+33,Female,Monday,Walk-in,Large,Tribal,Artist B,6,30577,Consultation Fee
+41,Male,Wednesday,Pre-booked,Small,Tribal,Artist A,2,28470,Consultation Fee
+36,Male,Friday,Walk-in,Small,Realism,Artist B,1,49694,Piercing
+25,Male,Friday,Walk-in,Medium,Script,Artist B,3,6594,Aftercare Kit
+40,Female,Wednesday,Pre-booked,Small,Custom,Artist A,2,27193,Piercing
+54,Male,Wednesday,Pre-booked,Sleeve/Back,Custom,Artist B,9,47171,Piercing
+33,Female,Friday,Walk-in,Sleeve/Back,Minimalist,Artist B,7,33592,Piercing
+23,Female,Thursday,Walk-in,Small,Script,Artist B,1,9943,Aftercare Kit
+29,Male,Friday,Pre-booked,Medium,Realism,Artist D,2,46684,Piercing
+32,Male,Friday,Pre-booked,Sleeve/Back,Tribal,Artist A,7,21846,Piercing
+43,Female,Sunday,Walk-in,Small,Script,Artist B,2,5617,Piercing
+49,Female,Monday,Walk-in,Medium,Tribal,Artist A,3,43436,Piercing
+27,Male,Wednesday,Walk-in,Small,Custom,Artist A,1,44406,Consultation Fee
+33,Female,Tuesday,Walk-in,Large,Minimalist,Artist B,4,7941,Piercing
+24,Male,Sunday,Pre-booked,Medium,Script,Artist B,3,25943,Aftercare Kit
+43,Female,Friday,Walk-in,Large,Tribal,Artist C,4,7272,Piercing
+38,Male,Tuesday,Pre-booked,Small,Custom,Artist A,2,32122,Aftercare Kit
+24,Female,Monday,Pre-booked,Small,Custom,Artist D,2,44453,Piercing
+31,Male,Thursday,Pre-booked,Small,Realism,Artist A,1,15311,Consultation Fee
+32,Male,Monday,Walk-in,Medium,Realism,Artist D,2,13574,Aftercare Kit
+24,Male,Thursday,Walk-in,Sleeve/Back,Realism,Artist C,8,38338,Piercing
+40,Male,Wednesday,Pre-booked,Small,Realism,Artist A,1,45301,Piercing
+46,Female,Tuesday,Walk-in,Small,Realism,Artist A,1,14517,Piercing
+35,Female,Tuesday,Pre-booked,Medium,Tribal,Artist A,4,21586,Aftercare Kit
+48,Male,Friday,Walk-in,Medium,Realism,Artist C,3,47605,Aftercare Kit
+41,Male,Saturday,Walk-in,Small,Minimalist,Artist A,1,7561,Aftercare Kit
+52,Male,Thursday,Walk-in,Small,Tribal,Artist C,2,43470,Aftercare Kit
+20,Male,Wednesday,Walk-in,Small,Minimalist,Artist C,1,14416,Consultation Fee
+32,Male,Friday,Pre-booked,Small,Custom,Artist C,1,3662,Piercing
+46,Other,Thursday,Pre-booked,Small,Script,Artist A,1,40859,Piercing
+42,Male,Saturday,Pre-booked,Large,Tribal,Artist B,4,34062,Aftercare Kit
+50,Male,Friday,Pre-booked,Sleeve/Back,Tribal,Artist B,6,37425,Consultation Fee
+33,Female,Monday,Pre-booked,Small,Tribal,Artist C,1,44166,Consultation Fee
+52,Male,Friday,Walk-in,Small,Custom,Artist C,2,34747,Consultation Fee
+47,Female,Monday,Walk-in,Small,Script,Artist B,2,31445,Aftercare Kit
+35,Male,Thursday,Walk-in,Medium,Custom,Artist B,4,24235,Consultation Fee
+49,Male,Tuesday,Pre-booked,Sleeve/Back,Tribal,Artist B,7,5673,Aftercare Kit
+52,Female,Friday,Pre-booked,Small,Realism,Artist C,1,49252,Aftercare Kit
+46,Male,Saturday,Pre-booked,Medium,Realism,Artist A,2,4805,Aftercare Kit
+33,Female,Monday,Walk-in,Small,Custom,Artist A,2,9745,Aftercare Kit
+27,Female,Tuesday,Pre-booked,Medium,Script,Artist C,4,15872,Aftercare Kit
+42,Female,Wednesday,Pre-booked,Medium,Tribal,Artist D,4,45733,Aftercare Kit
+37,Male,Thursday,Pre-booked,Medium,Realism,Artist A,3,36283,Piercing
+22,Female,Monday,Pre-booked,Small,Custom,Artist C,2,32039,Aftercare Kit
+31,Female,Tuesday,Pre-booked,Sleeve/Back,Tribal,Artist C,9,39968,Piercing
+47,Male,Saturday,Walk-in,Medium,Tribal,Artist B,3,17268,Aftercare Kit
+21,Female,Friday,Pre-booked,Small,Script,Artist A,1,6720,Aftercare Kit
+35,Female,Tuesday,Pre-booked,Large,Tribal,Artist C,5,4416,Consultation Fee
+42,Male,Thursday,Pre-booked,Small,Tribal,Artist C,2,34040,Piercing
+18,Male,Tuesday,Walk-in,Large,Realism,Artist D,6,44849,Piercing
+32,Female,Wednesday,Pre-booked,Large,Script,Artist B,4,3249,Aftercare Kit
+29,Male,Friday,Pre-booked,Small,Script,Artist B,2,47960,Consultation Fee
+54,Male,Thursday,Pre-booked,Small,Custom,Artist B,1,44518,Aftercare Kit
+54,Male,Monday,Pre-booked,Large,Custom,Artist C,6,10554,Piercing
+25,Female,Friday,Pre-booked,Medium,Tribal,Artist D,3,13186,Piercing
+27,Male,Saturday,Pre-booked,Medium,Tribal,Artist A,4,8968,Consultation Fee
+20,Other,Wednesday,Pre-booked,Medium,Tribal,Artist B,2,40992,Aftercare Kit
+22,Female,Monday,Walk-in,Small,Script,Artist C,1,16455,Aftercare Kit
+26,Female,Friday,Pre-booked,Medium,Tribal,Artist A,4,29932,Aftercare Kit
+52,Male,Thursday,Pre-booked,Medium,Realism,Artist B,4,24108,Aftercare Kit
+52,Male,Monday,Pre-booked,Medium,Script,Artist D,3,28346,Piercing
+35,Female,Friday,Pre-booked,Small,Script,Artist D,2,23249,Aftercare Kit
+41,Male,Friday,Walk-in,Medium,Minimalist,Artist A,4,46832,Consultation Fee
+20,Male,Friday,Pre-booked,Medium,Script,Artist D,4,39746,Aftercare Kit
+26,Male,Thursday,Pre-booked,Small,Script,Artist B,2,4987,Piercing
+21,Male,Friday,Walk-in,Medium,Custom,Artist B,2,40868,Piercing
+31,Female,Friday,Pre-booked,Sleeve/Back,Custom,Artist A,9,13367,Piercing
+46,Female,Friday,Pre-booked,Small,Script,Artist B,1,29207,Consultation Fee
+26,Female,Sunday,Pre-booked,Small,Tribal,Artist A,2,13013,Consultation Fee
+20,Male,Tuesday,Pre-booked,Sleeve/Back,Tribal,Artist D,8,47632,Aftercare Kit
+42,Female,Saturday,Pre-booked,Small,Custom,Artist C,2,26243,Aftercare Kit
+29,Male,Thursday,Pre-booked,Small,Tribal,Artist C,2,12813,Consultation Fee
+42,Male,Sunday,Walk-in,Medium,Script,Artist A,4,40141,Piercing
+22,Male,Sunday,Walk-in,Sleeve/Back,Custom,Artist A,7,4667,Consultation Fee
+28,Male,Sunday,Pre-booked,Small,Script,Artist C,2,10740,Consultation Fee
+51,Female,Monday,Pre-booked,Medium,Custom,Artist D,4,8551,Consultation Fee
+32,Female,Saturday,Pre-booked,Small,Script,Artist A,1,42136,Consultation Fee
+23,Female,Saturday,Pre-booked,Medium,Minimalist,Artist B,2,7290,Piercing
+54,Male,Tuesday,Pre-booked,Small,Script,Artist C,1,2416,Aftercare Kit
+30,Female,Friday,Walk-in,Small,Script,Artist A,1,2473,Piercing
+45,Male,Friday,Pre-booked,Small,Script,Artist B,2,13758,Piercing
+34,Male,Tuesday,Pre-booked,Small,Minimalist,Artist D,1,44713,Aftercare Kit
+49,Male,Friday,Pre-booked,Small,Script,Artist D,1,40910,Aftercare Kit
+46,Female,Friday,Walk-in,Medium,Tribal,Artist A,4,20594,Aftercare Kit
+50,Female,Tuesday,Pre-booked,Large,Tribal,Artist D,5,10316,Piercing
+23,Male,Wednesday,Pre-booked,Medium,Script,Artist D,3,15510,Piercing
+41,Male,Sunday,Pre-booked,Large,Minimalist,Artist C,6,11377,Piercing
+36,Female,Wednesday,Pre-booked,Sleeve/Back,Script,Artist D,8,43931,Consultation Fee
+30,Female,Monday,Walk-in,Small,Custom,Artist C,2,29002,Consultation Fee
+42,Female,Monday,Walk-in,Sleeve/Back,Custom,Artist C,7,17679,Aftercare Kit
+53,Female,Friday,Pre-booked,Small,Script,Artist A,2,13439,Aftercare Kit
+22,Male,Tuesday,Pre-booked,Small,Custom,Artist D,1,4465,Piercing
+27,Male,Tuesday,Walk-in,Medium,Minimalist,Artist C,3,49002,Consultation Fee
+47,Male,Tuesday,Pre-booked,Small,Script,Artist C,1,42111,Consultation Fee
+19,Male,Thursday,Pre-booked,Large,Minimalist,Artist A,6,24796,Piercing
+31,Other,Saturday,Pre-booked,Small,Realism,Artist A,1,29445,Consultation Fee
+30,Male,Thursday,Walk-in,Medium,Tribal,Artist D,3,2299,Aftercare Kit
+46,Male,Sunday,Pre-booked,Small,Script,Artist D,1,38550,Piercing
+49,Male,Monday,Pre-booked,Large,Script,Artist D,5,9700,Consultation Fee
+30,Male,Sunday,Pre-booked,Small,Realism,Artist D,1,36747,Aftercare Kit
+44,Male,Wednesday,Walk-in,Small,Tribal,Artist D,1,8270,Piercing
+34,Male,Tuesday,Pre-booked,Medium,Realism,Artist C,4,42561,Consultation Fee
+48,Male,Saturday,Walk-in,Large,Script,Artist B,4,25717,Piercing
+51,Male,Friday,Pre-booked,Medium,Minimalist,Artist D,3,37371,Piercing
+52,Male,Tuesday,Walk-in,Medium,Script,Artist B,2,16370,Aftercare Kit
+47,Female,Tuesday,Pre-booked,Large,Tribal,Artist B,6,45209,Piercing
+51,Male,Thursday,Pre-booked,Sleeve/Back,Custom,Artist C,8,14695,Consultation Fee
+45,Male,Friday,Pre-booked,Medium,Custom,Artist A,2,9384,Piercing
+54,Female,Friday,Pre-booked,Small,Minimalist,Artist C,2,33091,Piercing
+46,Male,Sunday,Walk-in,Medium,Custom,Artist A,3,34605,Aftercare Kit
+39,Male,Wednesday,Pre-booked,Small,Realism,Artist D,1,13555,Aftercare Kit
+21,Female,Tuesday,Walk-in,Medium,Script,Artist A,3,12470,Aftercare Kit
+49,Female,Wednesday,Walk-in,Small,Tribal,Artist A,1,4825,Aftercare Kit
+53,Female,Friday,Pre-booked,Small,Custom,Artist A,2,5540,Piercing
+44,Male,Saturday,Pre-booked,Medium,Script,Artist D,3,25867,Piercing
+39,Female,Friday,Pre-booked,Small,Script,Artist A,2,30486,Piercing
+18,Male,Tuesday,Pre-booked,Medium,Custom,Artist A,4,42423,Consultation Fee
+39,Female,Sunday,Pre-booked,Large,Custom,Artist C,4,31697,Piercing
+46,Female,Saturday,Walk-in,Medium,Realism,Artist A,3,37216,Aftercare Kit
+53,Female,Wednesday,Pre-booked,Small,Realism,Artist A,2,12357,Consultation Fee
+23,Male,Wednesday,Pre-booked,Medium,Tribal,Artist D,2,49277,Aftercare Kit
+28,Female,Wednesday,Pre-booked,Medium,Minimalist,Artist B,2,39995,Aftercare Kit
+40,Other,Monday,Pre-booked,Large,Tribal,Artist A,6,23362,Consultation Fee
+43,Male,Saturday,Walk-in,Small,Custom,Artist B,2,29463,Piercing
+46,Male,Monday,Pre-booked,Small,Script,Artist A,2,23344,Aftercare Kit
+34,Female,Wednesday,Pre-booked,Sleeve/Back,Tribal,Artist C,9,9217,Aftercare Kit
+30,Male,Friday,Walk-in,Small,Custom,Artist C,1,16927,Consultation Fee
+32,Male,Saturday,Walk-in,Small,Minimalist,Artist A,1,8426,Piercing
+46,Female,Wednesday,Walk-in,Small,Tribal,Artist C,1,17539,Aftercare Kit
+46,Male,Sunday,Walk-in,Small,Script,Artist A,2,29039,Aftercare Kit
+19,Female,Sunday,Pre-booked,Large,Script,Artist D,4,16461,Aftercare Kit
+31,Male,Friday,Pre-booked,Sleeve/Back,Minimalist,Artist A,9,6818,Aftercare Kit
+37,Female,Sunday,Pre-booked,Medium,Minimalist,Artist A,4,32866,Aftercare Kit
+44,Female,Saturday,Pre-booked,Sleeve/Back,Custom,Artist A,8,5561,Aftercare Kit
+34,Male,Saturday,Pre-booked,Small,Realism,Artist A,2,11498,Aftercare Kit
+36,Female,Saturday,Pre-booked,Medium,Realism,Artist C,2,31998,Piercing
+22,Female,Thursday,Pre-booked,Small,Script,Artist B,1,49174,Piercing
+20,Male,Tuesday,Walk-in,Small,Realism,Artist D,2,14724,Piercing
+32,Female,Thursday,Pre-booked,Sleeve/Back,Custom,Artist C,8,25500,Aftercare Kit
+51,Female,Monday,Pre-booked,Small,Custom,Artist B,2,19674,Piercing
+52,Female,Friday,Pre-booked,Medium,Custom,Artist A,4,15252,Consultation Fee
+42,Female,Saturday,Walk-in,Medium,Custom,Artist C,3,24012,Piercing
+44,Male,Monday,Pre-booked,Medium,Script,Artist A,4,20389,Consultation Fee
+25,Male,Wednesday,Pre-booked,Small,Custom,Artist B,1,10945,Aftercare Kit
+34,Female,Sunday,Walk-in,Small,Tribal,Artist C,2,32509,Piercing
+46,Female,Wednesday,Pre-booked,Large,Script,Artist D,5,32053,Aftercare Kit
+32,Male,Tuesday,Pre-booked,Sleeve/Back,Custom,Artist B,6,13219,Aftercare Kit
+44,Male,Saturday,Pre-booked,Large,Realism,Artist A,4,24516,Consultation Fee
+24,Female,Sunday,Pre-booked,Large,Tribal,Artist B,4,16408,Aftercare Kit
+20,Female,Tuesday,Pre-booked,Small,Tribal,Artist C,2,21343,Aftercare Kit
+46,Female,Tuesday,Pre-booked,Medium,Minimalist,Artist C,2,41559,Aftercare Kit
+41,Male,Tuesday,Walk-in,Medium,Custom,Artist C,3,12275,Aftercare Kit
+32,Female,Tuesday,Pre-booked,Sleeve/Back,Minimalist,Artist A,8,13136,Consultation Fee
+47,Male,Wednesday,Pre-booked,Small,Minimalist,Artist B,2,38225,Piercing
+31,Female,Sunday,Walk-in,Large,Minimalist,Artist C,5,17053,Piercing
+24,Female,Wednesday,Walk-in,Medium,Script,Artist A,3,7667,Aftercare Kit
+37,Female,Tuesday,Pre-booked,Small,Realism,Artist C,2,36194,Consultation Fee
+25,Male,Wednesday,Walk-in,Large,Script,Artist B,6,20295,Piercing
+28,Male,Wednesday,Pre-booked,Small,Realism,Artist C,1,2950,Consultation Fee
+25,Female,Thursday,Walk-in,Small,Script,Artist B,1,18164,Aftercare Kit
+38,Male,Thursday,Pre-booked,Small,Custom,Artist A,1,18241,Consultation Fee
+35,Female,Tuesday,Pre-booked,Medium,Custom,Artist A,2,23449,Consultation Fee
+47,Male,Sunday,Pre-booked,Large,Tribal,Artist A,5,30458,Consultation Fee
+35,Male,Thursday,Walk-in,Small,Realism,Artist B,1,39975,Aftercare Kit
+28,Male,Sunday,Pre-booked,Medium,Tribal,Artist A,3,11762,Consultation Fee
+25,Female,Friday,Pre-booked,Small,Tribal,Artist D,1,29379,Aftercare Kit
+28,Female,Tuesday,Pre-booked,Medium,Realism,Artist C,3,4898,Piercing
+34,Male,Sunday,Walk-in,Large,Tribal,Artist A,5,35044,Aftercare Kit
+49,Male,Wednesday,Pre-booked,Small,Minimalist,Artist C,1,29898,Consultation Fee
+32,Male,Thursday,Pre-booked,Sleeve/Back,Custom,Artist B,6,36807,Consultation Fee
+33,Male,Friday,Pre-booked,Medium,Tribal,Artist C,4,27842,Piercing
+39,Male,Monday,Walk-in,Small,Minimalist,Artist B,2,33409,Aftercare Kit
+50,Male,Friday,Walk-in,Medium,Script,Artist A,2,31651,Consultation Fee
+50,Male,Sunday,Pre-booked,Small,Minimalist,Artist B,2,7445,Consultation Fee
+50,Male,Wednesday,Pre-booked,Medium,Script,Artist A,2,2814,Consultation Fee
+30,Female,Tuesday,Walk-in,Large,Realism,Artist D,6,49958,Aftercare Kit
+50,Male,Wednesday,Walk-in,Sleeve/Back,Script,Artist D,6,16287,Aftercare Kit
+39,Male,Saturday,Pre-booked,Medium,Minimalist,Artist A,3,21384,Piercing
+19,Female,Tuesday,Pre-booked,Small,Custom,Artist B,2,17667,Piercing
+43,Female,Saturday,Pre-booked,Sleeve/Back,Script,Artist C,9,44443,Consultation Fee
+51,Female,Tuesday,Pre-booked,Small,Tribal,Artist C,2,3043,Piercing
+20,Male,Monday,Pre-booked,Small,Realism,Artist A,1,45845,Piercing
+23,Female,Wednesday,Walk-in,Large,Script,Artist D,6,21977,Aftercare Kit
+26,Male,Saturday,Pre-booked,Medium,Script,Artist C,4,12603,Aftercare Kit
+23,Female,Wednesday,Walk-in,Small,Tribal,Artist C,2,48091,Aftercare Kit
+49,Male,Monday,Walk-in,Small,Custom,Artist A,2,40250,Consultation Fee
+25,Male,Saturday,Pre-booked,Medium,Minimalist,Artist B,3,31808,Aftercare Kit
+45,Female,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist D,7,11084,Aftercare Kit
+28,Male,Friday,Pre-booked,Small,Minimalist,Artist B,2,14120,Aftercare Kit
+33,Male,Friday,Walk-in,Small,Custom,Artist D,2,43078,Aftercare Kit
+21,Male,Wednesday,Walk-in,Large,Script,Artist D,5,32428,Consultation Fee
+23,Female,Tuesday,Walk-in,Sleeve/Back,Minimalist,Artist B,7,48130,Aftercare Kit
+39,Male,Tuesday,Pre-booked,Large,Custom,Artist A,5,43510,Consultation Fee
+43,Male,Thursday,Pre-booked,Small,Realism,Artist A,1,2089,Aftercare Kit
+20,Male,Saturday,Walk-in,Sleeve/Back,Script,Artist B,6,43111,Consultation Fee
+31,Male,Sunday,Pre-booked,Medium,Minimalist,Artist A,4,6633,Consultation Fee
+28,Male,Sunday,Pre-booked,Small,Realism,Artist B,1,27223,Piercing
+40,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist D,3,36794,Consultation Fee
+29,Male,Sunday,Pre-booked,Small,Realism,Artist C,1,4143,Aftercare Kit
+30,Male,Sunday,Walk-in,Medium,Minimalist,Artist B,4,21437,Piercing
+53,Female,Sunday,Walk-in,Medium,Script,Artist D,3,47747,Consultation Fee
+25,Female,Saturday,Walk-in,Medium,Realism,Artist A,2,42140,Aftercare Kit
+46,Male,Monday,Pre-booked,Large,Script,Artist A,5,37549,Consultation Fee
+49,Male,Friday,Pre-booked,Sleeve/Back,Custom,Artist D,8,39698,Piercing
+35,Female,Saturday,Pre-booked,Small,Tribal,Artist D,2,7305,Aftercare Kit
+39,Male,Thursday,Pre-booked,Medium,Custom,Artist B,3,24000,Piercing
+54,Male,Monday,Pre-booked,Large,Minimalist,Artist B,6,5592,Consultation Fee
+45,Male,Thursday,Walk-in,Large,Script,Artist A,4,25854,Piercing
+27,Male,Friday,Pre-booked,Sleeve/Back,Script,Artist C,7,5379,Piercing
+32,Male,Wednesday,Pre-booked,Small,Custom,Artist D,1,25959,Consultation Fee
+50,Male,Friday,Pre-booked,Medium,Realism,Artist C,3,32497,Piercing
+24,Female,Sunday,Walk-in,Small,Custom,Artist D,1,42575,Piercing
+38,Female,Monday,Pre-booked,Medium,Tribal,Artist B,2,26014,Consultation Fee
+37,Male,Tuesday,Pre-booked,Medium,Custom,Artist A,4,38620,Piercing
+54,Male,Sunday,Walk-in,Small,Tribal,Artist C,2,48194,Aftercare Kit
+49,Female,Thursday,Pre-booked,Medium,Tribal,Artist C,2,11070,Consultation Fee
+53,Female,Tuesday,Walk-in,Small,Custom,Artist A,2,23949,Aftercare Kit
+53,Male,Sunday,Walk-in,Sleeve/Back,Tribal,Artist B,9,37365,Consultation Fee
+53,Female,Saturday,Walk-in,Large,Realism,Artist D,6,40018,Piercing
+35,Female,Thursday,Walk-in,Medium,Minimalist,Artist C,2,23001,Consultation Fee
+38,Male,Saturday,Pre-booked,Medium,Custom,Artist B,2,25115,Aftercare Kit
+32,Male,Thursday,Pre-booked,Small,Minimalist,Artist C,1,19521,Aftercare Kit
+50,Female,Thursday,Walk-in,Small,Custom,Artist A,1,35001,Piercing
+52,Female,Wednesday,Pre-booked,Medium,Minimalist,Artist A,2,46579,Piercing
+40,Female,Tuesday,Walk-in,Sleeve/Back,Minimalist,Artist D,9,26432,Aftercare Kit
+31,Male,Tuesday,Walk-in,Large,Script,Artist C,4,31649,Consultation Fee
+19,Female,Monday,Walk-in,Small,Minimalist,Artist A,1,33865,Aftercare Kit
+54,Male,Sunday,Walk-in,Small,Minimalist,Artist A,1,34863,Consultation Fee
+42,Male,Saturday,Walk-in,Sleeve/Back,Script,Artist B,9,32812,Aftercare Kit
+19,Male,Saturday,Pre-booked,Medium,Script,Artist C,3,36858,Piercing
+23,Male,Sunday,Pre-booked,Small,Custom,Artist C,2,46453,Aftercare Kit
+40,Male,Tuesday,Pre-booked,Small,Custom,Artist D,2,7721,Aftercare Kit
+28,Female,Thursday,Pre-booked,Medium,Realism,Artist A,2,27603,Consultation Fee
+27,Female,Sunday,Pre-booked,Small,Minimalist,Artist A,2,13718,Consultation Fee
+31,Male,Saturday,Pre-booked,Small,Realism,Artist C,1,7042,Aftercare Kit
+46,Male,Tuesday,Pre-booked,Medium,Script,Artist C,2,20084,Piercing
+27,Female,Tuesday,Walk-in,Medium,Script,Artist B,2,9341,Consultation Fee
+47,Male,Sunday,Walk-in,Small,Custom,Artist C,2,11696,Consultation Fee
+18,Male,Monday,Walk-in,Medium,Custom,Artist A,3,34527,Consultation Fee
+22,Female,Sunday,Pre-booked,Medium,Minimalist,Artist D,2,11863,Consultation Fee
+18,Female,Friday,Walk-in,Small,Custom,Artist D,2,3487,Consultation Fee
+54,Female,Monday,Pre-booked,Medium,Custom,Artist C,4,46721,Piercing
+45,Male,Thursday,Walk-in,Medium,Minimalist,Artist A,4,24721,Aftercare Kit
+32,Female,Sunday,Pre-booked,Small,Minimalist,Artist A,2,29533,Aftercare Kit
+23,Female,Monday,Pre-booked,Small,Minimalist,Artist A,2,31088,Piercing
+37,Female,Saturday,Walk-in,Small,Script,Artist C,1,44250,Piercing
+19,Female,Friday,Pre-booked,Medium,Realism,Artist B,4,21104,Aftercare Kit
+54,Female,Friday,Pre-booked,Sleeve/Back,Minimalist,Artist B,10,6125,Piercing
+37,Female,Tuesday,Pre-booked,Small,Minimalist,Artist C,1,3444,Piercing
+46,Male,Sunday,Walk-in,Medium,Realism,Artist D,3,36053,Piercing
+52,Female,Thursday,Pre-booked,Small,Minimalist,Artist D,2,24012,Aftercare Kit
+23,Male,Tuesday,Walk-in,Medium,Custom,Artist A,2,28980,Consultation Fee
+50,Male,Thursday,Pre-booked,Sleeve/Back,Minimalist,Artist A,7,44975,Piercing
+31,Male,Tuesday,Pre-booked,Small,Realism,Artist D,1,44339,Consultation Fee
+51,Male,Tuesday,Pre-booked,Small,Realism,Artist C,2,45637,Piercing
+46,Female,Monday,Walk-in,Sleeve/Back,Script,Artist B,7,36744,Aftercare Kit
+48,Male,Tuesday,Pre-booked,Sleeve/Back,Script,Artist B,8,37944,Aftercare Kit
+37,Female,Friday,Pre-booked,Large,Tribal,Artist B,5,32015,Aftercare Kit
+40,Female,Sunday,Pre-booked,Large,Realism,Artist D,4,21928,Aftercare Kit
+33,Male,Sunday,Walk-in,Medium,Minimalist,Artist A,2,39175,Piercing
+25,Female,Thursday,Pre-booked,Medium,Tribal,Artist A,2,10647,Consultation Fee
+25,Female,Thursday,Pre-booked,Small,Tribal,Artist A,2,19039,Piercing
+39,Female,Saturday,Walk-in,Sleeve/Back,Realism,Artist C,8,20883,Piercing
+43,Male,Monday,Pre-booked,Small,Script,Artist D,1,25142,Aftercare Kit
+27,Female,Saturday,Pre-booked,Medium,Tribal,Artist C,3,20637,Aftercare Kit
+47,Female,Friday,Pre-booked,Small,Custom,Artist B,1,31879,Aftercare Kit
+34,Female,Sunday,Pre-booked,Medium,Minimalist,Artist C,4,42542,Aftercare Kit
+25,Male,Sunday,Pre-booked,Medium,Script,Artist D,2,48649,Aftercare Kit
+44,Male,Tuesday,Walk-in,Medium,Minimalist,Artist A,4,20693,Piercing
+21,Male,Tuesday,Walk-in,Medium,Tribal,Artist A,2,48406,Aftercare Kit
+50,Male,Friday,Pre-booked,Medium,Script,Artist D,2,47407,Consultation Fee
+18,Female,Sunday,Pre-booked,Small,Minimalist,Artist C,2,45670,Aftercare Kit
+33,Male,Monday,Pre-booked,Small,Custom,Artist D,2,17591,Aftercare Kit
+31,Female,Thursday,Pre-booked,Medium,Script,Artist B,3,9662,Aftercare Kit
+22,Male,Friday,Walk-in,Medium,Script,Artist D,4,4696,Consultation Fee
+23,Female,Wednesday,Pre-booked,Small,Realism,Artist A,2,30894,Consultation Fee
+26,Other,Monday,Walk-in,Small,Tribal,Artist C,2,19066,Aftercare Kit
+42,Female,Wednesday,Pre-booked,Large,Custom,Artist A,5,14091,Aftercare Kit
+26,Female,Thursday,Pre-booked,Small,Realism,Artist B,2,38863,Consultation Fee
+30,Male,Monday,Walk-in,Small,Custom,Artist A,2,48342,Aftercare Kit
+51,Female,Wednesday,Walk-in,Small,Script,Artist C,2,24534,Aftercare Kit
+21,Female,Thursday,Pre-booked,Small,Realism,Artist B,1,11695,Aftercare Kit
+35,Male,Friday,Pre-booked,Medium,Realism,Artist A,3,12655,Aftercare Kit
+18,Female,Saturday,Walk-in,Medium,Tribal,Artist B,4,28513,Consultation Fee
+29,Female,Thursday,Walk-in,Medium,Realism,Artist C,4,37792,Aftercare Kit
+24,Female,Tuesday,Pre-booked,Small,Minimalist,Artist A,2,35253,Aftercare Kit
+32,Male,Wednesday,Pre-booked,Medium,Tribal,Artist B,3,23710,Piercing
+38,Female,Saturday,Pre-booked,Medium,Custom,Artist D,2,44417,Aftercare Kit
+36,Female,Thursday,Pre-booked,Small,Custom,Artist A,2,48232,Piercing
+46,Female,Wednesday,Pre-booked,Small,Minimalist,Artist A,1,21369,Piercing
+42,Female,Saturday,Walk-in,Small,Custom,Artist A,1,33058,Consultation Fee
+50,Female,Tuesday,Pre-booked,Medium,Custom,Artist B,4,20994,Consultation Fee
+49,Female,Sunday,Pre-booked,Medium,Script,Artist C,3,39599,Aftercare Kit
+52,Female,Wednesday,Pre-booked,Small,Realism,Artist C,1,45705,Aftercare Kit
+52,Male,Tuesday,Walk-in,Small,Tribal,Artist A,2,49745,Consultation Fee
+27,Male,Thursday,Walk-in,Small,Custom,Artist C,2,47163,Consultation Fee
+38,Male,Monday,Pre-booked,Medium,Minimalist,Artist B,3,4626,Consultation Fee
+25,Male,Wednesday,Walk-in,Small,Script,Artist A,1,46433,Aftercare Kit
+43,Female,Monday,Pre-booked,Small,Tribal,Artist A,1,28321,Consultation Fee
+22,Male,Monday,Walk-in,Medium,Minimalist,Artist D,2,31227,Aftercare Kit
+54,Female,Sunday,Walk-in,Small,Minimalist,Artist C,1,8060,Piercing
+32,Male,Friday,Pre-booked,Medium,Custom,Artist D,2,23388,Aftercare Kit
+32,Male,Wednesday,Walk-in,Sleeve/Back,Tribal,Artist C,10,41855,Piercing
+23,Female,Tuesday,Walk-in,Medium,Script,Artist A,3,14789,Piercing
+38,Female,Monday,Pre-booked,Small,Realism,Artist D,2,40235,Aftercare Kit
+33,Male,Tuesday,Pre-booked,Medium,Realism,Artist A,2,16558,Consultation Fee
+21,Male,Tuesday,Pre-booked,Large,Custom,Artist A,6,31193,Consultation Fee
+30,Female,Tuesday,Pre-booked,Medium,Custom,Artist B,2,46011,Aftercare Kit
+45,Female,Friday,Walk-in,Medium,Minimalist,Artist D,4,41654,Piercing
+52,Male,Monday,Pre-booked,Small,Minimalist,Artist B,1,35525,Aftercare Kit
+25,Male,Monday,Pre-booked,Large,Script,Artist B,6,5673,Consultation Fee
+53,Male,Monday,Pre-booked,Small,Script,Artist C,1,25662,Piercing
+47,Female,Thursday,Walk-in,Small,Script,Artist B,1,28054,Aftercare Kit
+35,Male,Thursday,Pre-booked,Medium,Tribal,Artist D,3,11695,Piercing
+21,Female,Tuesday,Pre-booked,Medium,Realism,Artist C,4,26224,Consultation Fee
+43,Male,Sunday,Walk-in,Medium,Tribal,Artist D,2,27304,Aftercare Kit
+42,Male,Saturday,Pre-booked,Sleeve/Back,Tribal,Artist C,6,26433,Consultation Fee
+47,Male,Thursday,Pre-booked,Medium,Custom,Artist A,4,2798,Aftercare Kit
+28,Male,Sunday,Pre-booked,Large,Realism,Artist B,4,20654,Aftercare Kit
+27,Female,Wednesday,Pre-booked,Small,Tribal,Artist C,1,22190,Aftercare Kit
+30,Female,Friday,Walk-in,Medium,Tribal,Artist D,4,31201,Aftercare Kit
+48,Female,Saturday,Pre-booked,Large,Tribal,Artist C,6,38767,Piercing
+24,Male,Sunday,Walk-in,Small,Custom,Artist D,1,7740,Consultation Fee
+53,Female,Thursday,Pre-booked,Small,Tribal,Artist A,1,16135,Piercing
+37,Female,Wednesday,Pre-booked,Large,Tribal,Artist D,6,49700,Piercing
+21,Male,Monday,Pre-booked,Small,Custom,Artist C,2,31112,Piercing
+39,Other,Wednesday,Walk-in,Small,Custom,Artist C,2,12734,Consultation Fee
+45,Female,Sunday,Walk-in,Sleeve/Back,Minimalist,Artist C,9,49749,Aftercare Kit
+26,Other,Sunday,Pre-booked,Medium,Tribal,Artist C,2,29144,Piercing
+26,Female,Friday,Walk-in,Medium,Tribal,Artist A,2,40481,Aftercare Kit
+32,Male,Monday,Pre-booked,Sleeve/Back,Tribal,Artist B,10,41186,Consultation Fee
+25,Other,Thursday,Pre-booked,Small,Script,Artist D,2,15617,Piercing
+43,Female,Friday,Pre-booked,Large,Realism,Artist B,6,36426,Piercing
+54,Male,Tuesday,Pre-booked,Small,Tribal,Artist A,2,6332,Aftercare Kit
+21,Male,Saturday,Walk-in,Large,Custom,Artist B,5,40710,Aftercare Kit
+36,Male,Monday,Pre-booked,Small,Minimalist,Artist A,2,7796,Aftercare Kit
+53,Male,Saturday,Pre-booked,Medium,Script,Artist C,3,2433,Aftercare Kit
+27,Male,Sunday,Pre-booked,Medium,Custom,Artist D,4,28834,Aftercare Kit
+36,Male,Friday,Walk-in,Medium,Tribal,Artist D,4,29165,Piercing
+27,Female,Saturday,Walk-in,Medium,Minimalist,Artist A,4,38425,Aftercare Kit
+22,Male,Thursday,Walk-in,Small,Realism,Artist C,1,48546,Consultation Fee
+38,Male,Sunday,Pre-booked,Medium,Realism,Artist D,3,14190,Aftercare Kit
+39,Male,Wednesday,Walk-in,Large,Minimalist,Artist D,5,20970,Aftercare Kit
+32,Male,Friday,Pre-booked,Small,Custom,Artist D,1,34151,Piercing
+52,Female,Thursday,Pre-booked,Medium,Script,Artist A,3,4767,Consultation Fee
+45,Male,Wednesday,Pre-booked,Small,Custom,Artist C,1,21791,Aftercare Kit
+24,Male,Wednesday,Walk-in,Small,Script,Artist A,1,40352,Aftercare Kit
+30,Male,Wednesday,Walk-in,Large,Custom,Artist A,5,3758,Piercing
+42,Male,Friday,Walk-in,Small,Tribal,Artist C,1,2160,Aftercare Kit
+19,Male,Wednesday,Walk-in,Large,Realism,Artist B,6,12094,Aftercare Kit
+52,Female,Wednesday,Walk-in,Large,Custom,Artist B,5,19214,Consultation Fee
+24,Female,Tuesday,Walk-in,Sleeve/Back,Realism,Artist D,10,21671,Piercing
+38,Male,Friday,Walk-in,Medium,Minimalist,Artist B,4,43979,Aftercare Kit
+35,Female,Wednesday,Pre-booked,Medium,Minimalist,Artist D,4,43717,Aftercare Kit
+20,Male,Wednesday,Pre-booked,Medium,Minimalist,Artist A,4,32968,Aftercare Kit
+41,Female,Tuesday,Pre-booked,Medium,Minimalist,Artist C,2,44848,Aftercare Kit
+49,Male,Monday,Pre-booked,Large,Custom,Artist C,5,13755,Aftercare Kit
+53,Male,Saturday,Walk-in,Large,Custom,Artist B,4,34236,Piercing
+54,Female,Thursday,Pre-booked,Medium,Minimalist,Artist B,2,47078,Aftercare Kit
+50,Male,Friday,Walk-in,Small,Custom,Artist A,2,44256,Consultation Fee
+53,Male,Saturday,Walk-in,Large,Minimalist,Artist A,5,18039,Aftercare Kit
+50,Female,Friday,Pre-booked,Small,Script,Artist C,2,34312,Consultation Fee
+23,Female,Sunday,Pre-booked,Large,Tribal,Artist D,5,6372,Consultation Fee
+30,Male,Saturday,Pre-booked,Small,Minimalist,Artist D,2,25708,Piercing
+44,Other,Thursday,Pre-booked,Large,Script,Artist D,6,39065,Consultation Fee
+49,Female,Tuesday,Pre-booked,Small,Realism,Artist C,1,30578,Piercing
+38,Male,Monday,Walk-in,Small,Minimalist,Artist A,2,18902,Consultation Fee
+25,Male,Friday,Pre-booked,Medium,Tribal,Artist C,3,43156,Aftercare Kit
+25,Male,Tuesday,Pre-booked,Large,Script,Artist D,4,46951,Aftercare Kit
+20,Female,Tuesday,Pre-booked,Sleeve/Back,Realism,Artist C,9,33197,Aftercare Kit
+20,Male,Monday,Pre-booked,Large,Minimalist,Artist C,6,47498,Aftercare Kit
+19,Male,Sunday,Pre-booked,Small,Realism,Artist A,2,35588,Piercing
+51,Female,Friday,Pre-booked,Large,Tribal,Artist A,4,40119,Consultation Fee
+40,Male,Tuesday,Pre-booked,Medium,Minimalist,Artist A,2,5834,Aftercare Kit
+30,Male,Thursday,Walk-in,Small,Realism,Artist B,1,25421,Piercing
+46,Female,Thursday,Pre-booked,Sleeve/Back,Realism,Artist D,10,12702,Aftercare Kit
+48,Male,Wednesday,Walk-in,Small,Custom,Artist A,1,5466,Aftercare Kit
+25,Male,Thursday,Walk-in,Small,Realism,Artist A,1,21114,Aftercare Kit
+33,Male,Saturday,Pre-booked,Medium,Script,Artist C,2,7034,Aftercare Kit
+47,Female,Thursday,Pre-booked,Small,Realism,Artist C,1,35676,Aftercare Kit
+45,Female,Wednesday,Walk-in,Small,Realism,Artist D,2,43158,Aftercare Kit
+22,Male,Thursday,Pre-booked,Small,Minimalist,Artist A,1,14009,Consultation Fee
+37,Male,Tuesday,Pre-booked,Sleeve/Back,Minimalist,Artist B,7,8193,Piercing
+38,Male,Monday,Pre-booked,Medium,Realism,Artist B,3,37632,Consultation Fee
+37,Female,Wednesday,Pre-booked,Small,Script,Artist A,1,23142,Consultation Fee
+25,Female,Wednesday,Walk-in,Large,Realism,Artist B,5,19790,Consultation Fee
+49,Male,Tuesday,Pre-booked,Medium,Script,Artist B,4,46921,Piercing
+50,Male,Monday,Pre-booked,Small,Realism,Artist C,1,47741,Consultation Fee
+29,Male,Sunday,Walk-in,Medium,Realism,Artist A,3,25758,Aftercare Kit
+51,Male,Sunday,Pre-booked,Medium,Custom,Artist B,3,8280,Piercing
+31,Male,Thursday,Pre-booked,Large,Script,Artist C,4,37023,Aftercare Kit
+53,Female,Thursday,Walk-in,Medium,Tribal,Artist C,3,40013,Consultation Fee
+40,Female,Wednesday,Walk-in,Large,Realism,Artist C,5,11418,Aftercare Kit
+19,Male,Wednesday,Walk-in,Small,Tribal,Artist B,1,35958,Piercing
+28,Female,Saturday,Pre-booked,Small,Custom,Artist A,2,29000,Piercing
+20,Male,Tuesday,Pre-booked,Medium,Minimalist,Artist D,3,24302,Aftercare Kit
+40,Male,Sunday,Walk-in,Small,Realism,Artist A,1,12684,Aftercare Kit
+23,Male,Tuesday,Walk-in,Medium,Custom,Artist B,3,34989,Piercing
+52,Male,Tuesday,Walk-in,Small,Realism,Artist B,2,16490,Aftercare Kit
+32,Male,Thursday,Walk-in,Medium,Script,Artist D,4,38612,Consultation Fee
+54,Male,Saturday,Pre-booked,Small,Realism,Artist C,1,47197,Consultation Fee
+29,Female,Sunday,Pre-booked,Small,Minimalist,Artist D,1,36449,Piercing
+35,Other,Monday,Pre-booked,Medium,Script,Artist D,4,36871,Piercing
+52,Female,Friday,Pre-booked,Small,Custom,Artist B,2,48697,Piercing
+47,Male,Monday,Pre-booked,Small,Realism,Artist D,2,38117,Piercing
+41,Female,Sunday,Walk-in,Small,Realism,Artist A,2,48023,Aftercare Kit
+47,Male,Monday,Walk-in,Large,Tribal,Artist B,5,9468,Piercing
+31,Male,Thursday,Walk-in,Large,Minimalist,Artist D,4,29351,Aftercare Kit
+23,Male,Friday,Walk-in,Large,Realism,Artist A,5,32178,Aftercare Kit
+33,Male,Sunday,Pre-booked,Medium,Custom,Artist B,4,9639,Piercing
+38,Male,Thursday,Pre-booked,Large,Custom,Artist C,5,22419,Aftercare Kit
+19,Female,Friday,Pre-booked,Medium,Script,Artist A,3,30962,Aftercare Kit
+52,Male,Sunday,Pre-booked,Medium,Minimalist,Artist A,2,41167,Piercing
+35,Male,Saturday,Walk-in,Large,Script,Artist C,4,36283,Aftercare Kit
+35,Male,Monday,Walk-in,Medium,Custom,Artist B,3,48523,Piercing
+19,Female,Friday,Pre-booked,Medium,Minimalist,Artist D,2,9772,Consultation Fee
+53,Male,Tuesday,Walk-in,Sleeve/Back,Script,Artist A,6,47497,Aftercare Kit
+31,Male,Monday,Walk-in,Small,Tribal,Artist A,1,47091,Piercing
+52,Male,Tuesday,Walk-in,Medium,Custom,Artist B,4,15752,Consultation Fee
+23,Female,Thursday,Walk-in,Small,Tribal,Artist B,1,10533,Piercing
+42,Female,Monday,Pre-booked,Large,Minimalist,Artist C,5,7151,Piercing
+51,Male,Saturday,Pre-booked,Small,Minimalist,Artist B,2,47273,Aftercare Kit
+38,Male,Tuesday,Pre-booked,Large,Custom,Artist C,5,7094,Aftercare Kit
+51,Female,Sunday,Walk-in,Small,Realism,Artist A,1,3232,Piercing
+21,Male,Tuesday,Walk-in,Large,Script,Artist A,6,33736,Piercing
+21,Male,Monday,Pre-booked,Sleeve/Back,Script,Artist C,10,14868,Piercing
+29,Male,Friday,Walk-in,Medium,Minimalist,Artist A,4,9065,Aftercare Kit
+49,Female,Thursday,Pre-booked,Medium,Realism,Artist A,4,45239,Piercing
+49,Female,Saturday,Pre-booked,Medium,Custom,Artist A,2,21768,Piercing
+46,Male,Sunday,Walk-in,Large,Realism,Artist B,5,45750,Consultation Fee
+19,Male,Saturday,Pre-booked,Medium,Minimalist,Artist B,2,2673,Aftercare Kit
