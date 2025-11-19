@@ -7,7 +7,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import mean_squared_error, r2_score, accuracy_score, classification_report
-
+from sklearn.model_selection import GridSearchCV
 
 def dividir_variables(df, objetivo):
     """
@@ -26,11 +26,7 @@ def dividir_datos(X, y, test_size=0.2, random_state=42):
 
 
 def pipeline_preprocesamiento(X):
-    """
-    Crea un pipeline de preprocesamiento:
-    - OneHot para categóricas
-    - Escalado para numéricas
-    """
+
     columnas_categoricas = X.select_dtypes(include=['object']).columns
     columnas_numericas = X.select_dtypes(include=['int64', 'float64']).columns
 
@@ -78,10 +74,24 @@ def evaluar_regresion(modelo, X_test, y_test):
 
 
 def evaluar_clasificacion(modelo, X_test, y_test):
-    """
-    Evalúa la clasificación (si aplica).
-    """
     pred = modelo.predict(X_test)
     acc = accuracy_score(y_test, pred)
     reporte = classification_report(y_test, pred)
     return acc, reporte
+from sklearn.linear_model import LogisticRegressionCV
+from sklearn.pipeline import Pipeline
+
+def entrenar_logreg_cv(preprocesamiento, X_train, y_train):
+    modelo = Pipeline([
+        ("prep", preprocesamiento),
+        ("clf", LogisticRegressionCV(
+            cv=5,
+            scoring="accuracy",
+            max_iter=1000,
+            Cs=10,
+            solver="lbfgs",
+            multi_class="auto"
+        ))
+    ])
+    modelo.fit(X_train, y_train)
+    return modelo
