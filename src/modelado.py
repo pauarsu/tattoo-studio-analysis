@@ -85,5 +85,5 @@ def graficar_matriz_confusion(cm):
     plt.show()
 
 def predecir(modelo, df):
-    df["Predicted_Session"] = modelo.predict(X)
+    df["Predicted_Session"] = modelo.predict(df)
     return df
